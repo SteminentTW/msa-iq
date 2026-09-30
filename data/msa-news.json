@@ -1,5 +1,40 @@
 [
   {
+    "id": "km819-dili-discovered-2026-09",
+    "date": "2026-09-28",
+    "dateDisplay": "2026/09",
+    "level": "neg",
+    "tag": "主動盤點新收錄 · 安全性",
+    "body": "<b>本站主動盤點發現一個先前未追蹤的資產：Kainos Medicine（韓國）的 KM-819</b>（FAF1 小分子抑制劑，口服）。其 Ph2 試驗（NCT05695378，南韓 68 人）已於<b>2024 年因安全性問題終止</b>；2026-09-28 刊出的回溯藥物基因體學分析首度揭露具體數字：<b>34 名治療病人中 9 人（26%）經獨立委員會判定為藥物性肝損傷（DILI）</b>，安慰劑組無一例，並提出候選風險基因標記 <b>HLA-DPB1*05:01:01:01</b>（樣本極小、屬假說生成）。",
+    "note": "→ MSA 領域第四個由本站主動盤點發現、因安全性或療效問題止步的資產，也是首個因<b>肝毒性</b>而非療效未達標而終止者。",
+    "links": [
+      {
+        "label": "ClinicalTrials NCT05695378 ↗",
+        "url": "https://clinicaltrials.gov/study/NCT05695378"
+      },
+      {
+        "label": "論文 ↗ PubMed 42805974",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42805974/"
+      }
+    ],
+    "en": {
+      "dateDisplay": "2026/09",
+      "tag": "Newly added via active discovery · safety",
+      "body": "<b>This site's active discovery process surfaced a previously untracked asset: Kainos Medicine's (South Korea) KM-819</b> (an oral small-molecule FAF1 inhibitor). Its Ph2 trial (NCT05695378, 68 patients in South Korea) was <b>terminated for a safety issue in 2024</b>; a retrospective pharmacogenomic analysis published 2026-09-28 revealed the specific figures for the first time: <b>9 of 34 treated patients (26%) were adjudicated as drug-induced liver injury (DILI)</b> by an independent committee, versus none on placebo, and proposed a candidate risk allele, <b>HLA-DPB1*05:01:01:01</b> (very small sample, hypothesis-generating).",
+      "note": "→ The fourth MSA asset found here via active discovery to have been halted for safety or efficacy, and the first halted for hepatotoxicity rather than a missed efficacy endpoint.",
+      "links": [
+        {
+          "label": "ClinicalTrials NCT05695378 ↗",
+          "url": "https://clinicaltrials.gov/study/NCT05695378"
+        },
+        {
+          "label": "Paper ↗ PubMed 42805974",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42805974/"
+        }
+      ]
+    }
+  },
+  {
     "id": "tak341-ph2-fail-2026",
     "date": "2025-10-31",
     "dateDisplay": "2025/10 財報揭露 · 2026/03 AD/PD 完整發表",
@@ -119,76 +154,6 @@
         {
           "label": "SCA-IQ Partnering ↗",
           "url": "https://steminenttw.github.io/sca-iq/#pa"
-        }
-      ]
-    }
-  },
-  {
-    "id": "asyn-pet-tracers-2026-07",
-    "date": "2026-07-30",
-    "dateDisplay": "2026/07",
-    "level": "info",
-    "tag": "生物標記",
-    "body": "掃描盤點目前已登錄的 <b>α-synuclein PET 造影示蹤劑臨床研究</b>，MSA 均列為目標族群：<b>MODAG GmbH</b> 的 [¹⁸F]MODAG-009（NCT07640555，Early Ph1，n=13，收案中，美國 Institute for Neurodegenerative Disorders／XingImaging，主要指標 SUVR，主要完成估 2027/05）與 [¹¹C]MODAG-005 再測信度先導研究（NCT07640542，Early Ph1，<b>2026/07/29 已啟動收案</b>，n=9、德國圖賓根大學醫院核醫科單中心，主要指標為注射後 4 日內之安全性與耐受性，主要完成估 2027/07）；另有 <b>Synusight Biotech（上海）</b>的 SST001（NCT07604116，Ph1、n=30，2026/06/15 起於上海華山醫院與江南大學附屬醫院收案，評估安全性、生物分佈、輻射劑量與藥動，主要完成估 2026/12）。",
-    "note": "→ 這些是造影示蹤劑而非治療藥物，故未列入試驗雷達。MSA 目前缺乏可在活體量化 α-synuclein 病理負荷的工具，臨床試驗多依賴 UMSARS 與腦部體積等間接指標；若示蹤劑取得驗證，將影響未來試驗的受試者分層與藥效藥理終點設計。",
-    "links": [
-      {
-        "label": "[¹⁸F]MODAG-009 ↗ NCT07640555",
-        "url": "https://clinicaltrials.gov/study/NCT07640555"
-      },
-      {
-        "label": "[¹¹C]MODAG-005 ↗ NCT07640542",
-        "url": "https://clinicaltrials.gov/study/NCT07640542"
-      },
-      {
-        "label": "SST001 ↗ NCT07604116",
-        "url": "https://clinicaltrials.gov/study/NCT07604116"
-      }
-    ],
-    "en": {
-      "dateDisplay": "2026/07",
-      "tag": "Biomarkers",
-      "body": "The sweep took stock of the <b>α-synuclein PET tracer studies currently registered</b>, all of which include MSA as a target population: <b>MODAG GmbH</b>'s [¹⁸F]MODAG-009 (NCT07640555, Early Ph1, n=13, recruiting at the Institute for Neurodegenerative Disorders / XingImaging in the US, SUVR as the primary measure, primary completion estimated 2027/05) and its [¹¹C]MODAG-005 test-retest pilot (NCT07640542, Early Ph1, which <b>opened to recruitment on 29 July 2026</b> with n=9 at a single site, the nuclear medicine department of Tübingen University Hospital in Germany, safety and tolerability through four days post-injection as the primary measure and primary completion estimated 2027/07); plus <b>Synusight Biotech (Shanghai)</b>'s SST001 (NCT07604116, Ph1, n=30, recruiting since 15 June 2026 at Huashan Hospital in Shanghai and the Affiliated Hospital of Jiangnan University, assessing safety, biodistribution, radiation dosimetry and pharmacokinetics, primary completion estimated 2026/12).",
-      "note": "→ These are imaging tracers rather than treatments, so they are not listed on the trial radar. MSA currently lacks a tool for quantifying α-synuclein pathology in living patients, and trials rely on indirect measures such as UMSARS and brain volume; a validated tracer would change how future trials stratify participants and design pharmacodynamic endpoints.",
-      "links": [
-        {
-          "label": "[¹⁸F]MODAG-009 ↗ NCT07640555",
-          "url": "https://clinicaltrials.gov/study/NCT07640555"
-        },
-        {
-          "label": "[¹¹C]MODAG-005 ↗ NCT07640542",
-          "url": "https://clinicaltrials.gov/study/NCT07640542"
-        },
-        {
-          "label": "SST001 ↗ NCT07604116",
-          "url": "https://clinicaltrials.gov/study/NCT07604116"
-        }
-      ]
-    }
-  },
-  {
-    "id": "ath434-ph3-fda-2026-07",
-    "date": "2026-07-07",
-    "dateDisplay": "2026/07",
-    "level": "info",
-    "tag": "法規里程碑",
-    "body": "<b>Alterity ATH434</b> 公布 FDA End-of-Phase-2 會議紀錄，確認 MSA 註冊路徑：Ph3 約 <b>200 人</b>、1:1 隨機 50mg 或安慰劑、每日兩次共 12 個月，主要終點 <b>11 項 UMSARS Part I</b>，次要終點含吞嚥障礙問卷、姿勢性低血壓症狀評估與 CGI-S；FDA 同意單一樞紐試驗加確認性證據即可支持核准。",
-    "note": "→ 公司稱 2026 年底前啟動 Ph3 作業。這是 MSA 領域少見已與 FDA 就樞紐設計取得一致的案例。",
-    "links": [
-      {
-        "label": "新聞稿 ↗",
-        "url": "https://www.biospace.com/press-releases/alterity-therapeutics-receives-fda-end-of-phase-2-meeting-minutes-confirming-registrational-pathway-for-ath434-in-multiple-system-atrophy"
-      }
-    ],
-    "en": {
-      "dateDisplay": "2026/07",
-      "tag": "Regulatory milestone",
-      "body": "<b>Alterity's ATH434</b> released FDA End-of-Phase-2 meeting minutes confirming its registrational pathway in MSA: a Ph3 of roughly <b>200 patients</b> randomised 1:1 to 50mg or placebo twice daily for 12 months, with the <b>11-item UMSARS Part I</b> as the primary endpoint and secondary endpoints including the Swallowing Disturbance Questionnaire, the Orthostatic Hypotension Symptom Assessment and CGI-S. The FDA agreed that a single pivotal trial plus confirmatory evidence could support approval.",
-      "note": "→ The company says Ph3 activities will begin by the end of 2026. Few MSA programmes have reached explicit FDA alignment on a pivotal design.",
-      "links": [
-        {
-          "label": "Press release ↗",
-          "url": "https://www.biospace.com/press-releases/alterity-therapeutics-receives-fda-end-of-phase-2-meeting-minutes-confirming-registrational-pathway-for-ath434-in-multiple-system-atrophy"
         }
       ]
     }

@@ -1,5 +1,45 @@
 [
   {
+    "id": "km-819",
+    "company": "Kainos Medicine, Inc.（韓國）",
+    "drug": "KM-819",
+    "mechanism": "FAF1（Fas-associated factor 1）小分子抑制劑，口服",
+    "phase": "Ph2（已終止）",
+    "status": "<b>本站主動盤點後新收錄——Ph2 試驗（NCT05695378）已因安全性問題終止</b>。隨機雙盲安慰劑對照，於南韓收案 68 人（KM-819 400mg／日口服 vs 安慰劑），2023-02 起始、2024-08 完成、2024-09 登錄狀態更新為<b>終止（Terminated）</b>，登錄之終止原因為「主辦方因安全性問題決定撤回本試驗並以新試驗重啟」。<b>2026-09-28 刊出之藥物基因體學回溯分析</b>（The Pharmacogenomics Journal）揭露：34 名 KM-819 治療病人中<b>經獨立肝臟裁決委員會判定 9 人（26%）為 KM-819 相關藥物性肝損傷（DILI）</b>，安慰劑組（34 人）無一例；後續探索性基因分析（僅 16 人、6 例 DILI）發現 <b>HLA-DPB1*05:01:01:01 等位基因</b>與 DILI 高度相關（6 例 DILI 全帶有 vs 10 例無 DILI 僅 1 人帶有，p=0.0009），惟樣本極小、作者自陳屬假說生成、須獨立世代驗證。⚠️ <b>目前無任何療效數據公開讀出</b>——試驗因安全性終止,未完成其療效評估。",
+    "highlight": false,
+    "relevance": "口服小分子、非細胞治療，因藥物性肝損傷（DILI）安全性問題終止——MSA 領域第四個由安全性或療效問題止步之藥物資產",
+    "note": "→ 與 Biohaven verdiperstat（M-STAR Ph3失敗，2021）、Ionis/Biogen ION464（終止，2025）、Takeda TAK-341（樞紐 Ph2失敗，2025-10揭露）並列，是本站主動盤點陸續發現的又一個止步案例，但性質不同——<b>前三者是療效未達標，KM-819 是安全性（肝毒性）導致終止</b>，且是唯一標的機轉為 FAF1（細胞凋亡調控蛋白）而非 α-synuclein 的案例。2026年的回溯分析首度提出候選藥物基因體學風險標記（HLA-DPB1*05:01:01:01），若獲驗證，未來或可用於篩檢高肝毒性風險病人，對評估其他口服小分子的肝安全性監測設計具參考價值。⚠️ 公開來源未見主辦方公布是否／何時以「新試驗重啟」（如終止原因所述）。",
+    "category": "dmt",
+    "sources": [
+      {
+        "label": "試驗登錄 NCT05695378",
+        "url": "https://clinicaltrials.gov/study/NCT05695378"
+      },
+      {
+        "label": "藥物基因體學回溯分析論文 PubMed 42805974（2026/09/28）",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42805974/"
+      }
+    ],
+    "en": {
+      "company": "Kainos Medicine, Inc. (South Korea)",
+      "mechanism": "Small-molecule inhibitor of FAF1 (Fas-associated factor 1), oral",
+      "phase": "Ph2 (terminated)",
+      "status": "<b>Newly added here following active discovery — the Ph2 trial (NCT05695378) was terminated for a safety issue</b>. Randomised, double-blind, placebo-controlled, enrolling 68 patients in South Korea (KM-819 400mg/day oral vs placebo), started 2023-02, completed 2024-08, with the registration updated to <b>Terminated</b> in September 2024, stating: \"Sponsor has decided to withdraw the study due to safety issue and re-initiate with a new clinical study.\" A <b>retrospective pharmacogenomic analysis published 2026-09-28</b> (The Pharmacogenomics Journal) disclosed that among 34 KM-819-treated patients, an <b>independent hepatic adjudication committee confirmed 9 (26%) as KM-819-related drug-induced liver injury (DILI)</b>, with no cases among the 34 placebo patients; a subsequent exploratory genetic analysis (only 16 patients, 6 DILI cases) found the <b>HLA-DPB1*05:01:01:01 allele</b> strongly associated with DILI (present in all 6 DILI cases vs only 1 of 10 without DILI, p=0.0009), though the sample is very small and the authors themselves describe this as hypothesis-generating, requiring independent validation. ⚠️ <b>No efficacy data have been read out publicly</b> — the trial was halted for safety before its efficacy assessment was completed.",
+      "relevance": "An oral small molecule, not a cell therapy, halted over drug-induced liver injury (DILI) — the fourth MSA drug asset found here to have been stopped for a safety or efficacy problem",
+      "note": "→ Alongside Biohaven's verdiperstat (M-STAR Ph3 failure, 2021), Ionis/Biogen's ION464 (discontinued, 2025) and Takeda's TAK-341 (pivotal Ph2 failure, disclosed 2025-10), this is another halted programme surfaced through this site's active discovery — but of a different character: <b>the first three failed on efficacy, whereas KM-819 was halted for safety (hepatotoxicity)</b>, and it is the only one targeting FAF1 (a cell-death regulatory protein) rather than alpha-synuclein. The 2026 retrospective analysis is the first to propose a candidate pharmacogenomic risk marker (HLA-DPB1*05:01:01:01), which if validated could in principle screen for patients at higher hepatotoxicity risk — informative for how other oral small molecules in this space might design liver-safety monitoring. ⚠️ Public sources give no indication of whether or when the sponsor has restarted with the \"new clinical study\" referenced in the termination reason.",
+      "sources": [
+        {
+          "label": "Registry NCT05695378",
+          "url": "https://clinicaltrials.gov/study/NCT05695378"
+        },
+        {
+          "label": "Retrospective pharmacogenomic analysis, PubMed 42805974 (2026/09/28)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42805974/"
+        }
+      ]
+    }
+  },
+  {
     "id": "alt001",
     "company": "北京天壇醫院研究者發起（主辦者即主持人：王擁軍／Yilong Wang，中國）",
     "drug": "ALT001",
@@ -446,16 +486,16 @@
     "drug": "Foralumab（鼻噴）",
     "mechanism": "全人源 anti-CD3 單株抗體，經鼻黏膜免疫調節、降低微膠細胞活化",
     "phase": "Ph2a（NCT06868628）",
-    "status": "收案中",
+    "status": "收案中；<b>2026-09-30 公司宣布已向 FDA 提交 MSA 適應症孤兒藥資格（Orphan Drug Designation）申請</b>",
     "highlight": false,
     "relevance": "免疫調節路線（與 MSC 抗神經發炎機制相鄰）",
-    "note": "→ 以 PET 影像測微膠細胞活化為主要評估。2026/05/14 公司公布前 2 名 MSA 受試者的定量 PET：基底核與視丘攝取顯著下降；2026/07/31 追加公布第 3 名受試者，SUV 降約 34%、SUVR 降約 26%。**累計僅 3 人、開放標籤無對照，尚無臨床療效數據。**",
+    "note": "→ 以 PET 影像測微膠細胞活化為主要評估。2026/05/14 公司公布前 2 名 MSA 受試者的定量 PET：基底核與視丘攝取顯著下降；2026/07/31 追加公布第 3 名受試者，SUV 降約 34%、SUVR 降約 26%。**累計僅 3 人、開放標籤無對照，尚無臨床療效數據。**2026-09-30 新聞稿：公司已就鼻噴 foralumab 治療 MSA 向美國 FDA 提交<b>孤兒藥資格</b>申請，屬<b>申請中、尚未獲核准</b>；新聞稿並補充試驗設計細節：Ph2a 為 6 個月開放標籤研究，共 8 個為期 3 週的給藥週期，於美國波士頓布萊根婦女醫院（Brigham and Women's Hospital）進行，主持人為 Vikram Khurana 醫師。⚠️ 孤兒藥資格申請本身不涉及療效或安全性資料，僅為法規里程碑。",
     "en": {
       "mechanism": "Fully human anti-CD3 monoclonal antibody given nasally; immune modulation reducing microglial activation",
       "phase": "Ph2a (NCT06868628)",
-      "status": "Recruiting",
+      "status": "Recruiting; <b>on 2026-09-30 the company announced it had filed for FDA Orphan Drug Designation in MSA</b>",
       "relevance": "Immune-modulation route (adjacent to the anti-neuroinflammatory MSC mechanism)",
-      "note": "Microglial activation on PET is the primary measure. On 2026/05/14 the company reported quantitative PET from its first 2 MSA patients: significantly reduced basal ganglia and thalamic uptake; on 2026/07/31 it added a 3rd patient, showing ~34% SUV and ~26% SUVR reduction. **Only 3 patients cumulative, open-label and uncontrolled, with no clinical efficacy data yet.**",
+      "note": "Microglial activation on PET is the primary measure. On 2026/05/14 the company reported quantitative PET from its first 2 MSA patients: significantly reduced basal ganglia and thalamic uptake; on 2026/07/31 it added a 3rd patient, showing ~34% SUV and ~26% SUVR reduction. **Only 3 patients cumulative, open-label and uncontrolled, with no clinical efficacy data yet.** A 2026-09-30 press release states the company has filed for <b>Orphan Drug Designation</b> with the FDA for nasal foralumab in MSA — this is a <b>pending application, not yet granted</b>; the release also gives trial design detail: the Ph2a is a 6-month open-label study with eight 3-week dosing cycles, conducted at Brigham and Women's Hospital in Boston under principal investigator Dr Vikram Khurana. ⚠️ An orphan drug filing carries no efficacy or safety data of its own — it is a regulatory milestone only.",
       "drug": "Foralumab (nasal)",
       "sources": [
         {
@@ -469,6 +509,10 @@
         {
           "label": "Tiziana 3rd-patient release, 2026/07/31",
           "url": "https://www.globenewswire.com/news-release/2026/07/31/3336721/0/en/Tiziana-Reports-Reduction-in-Brain-Inflammation-in-Third-Multiple-System-Atrophy-Patient-Treated-with-Intranasal-Foralumab.html"
+        },
+        {
+          "label": "Tiziana Orphan Drug Designation filing release, 2026/09/30",
+          "url": "https://www.globenewswire.com/news-release/2026/09/30/3371756/0/en/tiziana-life-sciences-files-for-orphan-drug-designation-with-the-fda-for-intranasal-foralumab-for-the-treatment-of-multiple-system-atrophy-msa.html"
         }
       ]
     },
@@ -484,6 +528,10 @@
       {
         "label": "Tiziana 第3名受試者新聞稿 2026/07/31",
         "url": "https://www.globenewswire.com/news-release/2026/07/31/3336721/0/en/Tiziana-Reports-Reduction-in-Brain-Inflammation-in-Third-Multiple-System-Atrophy-Patient-Treated-with-Intranasal-Foralumab.html"
+      },
+      {
+        "label": "Tiziana 孤兒藥資格申請新聞稿 2026/09/30",
+        "url": "https://www.globenewswire.com/news-release/2026/09/30/3371756/0/en/tiziana-life-sciences-files-for-orphan-drug-designation-with-the-fda-for-intranasal-foralumab-for-the-treatment-of-multiple-system-atrophy-msa.html"
       }
     ]
   },

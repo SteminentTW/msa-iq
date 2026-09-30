@@ -1,5 +1,22 @@
 [
   {
+    "nct": "NCT05695378",
+    "drug": "KM-819",
+    "mechanism": "FAF1（Fas-associated factor 1）小分子抑制劑（口服）",
+    "phase": "Ph2",
+    "status": "<b>本站主動盤點後新收錄——已終止</b>。隨機雙盲安慰劑對照，南韓收案 <b>68 人</b>（KM-819 400mg／日口服 vs 安慰劑），2023-02-27 起始、2024-08-19 完成、登錄於 2024-09-19 更新為 <b>Terminated</b>，登錄載明終止原因為「主辦方因安全性問題決定撤回本試驗並以新試驗重啟」。<b>2026-09-28 刊出之回溯藥物基因體學分析</b>揭露：34 名治療病人中 9 人（26%）經獨立委員會判定為 KM-819 相關<b>藥物性肝損傷（DILI）</b>，安慰劑組無一例；探索性基因分析（n=16）發現 <b>HLA-DPB1*05:01:01:01</b> 等位基因與 DILI 高度相關，惟樣本極小、屬假說生成。⚠️ <b>試驗因安全性終止，未完成療效評估，無任何療效數據公開讀出</b>。",
+    "sponsor": "Kainos Medicine, Inc.（韓國）",
+    "cell": false,
+    "primary": "2024-08",
+    "url": "https://clinicaltrials.gov/study/NCT05695378",
+    "en": {
+      "mechanism": "Small-molecule inhibitor of FAF1 (Fas-associated factor 1) (oral)",
+      "phase": "Ph2",
+      "status": "<b>Newly recorded here following active discovery — terminated</b>. Randomised, double-blind, placebo-controlled, enrolling <b>68 patients</b> in South Korea (KM-819 400mg/day oral vs placebo), started 2023-02-27, completed 2024-08-19, with the registration updated to <b>Terminated</b> on 2024-09-19, stating the reason as \"Sponsor has decided to withdraw the study due to safety issue and re-initiate with a new clinical study.\" A <b>retrospective pharmacogenomic analysis published 2026-09-28</b> disclosed that 9 of 34 treated patients (26%) were adjudicated by an independent committee as having KM-819-related <b>drug-induced liver injury (DILI)</b>, versus none on placebo; an exploratory genetic analysis (n=16) found the <b>HLA-DPB1*05:01:01:01</b> allele strongly associated with DILI, though the sample is very small and the finding is hypothesis-generating. ⚠️ <b>The trial was terminated for safety before completing its efficacy assessment, and no efficacy data have been read out publicly.</b>",
+      "sponsor": "Kainos Medicine, Inc. (South Korea)"
+    }
+  },
+  {
     "nct": "NCT07825402",
     "drug": "ONO-2808",
     "mechanism": "S1P5 受體促效劑（口服）",

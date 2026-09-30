@@ -1,5 +1,44 @@
 [
   {
+    "id": "km819-dili-2026",
+    "date": "2026-09-28",
+    "dateDisplay": "2024/09 試驗終止 · 2026/09 藥物基因體學分析刊出",
+    "competitor": "Kainos Medicine",
+    "drug": "KM-819",
+    "trial": "NCT05695378 · Ph2（隨機雙盲安慰劑對照，n=68，南韓）",
+    "sourceType": "登錄＋論文",
+    "level": "neg",
+    "readout": "<b>因安全性問題終止，未完成療效評估</b>。試驗於 2024-08 完成、登錄 2024-09 更新為 Terminated，登錄載明終止原因為「主辦方因安全性問題決定撤回本試驗並以新試驗重啟」。2026-09-28 刊出之回溯藥物基因體學分析（The Pharmacogenomics Journal）揭露具體安全性數字：<b>34 名 KM-819 治療病人中 9 人（26%）經獨立肝臟裁決委員會判定為 KM-819 相關藥物性肝損傷（DILI）</b>，安慰劑組（34人）無一例。探索性基因分析（僅 16 人、6 例 DILI）發現 <b>HLA-DPB1*05:01:01:01</b> 等位基因與 DILI 高度相關（p=0.0009），但作者自陳樣本極小、屬假說生成，須獨立世代驗證。",
+    "implication": "→ MSA 領域第四個由本站主動盤點發現、因安全性或療效問題止步的資產（繼 Biohaven verdiperstat、Ionis/Biogen ION464、Takeda TAK-341 之後），但性質不同——前三者為療效未達標，本案為<b>安全性（肝毒性）</b>導致終止；候選藥物基因體學標記若獲驗證，對其他口服小分子的肝安全性監測設計具參考價值。",
+    "links": [
+      {
+        "label": "ClinicalTrials NCT05695378",
+        "url": "https://clinicaltrials.gov/study/NCT05695378"
+      },
+      {
+        "label": "藥物基因體學回溯分析 PubMed 42805974",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42805974/"
+      }
+    ],
+    "en": {
+      "dateDisplay": "2024/09 trial terminated · 2026/09 pharmacogenomic analysis published",
+      "trial": "NCT05695378 · Ph2 (randomised, double-blind, placebo-controlled, n=68, South Korea)",
+      "sourceType": "Registry + paper",
+      "readout": "<b>Terminated for a safety issue before completing efficacy assessment.</b> The trial completed in 2024-08 and its registration was updated to Terminated in 2024-09, stating the reason as \"Sponsor has decided to withdraw the study due to safety issue and re-initiate with a new clinical study.\" A retrospective pharmacogenomic analysis published 2026-09-28 (The Pharmacogenomics Journal) disclosed the specific safety figures: <b>9 of 34 KM-819-treated patients (26%) were adjudicated by an independent hepatic adjudication committee as KM-819-related drug-induced liver injury (DILI)</b>, versus none among the 34 placebo patients. An exploratory genetic analysis (only 16 patients, 6 DILI cases) found the <b>HLA-DPB1*05:01:01:01</b> allele strongly associated with DILI (p=0.0009), though the authors state the sample is very small and the finding is hypothesis-generating, requiring independent validation.",
+      "implication": "→ The fourth MSA asset found via this site's active discovery to have been halted over a safety or efficacy problem (after Biohaven's verdiperstat, Ionis/Biogen's ION464 and Takeda's TAK-341), but of a different character — the first three failed on efficacy, while this one was halted for safety (hepatotoxicity); the candidate pharmacogenomic marker, if validated, could inform liver-safety monitoring designs for other oral small molecules in this space.",
+      "links": [
+        {
+          "label": "ClinicalTrials NCT05695378",
+          "url": "https://clinicaltrials.gov/study/NCT05695378"
+        },
+        {
+          "label": "Retrospective pharmacogenomic analysis, PubMed 42805974",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42805974/"
+        }
+      ]
+    }
+  },
+  {
     "id": "ath434-201-2025",
     "date": "2025-01-30",
     "dateDisplay": "2025/01（頂線）· 2025/09–10（研討會）",
