@@ -1,5 +1,43 @@
 [
   {
+    "id": "kainos-km819-dili-2026",
+    "date": "2026-09-28",
+    "dateDisplay": "2026/09",
+    "competitor": "Kainos Medicine",
+    "drug": "KM-819",
+    "trial": "NCT05695378 · Ph2（MSA，韓國）",
+    "sourceType": "論文",
+    "level": "neg",
+    "readout": "<b>Pharmacogenomics Journal 論文（2026/09/28）揭露：34 名 KM-819 用藥病人中 11 人符合疑似藥物性肝損傷（DILI），其中 9 人（26%）經獨立肝臟判定委員會判為 KM-819 相關；34 名安慰劑組無病例。</b>可得檢體之探索性分析顯示 HLA-DPB1*05:01:01:01 見於 6/6 DILI 病人、無 DILI 者 1/10（p=0.0009）。作者自陳屬假說生成、樣本小、僅韓國族群。此論文<b>未報告療效結果</b>。該試驗登錄狀態為已終止。",
+    "implication": "",
+    "links": [
+      {
+        "label": "論文 ↗ PubMed 42805974",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42805974/"
+      },
+      {
+        "label": "試驗登錄 ↗ NCT05695378",
+        "url": "https://clinicaltrials.gov/study/NCT05695378"
+      }
+    ],
+    "en": {
+      "trial": "NCT05695378 · Ph2 (MSA, Korea)",
+      "sourceType": "Paper",
+      "readout": "<b>A Pharmacogenomics Journal paper (2026/09/28) discloses that, of 34 KM-819-treated patients, 11 met the definition of suspected drug-induced liver injury (DILI), 9 of them (26%) adjudicated by an independent hepatic committee as KM-819-related; none of 34 placebo patients had a case.</b> An exploratory analysis found HLA-DPB1*05:01:01:01 in 6/6 DILI cases versus 1/10 without (p=0.0009); the authors call it hypothesis-generating, with a small sample and Korean patients only. The paper <b>reports no efficacy results</b>. The registry lists the trial as terminated.",
+      "implication": "",
+      "links": [
+        {
+          "label": "Paper ↗ PubMed 42805974",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42805974/"
+        },
+        {
+          "label": "Trial registration ↗ NCT05695378",
+          "url": "https://clinicaltrials.gov/study/NCT05695378"
+        }
+      ]
+    }
+  },
+  {
     "id": "ath434-201-2025",
     "date": "2025-01-30",
     "dateDisplay": "2025/01（頂線）· 2025/09–10（研討會）",

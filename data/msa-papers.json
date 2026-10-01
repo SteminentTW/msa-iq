@@ -1,5 +1,131 @@
 [
   {
+    "id": "pubmed:42809157",
+    "date": "2026-09-29",
+    "dateDisplay": "2026/09/29",
+    "title": "Preliminary insights into whole-blood mitochondrial DNA copy number and telomere length in Parkinson's disease and multiple system atrophy",
+    "journal": "Journal of Neurology 273(10):631 · Gagliardi M、Quattrone A 等（義大利 Magna Graecia 大學）· doi:10.1007/s00415-026-14172-7",
+    "tag": "生物標記 · 全血 mtDNA 複本數／端粒長度 · PD 對 MSA",
+    "highlight": false,
+    "note": "→ <b>南義世代：58 名 PD、35 名 MSA、62 名健康對照</b>，以 qPCR 測全血粒線體 DNA 複本數（ND1-CN）與端粒長度（TL）。<b>ND1-CN 在 PD（pFDR=1.63×10⁻²²）與 MSA（pFDR=2.56×10⁻⁸）均低於對照，且 PD 低於 MSA（pFDR=8.43×10⁻²²）</b>；TL 在兩病皆縮短，但兩病之間差異較小（pFDR=5.47×10⁻²）。作者結論 mtDNA-CN 比 TL 更能區分兩種 α-突觸核蛋白病。⚠️ 標題即自稱「初步」；單一地區、橫斷面、MSA 僅 35 人，<b>作者明言需縱貫性、更大且獨立世代驗證</b>；不含任何治療資料。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42809157/",
+    "urlLabel": "論文 ↗ PubMed 42809157",
+    "en": {
+      "tag": "Biomarker · whole-blood mtDNA copy number / telomere length · PD vs MSA",
+      "journal": "Journal of Neurology 273(10):631 · Gagliardi M, Quattrone A et al. (Magna Graecia University, Italy) · doi:10.1007/s00415-026-14172-7",
+      "note": "→ <b>A Southern Italian cohort of 58 PD, 35 MSA and 62 healthy controls</b>, with whole-blood mitochondrial DNA copy number (ND1-CN) and telomere length (TL) measured by qPCR. <b>ND1-CN was lower than controls in both PD (pFDR=1.63×10⁻²²) and MSA (pFDR=2.56×10⁻⁸), and lower in PD than in MSA (pFDR=8.43×10⁻²²)</b>; TL was shortened in both but differed less between them (pFDR=5.47×10⁻²). The authors conclude mtDNA-CN separates the two α-synucleinopathies better than TL. ⚠️ The title itself says 'preliminary'; single region, cross-sectional, only 35 MSA patients, and <b>the authors state longitudinal, larger independent cohorts are needed</b>; no treatment data.",
+      "urlLabel": "Paper ↗ PubMed 42809157"
+    }
+  },
+  {
+    "id": "pubmed:42805974",
+    "date": "2026-09-28",
+    "dateDisplay": "2026/09/28",
+    "title": "Risk of drug-induced liver injury in multiple system atrophy patients treated with KM-819 is potentially associated with the HLA-DPB1*05:01:01:01 allele",
+    "journal": "Pharmacogenomics Journal 26(5):37 · Han JH、Barlow C、Kim E 等（韓國 Kainos Medicine 與合作者）· doi:10.1038/s41397-026-00431-3 · 開放取用（PMC13619445）",
+    "tag": "藥物安全 · KM-819（FAF1 抑制劑）· 肝損傷 · HLA 關聯",
+    "highlight": false,
+    "note": "→ <b>揭露 KM-819（FAF1 抑制劑，Kainos Medicine）在 MSA 韓國 Ph2 試驗的肝安全訊號</b>：34 名 KM-819 病人中 <b>11 人符合疑似 DILI、其中 9 人（26%）經獨立肝臟判定委員會判為藥物相關；34 名安慰劑組無病例</b>。可得檢體之探索性基因分析（16 人 KM-819 組：6 名 DILI、10 名無 DILI）發現 <b>HLA-DPB1*05:01:01:01 見於 6/6 DILI 病人、無 DILI 者 1/10（p=0.0009）</b>；敏感度 100%、特異度 90%、PPV 85.7%、NPV 100%（信賴區間寬）。⚠️ 作者自述為<b>假說生成</b>：樣本極小、同一世代同時做發現與效能估計、僅限韓國族群，需大型多族群驗證；<b>作者含藥廠員工（利益揭露）</b>。與本站追蹤的 NCT05695378（已終止）相互對應，詳見試驗結果。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42805974/",
+    "urlLabel": "論文 ↗ PubMed 42805974",
+    "en": {
+      "tag": "Drug safety · KM-819 (FAF1 inhibitor) · liver injury · HLA association",
+      "journal": "Pharmacogenomics Journal 26(5):37 · Han JH, Barlow C, Kim E et al. (Kainos Medicine, Korea, and collaborators) · doi:10.1038/s41397-026-00431-3 · open access (PMC13619445)",
+      "note": "→ <b>Discloses the liver-safety signal of KM-819 (FAF1 inhibitor, Kainos Medicine) in its Korean Phase 2 MSA trial</b>: of 34 KM-819-treated patients, <b>11 met the case definition for suspected DILI and 9 (26%) were adjudicated by an independent hepatic committee as drug-related; none of 34 placebo patients had a case</b>. An exploratory genetic analysis of 16 KM-819 patients (6 DILI, 10 without) found <b>HLA-DPB1*05:01:01:01 in 6/6 DILI cases versus 1/10 without (p=0.0009)</b>; sensitivity 100%, specificity 90%, PPV 85.7%, NPV 100% (wide confidence intervals). ⚠️ The authors call it <b>hypothesis-generating</b>: very small sample, discovery and performance estimated in the same cohort, Korean population only, needing large multi-ethnic validation; <b>authors include company employees (disclosed)</b>. Relates to NCT05695378 (terminated) tracked on this site; see Results.",
+      "urlLabel": "Paper ↗ PubMed 42805974"
+    }
+  },
+  {
+    "id": "pubmed:42815345",
+    "date": "2026-09-28",
+    "dateDisplay": "2026/09/28",
+    "title": "Tonic-dominant sleep bruxism in multiple system atrophy: A polysomnographic comparison with Parkinsonian-related disorders",
+    "journal": "Parkinsonism & Related Disorders 152:109002（線上優先）· Umemoto G、Fujita M 等（日本福岡大學病院）· doi:10.1016/j.parkreldis.2026.109002",
+    "tag": "睡眠 · 磨牙（bruxism）· 多頻道睡眠生理檢查",
+    "highlight": false,
+    "note": "→ <b>回溯性睡眠多項生理檢查（PSG）＋雙側咬肌 EMG：MSA 8 人對帕金森相關疾病（PRD）7 人</b>。MSA 以<b>強直型與混合型磨牙為主</b>，<b>強直型磨牙事件中位數 35（25–37）對 8（2–24），p=0.015</b>；REM 期磨牙在 MSA 較常見。⚠️ <b>樣本極小（n=8／7）、回溯性、單中心</b>；不含治療資料。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42815345/",
+    "urlLabel": "論文 ↗ PubMed 42815345",
+    "en": {
+      "tag": "Sleep · bruxism · polysomnography",
+      "journal": "Parkinsonism & Related Disorders 152:109002 (online ahead of print) · Umemoto G, Fujita M et al. (Fukuoka University Hospital, Japan) · doi:10.1016/j.parkreldis.2026.109002",
+      "note": "→ <b>Retrospective polysomnography with bilateral masseter EMG: 8 MSA versus 7 parkinsonian-related disorder (PRD) patients</b>. MSA showed <b>predominantly tonic and mixed bruxism</b>, with <b>median tonic events 35 (25–37) vs 8 (2–24), p=0.015</b>; REM-associated bruxism was more frequent in MSA. ⚠️ <b>Very small (n=8/7), retrospective, single-centre</b>; no treatment data.",
+      "urlLabel": "Paper ↗ PubMed 42815345"
+    }
+  },
+  {
+    "id": "pubmed:42810100",
+    "date": "2026-09-27",
+    "dateDisplay": "2026/09/27",
+    "title": "Distinct EEG functional network alterations in Parkinson's disease and multiple system atrophy",
+    "journal": "NeuroImage: Clinical 52:104072（線上優先）· Chen D、Wang Z、Wei L 等（北京大學第一醫院）· doi:10.1016/j.nicl.2026.104072",
+    "tag": "影像／電生理生物標記 · EEG 功能網路 · PD 對 MSA",
+    "highlight": false,
+    "note": "→ <b>97 名受試者（PD 28、MSA 42、健康 27）</b>以經驗模態分解分離皮質振盪模式，計算振幅與相位功能連結，探討 PD 與 MSA 的 EEG 網路差異及其鑑別潛力，目標在補強 PD 與 MSA-P 早期鑑別診斷的客觀生物標記。摘要所載結果在本站取得的版本被截斷，<b>具體鑑別效能數字本站不填</b>。⚠️ 橫斷面、探索性網路統計；不含治療資料。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42810100/",
+    "urlLabel": "論文 ↗ PubMed 42810100",
+    "en": {
+      "tag": "Imaging/electrophysiology biomarker · EEG functional networks · PD vs MSA",
+      "journal": "NeuroImage: Clinical 52:104072 (online ahead of print) · Chen D, Wang Z, Wei L et al. (Peking University First Hospital) · doi:10.1016/j.nicl.2026.104072",
+      "note": "→ <b>97 participants (28 PD, 42 MSA, 27 healthy controls)</b>; cortical oscillatory modes were isolated by empirical mode decomposition and amplitude- and phase-based functional connectivity computed to compare EEG networks in PD and MSA and explore discriminative value, aiming at objective biomarkers for early PD vs MSA-P differentiation. The results section of the abstract was truncated in the version this site retrieved, so <b>specific discrimination figures are left blank</b>. ⚠️ Cross-sectional, exploratory network statistics; no treatment data.",
+      "urlLabel": "Paper ↗ PubMed 42810100"
+    }
+  },
+  {
+    "id": "pubmed:42798249",
+    "date": "2026-09-26",
+    "dateDisplay": "2026/09/26",
+    "title": "Neural Correlates of Apathy in Multiple System Atrophy: A Clinical and Perfusion Imaging Study",
+    "journal": "European Journal of Neurology 33(10):e70766 · Nakagawa Y、Mori M 等（日本千葉大學）· doi:10.1111/ene.70766（PubMed 收錄約 2026/09/26–10/01，確切電子日期未載）",
+    "tag": "非運動症狀 · 淡漠（apathy）· 腦灌流 SPECT",
+    "highlight": false,
+    "note": "→ <b>回溯性橫斷研究，76 名認知保留的 MSA 病人</b>：<b>淡漠盛行率 55.3%、兩種運動亞型無差異</b>；淡漠組視空間分數較低、神經源性姿勢性低血壓頻率較低，<b>內側前額葉灌流降低</b>且在校正臨床變項後仍獨立相關。⚠️ 橫斷、單一醫學中心、因果方向無法判定；不含治療資料。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42798249/",
+    "urlLabel": "論文 ↗ PubMed 42798249",
+    "en": {
+      "tag": "Non-motor symptoms · apathy · perfusion SPECT",
+      "journal": "European Journal of Neurology 33(10):e70766 · Nakagawa Y, Mori M et al. (Chiba University, Japan) · doi:10.1111/ene.70766 (indexed in PubMed around 2026/09/26–10/01; exact electronic date not stated)",
+      "note": "→ <b>Retrospective cross-sectional study of 76 cognitively preserved MSA patients</b>: <b>apathy prevalence 55.3%, with no difference between motor subtypes</b>; the apathy group had lower visuospatial scores and a lower frequency of neurogenic orthostatic hypotension, with <b>reduced medial prefrontal perfusion</b> that stayed independently associated after adjusting for clinical variables. ⚠️ Cross-sectional, single academic centre, direction of causation cannot be determined; no treatment data.",
+      "urlLabel": "Paper ↗ PubMed 42798249"
+    }
+  },
+  {
+    "id": "pubmed:42778381",
+    "date": "2026-09-22",
+    "dateDisplay": "2026/09/22",
+    "title": "Acute Respiratory Failure Associated with Severe Obstructive Sleep Apnea as an Early Manifestation of Multiple System Atrophy: A Case Report",
+    "journal": "Internal Medicine（線上優先）· Hagiwara Y、Kanbayashi T、Kobayashi S（日本帝京大學）· doi:10.2169/internalmedicine.7749-26",
+    "tag": "病例報告 · 呼吸衰竭 · 睡眠呼吸中止",
+    "highlight": false,
+    "note": "→ <b>單一病例</b>：81 歲女性 MSA 病人，<b>在出現喉部喘鳴前即因重度阻塞性睡眠呼吸中止併急性呼吸衰竭需插管</b>，6 日後拔管但夜間高碳酸血症持續，需非侵入性呼吸器；喉鏡僅見輕度雙側聲帶外展輕癱、無喘鳴。作者提醒<b>致命性呼吸衰竭可能早於喘鳴出現</b>。⚠️ n=1，無法推論頻率；不含治療試驗資料。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42778381/",
+    "urlLabel": "論文 ↗ PubMed 42778381",
+    "en": {
+      "tag": "Case report · respiratory failure · sleep apnoea",
+      "journal": "Internal Medicine (online ahead of print) · Hagiwara Y, Kanbayashi T, Kobayashi S (Teikyo University, Japan) · doi:10.2169/internalmedicine.7749-26",
+      "note": "→ <b>A single case</b>: an 81-year-old woman with MSA developed <b>acute respiratory failure from severe obstructive sleep apnoea before any laryngeal stridor appeared</b>, requiring intubation; she was extubated after 6 days but nocturnal hypercapnia persisted, needing non-invasive ventilation; laryngoscopy showed only mild bilateral vocal cord abductor paresis without stridor. The authors caution that <b>life-threatening respiratory failure may precede stridor</b>. ⚠️ n=1, no inference on frequency; no treatment-trial data.",
+      "urlLabel": "Paper ↗ PubMed 42778381"
+    }
+  },
+  {
+    "id": "pubmed:42765599",
+    "date": "2026-09-21",
+    "dateDisplay": "2026/09/21",
+    "title": "CD8+ T cells in synucleinopathies: differential immune mechanisms in Parkinson's disease and multiple system atrophy",
+    "journal": "Neurologia i Neurochirurgia Polska（線上優先）· Żółtowska M、Alster P 等（波蘭華沙醫科大學）· doi:10.5603/pjnns.112255",
+    "tag": "免疫機轉 · CD8+ T 細胞 · 結構化敘述性回顧",
+    "highlight": false,
+    "note": "→ <b>結構化敘述性回顧（納入 15 項研究）</b>：PD 的 CD8+ T 細胞於早期即浸潤黑質且呈細胞毒性表型；<b>MSA 則偏 CD4 優勢（CD4/CD8 比上升）、CD8+ T 細胞較像調節角色</b>。作者認為 CD8 相關路徑可作為生物標記與客製化免疫調節策略標的。與本站 foralumab（Tiziana，抗 CD3 免疫調節）等免疫路線屬機轉背景，<b>本文不含任何治療資料</b>。⚠️ 敘述性回顧、僅 15 項研究、非系統性回顧。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42765599/",
+    "urlLabel": "論文 ↗ PubMed 42765599",
+    "en": {
+      "tag": "Immune mechanism · CD8+ T cells · structured narrative review",
+      "journal": "Neurologia i Neurochirurgia Polska (online ahead of print) · Żółtowska M, Alster P et al. (Medical University of Warsaw, Poland) · doi:10.5603/pjnns.112255",
+      "note": "→ <b>A structured narrative review (15 studies included)</b>: in PD, CD8+ T cells infiltrate the substantia nigra early with a cytotoxic phenotype; <b>MSA instead shows a CD4-dominant profile (raised CD4/CD8 ratio), with CD8+ cells appearing more modulatory</b>. The authors suggest CD8-related pathways as biomarkers and targets for tailored immunomodulation. It is mechanistic background for immune approaches on this site such as foralumab (Tiziana, anti-CD3), and <b>contains no treatment data</b>. ⚠️ Narrative review of only 15 studies, not a systematic review.",
+      "urlLabel": "Paper ↗ PubMed 42765599"
+    }
+  },
+  {
     "id": "pubmed:42760624",
     "date": "2026-09-18",
     "dateDisplay": "2026/09/18",
