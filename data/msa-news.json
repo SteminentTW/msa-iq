@@ -1,5 +1,31 @@
 [
   {
+    "id": "tiziana-foralumab-odd-2026-09",
+    "date": "2026-09-30",
+    "dateDisplay": "2026/09/30",
+    "level": "info",
+    "tag": "法規 · 孤兒藥資格申請",
+    "body": "<b>Tiziana Life Sciences 向 FDA 遞交鼻噴劑 Foralumab 用於 MSA 之孤兒藥資格（Orphan Drug Designation）申請</b>。Foralumab 為全人源 anti-CD3 單株抗體，目前於 Brigham and Women's Hospital 進行一項 6 個月期開放標籤 Ph2a 試驗（8 個 3 週給藥週期），以 PET 影像測微膠細胞活化為主要評估。FDA 孤兒藥產品辦公室目標於收件後 90 天內完成審查。<b>此為資格申請階段，尚未獲核准，亦非療效數據。</b>",
+    "note": "→ 若獲授予，將給予核准後 7 年市場獨占權、臨床試驗租稅抵減、FDA 申請費減免與協議協助資格；本身不代表療效或加速核准保證。",
+    "links": [
+      {
+        "label": "新聞稿 ↗ GlobeNewswire 2026/09/30",
+        "url": "https://www.globenewswire.com/news-release/2026/09/30/3371756/0/en/tiziana-life-sciences-files-for-orphan-drug-designation-with-the-fda-for-intranasal-foralumab-for-the-treatment-of-multiple-system-atrophy-msa.html"
+      }
+    ],
+    "en": {
+      "tag": "Regulatory · orphan drug designation filing",
+      "body": "<b>Tiziana Life Sciences has filed with the FDA for Orphan Drug Designation for intranasal foralumab in MSA.</b> Foralumab is a fully human anti-CD3 monoclonal antibody, currently in a 6-month open-label Phase 2a trial at Brigham and Women's Hospital (eight 3-week dosing cycles), with microglial activation on PET imaging as the primary measure. The FDA's Office of Orphan Products Development aims to complete review within 90 days of receipt. <b>This is a designation request, not yet granted, and is not efficacy data.</b>",
+      "note": "→ If granted, this would confer 7 years of market exclusivity upon approval, tax credits for qualified clinical trials, waived FDA application fees, and eligibility for protocol assistance; it does not by itself indicate efficacy or an accelerated approval pathway.",
+      "links": [
+        {
+          "label": "Press release ↗ GlobeNewswire 2026/09/30",
+          "url": "https://www.globenewswire.com/news-release/2026/09/30/3371756/0/en/tiziana-life-sciences-files-for-orphan-drug-designation-with-the-fda-for-intranasal-foralumab-for-the-treatment-of-multiple-system-atrophy-msa.html"
+        }
+      ]
+    }
+  },
+  {
     "id": "tak341-ph2-fail-2026",
     "date": "2025-10-31",
     "dateDisplay": "2025/10 財報揭露 · 2026/03 AD/PD 完整發表",
@@ -162,33 +188,6 @@
         {
           "label": "SST001 ↗ NCT07604116",
           "url": "https://clinicaltrials.gov/study/NCT07604116"
-        }
-      ]
-    }
-  },
-  {
-    "id": "ath434-ph3-fda-2026-07",
-    "date": "2026-07-07",
-    "dateDisplay": "2026/07",
-    "level": "info",
-    "tag": "法規里程碑",
-    "body": "<b>Alterity ATH434</b> 公布 FDA End-of-Phase-2 會議紀錄，確認 MSA 註冊路徑：Ph3 約 <b>200 人</b>、1:1 隨機 50mg 或安慰劑、每日兩次共 12 個月，主要終點 <b>11 項 UMSARS Part I</b>，次要終點含吞嚥障礙問卷、姿勢性低血壓症狀評估與 CGI-S；FDA 同意單一樞紐試驗加確認性證據即可支持核准。",
-    "note": "→ 公司稱 2026 年底前啟動 Ph3 作業。這是 MSA 領域少見已與 FDA 就樞紐設計取得一致的案例。",
-    "links": [
-      {
-        "label": "新聞稿 ↗",
-        "url": "https://www.biospace.com/press-releases/alterity-therapeutics-receives-fda-end-of-phase-2-meeting-minutes-confirming-registrational-pathway-for-ath434-in-multiple-system-atrophy"
-      }
-    ],
-    "en": {
-      "dateDisplay": "2026/07",
-      "tag": "Regulatory milestone",
-      "body": "<b>Alterity's ATH434</b> released FDA End-of-Phase-2 meeting minutes confirming its registrational pathway in MSA: a Ph3 of roughly <b>200 patients</b> randomised 1:1 to 50mg or placebo twice daily for 12 months, with the <b>11-item UMSARS Part I</b> as the primary endpoint and secondary endpoints including the Swallowing Disturbance Questionnaire, the Orthostatic Hypotension Symptom Assessment and CGI-S. The FDA agreed that a single pivotal trial plus confirmatory evidence could support approval.",
-      "note": "→ The company says Ph3 activities will begin by the end of 2026. Few MSA programmes have reached explicit FDA alignment on a pivotal design.",
-      "links": [
-        {
-          "label": "Press release ↗",
-          "url": "https://www.biospace.com/press-releases/alterity-therapeutics-receives-fda-end-of-phase-2-meeting-minutes-confirming-registrational-pathway-for-ath434-in-multiple-system-atrophy"
         }
       ]
     }
