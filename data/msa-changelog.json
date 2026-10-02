@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-10-02",
+    "dateDisplay": "2026/10/02",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>⚠️ 發布管道變更</b>：本次雲端執行環境之 git 設定將 push 限定在指定的功能分支 <code>claude/eager-ramanujan-idjk34</code>（非直接 push main），故本次更新已 commit＋push 至該分支，<b>尚待併入 main 後才會反映到公開網址 steminenttw.github.io/msa-iq/</b>；本次無法依手冊 §5 以 curl 驗證公開網址，待分支併入 main 後請留意下次掃描之驗證結果。<b>新增 1 篇文獻；無新試驗、無新競品、無試驗結果異動。</b><b>MSA 姿勢性低血壓（OH）臨床特徵橫斷面研究</b>（Frontiers in Neurology，北京中醫藥大學東方醫院 Zhang K、Chen Z 等，PubMed 42823968，2026/09/17 電子刊出）：242 名 MSA 病人中 OH 盛行率 56.2%；MSA-C 亞型、「probable MSA」診斷確定度、UMSARS-I 分數較高與 OH「有無」獨立相關，男性與 NMSS 分數較高則與「嚴重度」獨立相關。⚠️ 單中心橫斷面、不含治療資料。<b>CT.gov 廣掃</b>（`filter.overallStatus=RECRUITING|ACTIVE_NOT_RECRUITING|NOT_YET_RECRUITING`，依更新日排序前 40 筆）命中 40 筆，29 筆非平台既有鍵值，逐筆核對適應症後<b>全數為 SMA／DM1／FSHD／DMD／肌少症等字面「atrophy」誤帶命中，或純觀察性登記（自然史、影像生物標記、遠距監測）</b>，依手冊排除復健/觀察性/診斷工具之原則，<b>無一筆通過「療法試驗」門檻</b>。<b>既定資產新聞查核</b>（Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva/MODAG emrusolmin、Tiziana foralumab）：WebSearch 查得之 FDA EoP2 會議紀錄、MASCOT Ph3 完成隨機化、ONO-2808 Ph2 次族群數據、foralumab 第3名受試者 PET 讀出等，<b>均已於平台既有記錄中</b>（competitors/results/changelog），未重複建檔。msa-events.json 本次未達查核週期（上次實質更新約 09/19），未更新。weekNewCount 由 9 增至 <b>10</b>。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>⚠️ Publish channel note</b>: this run's git configuration restricts pushes to the designated feature branch <code>claude/eager-ramanujan-idjk34</code> rather than main directly, so today's update was committed and pushed to that branch and <b>will not appear on the public site (steminenttw.github.io/msa-iq/) until it is merged into main</b>; the manual's §5 curl check of the public URL could not be meaningfully run this time — watch the next scan's verification once the branch is merged. <b>1 paper added; no new trials, no new competitors, no result changes.</b> <b>A cross-sectional study of orthostatic hypotension (OH) clinical features in MSA</b> (Frontiers in Neurology; Zhang K, Chen Z et al., Dongfang Hospital, Beijing University of Chinese Medicine; PubMed 42823968, epub 2026/09/17): among 242 MSA patients, OH prevalence was 56.2%; MSA-C subtype, a \"probable MSA\" diagnosis and higher UMSARS-I scores were independently associated with OH presence, while male sex and higher NMSS scores were independently associated with severity. ⚠️ Single-centre, cross-sectional, with no treatment data. <b>The CT.gov broad sweep</b> (`filter.overallStatus=RECRUITING|ACTIVE_NOT_RECRUITING|NOT_YET_RECRUITING`, top 40 by update date) returned 40 hits, 29 not already on file by key; after checking each one's indication, <b>all were literal \"atrophy\" false positives (SMA, DM1, FSHD, DMD, sarcopenia) or purely observational registrations (natural history, imaging biomarkers, remote monitoring)</b> — per the manual's exclusion of rehab/observational/diagnostic-only studies, <b>none cleared the \"therapy trial\" bar</b>. <b>News checks on established assets</b> (Alterity ATH434, Lundbeck amlenetug, Ono ONO-2808, Teva/MODAG emrusolmin, Tiziana foralumab): the FDA End-of-Phase-2 minutes, MASCOT Ph3 randomisation completion, the ONO-2808 Ph2 subgroup data and foralumab's 3rd-patient PET readout surfaced via WebSearch <b>were all already on record</b> (competitors/results/changelog); no duplicate entries were made. msa-events.json was not due for review this run (last substantively updated around 09/19) and was left unchanged. weekNewCount rises from 9 to <b>10</b>.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-10-01",
     "dateDisplay": "2026/10/01",
     "tag": "每日掃描",

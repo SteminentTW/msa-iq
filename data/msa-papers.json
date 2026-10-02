@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42823968",
+    "date": "2026-09-17",
+    "dateDisplay": "2026/09/17",
+    "title": "Factors associated with orthostatic hypotension presence and severity in multiple system atrophy: a cross-sectional study",
+    "journal": "Frontiers in Neurology 17:1950923 · Zhang K、Chen Z 等（北京中醫藥大學東方醫院）· doi:10.3389/fneur.2026.1950923",
+    "tag": "自然史／臨床特徵 · 姿勢性低血壓",
+    "highlight": false,
+    "note": "→ <b>橫斷面世代 242 名 MSA 病人</b>，分析姿勢性低血壓（OH）之有無與嚴重度相關因子。<b>OH 盛行率 56.2%（136人）</b>；<b>MSA-C 亞型（OR=2.42）、「probable MSA」診斷確定度（OR=2.68）、UMSARS-I 分數較高（OR=1.10）與 OH 之「有無」獨立相關</b>；在已有 OH 者中，<b>男性（OR=2.57）與 NMSS 分數較高（OR=1.06）與「嚴重度」獨立相關，MSA 亞型則與嚴重度無關</b>；腦部 MRI 影像標記與 OH 無關聯。作者結論：OH 之「有無」與「嚴重度」由不同因子主導。⚠️ 單中心橫斷面設計，不含任何治療或藥物干預資料，純臨床特徵分析。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42823968/",
+    "urlLabel": "論文 ↗ PubMed 42823968",
+    "en": {
+      "tag": "Natural history / clinical characteristics · Orthostatic hypotension",
+      "journal": "Frontiers in Neurology 17:1950923 · Zhang K, Chen Z et al. (Dongfang Hospital, Beijing University of Chinese Medicine) · doi:10.3389/fneur.2026.1950923",
+      "note": "→ A <b>cross-sectional cohort of 242 MSA patients</b> examining factors associated with the presence and severity of orthostatic hypotension (OH). <b>OH prevalence was 56.2% (136 patients)</b>; <b>MSA-C subtype (OR=2.42), a \"probable MSA\" diagnosis (OR=2.68) and higher UMSARS-I scores (OR=1.10) were independently associated with OH presence</b>; among those with OH, <b>male sex (OR=2.57) and higher NMSS scores (OR=1.06) were independently associated with severity, while MSA subtype was not</b>; no brain MRI marker was associated with OH. The authors conclude that presence and severity of OH are driven by different factors. ⚠️ Single-centre, cross-sectional design with no treatment or drug-intervention data — a pure clinical-characteristics analysis.",
+      "urlLabel": "Paper ↗ PubMed 42823968"
+    }
+  },
+  {
     "id": "pubmed:42809157",
     "date": "2026-09-29",
     "dateDisplay": "2026/09/29",
