@@ -86,7 +86,7 @@
     "sourceType": "論文",
     "level": "info",
     "readout": "**未達主要終點**：以貝氏模型評估 72 週 UMSARS（Part I+II）總分進展，減緩 19%，未達統計顯著。次要終點改良版 UMSARS 減緩 27%（Part I 22%、Part II 17%）；事後分析中較輕症次族群減緩 42%。",
-    "implication": "→ 主要終點未達仍推進 Ph3（MASCOT, NCT06706622），顯示業界對「早期病人＋改良版量表」設計的押注；也凸顯 UMSARS 總分作為主要終點的靈敏度問題。",
+    "implication": "→ 主要終點未達仍推進 Ph3（MASCOT, NCT06706622），顯示業界看好「早期病人＋改良版量表」設計；也凸顯 UMSARS 總分作為主要終點的靈敏度問題。",
     "links": [
       {
         "label": "Lancet Neurology 論文摘要",
@@ -101,7 +101,7 @@
       "trial": "AMULET · Ph2 (n=40 treated / 21 placebo)",
       "sourceType": "Paper",
       "readout": "**Primary endpoint missed**: using a Bayesian model of 72-week progression in total UMSARS (Part I+II), progression was slowed by 19%, not statistically significant. On the secondary modified UMSARS, slowing was 27% (Part I 22%, Part II 17%); a post-hoc less-impaired subgroup showed 42% slowing.",
-      "implication": "→ Advancing to Ph3 (MASCOT, NCT06706622) despite the missed primary endpoint shows the industry betting on an early-patient plus modified-scale design, and highlights the sensitivity problem of total UMSARS as a primary endpoint.",
+      "implication": "→ Advancing to Ph3 (MASCOT, NCT06706622) despite the missed primary endpoint shows the industry backing an early-patient plus modified-scale design, and highlights the sensitivity problem of total UMSARS as a primary endpoint.",
       "links": [
         {
           "label": "Lancet Neurology abstract",
@@ -204,7 +204,7 @@
     "sourceType": "新聞稿",
     "level": "neg",
     "readout": "Ph1 更新顯示安全、耐受良好，未見與試驗藥相關的嚴重不良事件或死亡。**2025/02/12 Biogen 宣布終止 ION464／BIIB101 開發**（截至 2025/03 Ionis 管線仍列此案）。公開來源未見以療效或安全為由的具體說明。",
-    "implication": "→ α-synuclein ASO 路線在 MSA 少一個大廠推手；標的正確與否未被此決定回答，不宜過度解讀。",
+    "implication": "→ α-synuclein ASO 路線在 MSA 失去一家大型藥廠的開發推動；標的正確與否未被此決定回答，不宜過度解讀。",
     "links": [
       {
         "label": "ClinicalTrials NCT04165486",
@@ -356,7 +356,7 @@
     "trial": "隨機停藥試驗（73 名 MSA 合併 nOH）",
     "sourceType": "論文",
     "level": "info",
-    "readout": "**未達主要終點**。次要分析：隨機到安慰劑者功能惡化，續用 ampreloxetine 者維持開放標籤期水準；站立血壓在停藥後顯著下降。作者標示為 Class III 證據。",
+    "readout": "**未達主要終點**。次要分析：隨機分派至安慰劑組者功能惡化，續用 ampreloxetine 者維持開放標籤期水準；站立血壓在停藥後顯著下降。作者標示為 Class III 證據。",
     "implication": "→ 症狀治療（姿勢性低血壓）而非疾病修飾；提醒 MSA 試驗「停藥設計」可作為維持療效的替代驗證路徑。",
     "links": [
       {
@@ -419,8 +419,8 @@
     "trial": "NCT05526391 · 樞紐性 Ph2（隨機雙盲安慰劑對照，n=159，56站點）",
     "sourceType": "財報揭露＋會議發表（次級來源彙整，見下方⚠️）",
     "level": "neg",
-    "readout": "**主要與次要終點均未達統計顯著**：以第 52 週 Modified UMSARS 分數變化為主要指標。武田於 2025-10-31 第三季財報文件中揭露未達終點並將 TAK-341 自產品線移除；2026-03 AD/PD 國際大會發表完整結果，結論為治療安全可耐受，但治療組與安慰劑組無顯著差異。⚠️ 具體 UMSARS 數值武田尚未見於本站可查證之公開索引摘要中列出，本站不代填；本次掃描 ClinicalTrials.gov／PubMed／多數新聞網域遭組織層級網路政策阻擋，以下彙整僅根據可經搜尋索引到的 FierceBiotech、AlzForum、Neurology 摘要頁等次級來源，未能直接讀取武田財報原文或 AD/PD 海報全文。",
-    "implication": "→ MSA 領域第三個由大型藥廠止步的 anti-α-synuclein／抗神經退化資產（繼 Biohaven verdiperstat 2021、Ionis/Biogen ION464 2025），也是抗體類別中少數以近 160 人樞紐規模仍未過關者；本站先前未追蹤此資產，本次為主動盤點後首次收錄。",
+    "readout": "**主要與次要終點均未達統計顯著**：以第 52 週 Modified UMSARS 分數變化為主要指標。武田於 2025-10-31 第三季財報文件中揭露未達終點並將 TAK-341 自產品線移除；2026-03 AD/PD 國際大會發表完整結果，結論為治療安全可耐受，但治療組與安慰劑組無顯著差異。⚠️ 具體 UMSARS 數值尚未見於本站可查證之公開索引摘要中，本站不代填；本次掃描 ClinicalTrials.gov／PubMed／多數新聞網域遭組織層級網路政策阻擋，以下彙整僅根據可經搜尋索引到的 FierceBiotech、AlzForum、Neurology 摘要頁等次級來源，未能直接讀取武田財報原文或 AD/PD 海報全文。",
+    "implication": "→ MSA 領域第三個由大型藥廠止步的 anti-α-synuclein／抗神經退化資產（繼 Biohaven verdiperstat 2021、Ionis/Biogen ION464 2025），也是抗體類別中少數以近 160 人樞紐規模仍告失敗者；本站先前未追蹤此資產，本次為主動盤點後首次收錄。",
     "links": [
       {
         "label": "ClinicalTrials NCT05526391",
