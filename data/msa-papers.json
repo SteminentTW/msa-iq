@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42826522",
+    "date": "2026-09-29",
+    "dateDisplay": "2026/09/29",
+    "title": "Plantar-predominant sudomotor dysfunction in multiple system atrophy: a Sudoscan and (123)I-MIBG myocardial scintigraphy study",
+    "journal": "Parkinsonism & Related Disorders 152:109007（2026/09/29，Online ahead of print）· Nakahara K、Ueda M · Kumamoto 大學（日本）· doi:10.1016/j.parkreldis.2026.109007",
+    "tag": "生物標記 · 自主神經功能 · Sudoscan／MIBG 心肌造影 · MSA 對 PD",
+    "highlight": false,
+    "note": "→ <b>回溯世代：15 名 MSA（12 MSA-C、3 MSA-P）與 48 名 PD</b>（排除糖尿病、Sjögren's 症候群），以 Sudoscan 測電化學皮膚傳導（ESC）、並與 ¹²³I-MIBG 心肌造影比對。主要指標<b>足—手 ESC 梯度在 MSA 顯著低於 PD（中位數 −3.5 對 10.9 μS，p<0.001）</b>，足部 ESC 亦較低（63.7 對 77.7 μS，p=0.005），手部則無顯著差異；<b>53% MSA 病人呈現負梯度，PD 僅 8%</b>。MIBG 顯示 MSA 心臟交感神經支配相對保留（延遲 H/M 比 3.67 對 1.49，p<0.001），與 PD 形成對比。ESC 梯度與病程、現有臨床嚴重度量表或 MIBG 參數<b>無顯著相關</b>。作者結論 Sudoscan 與 MIBG 提供互補的自主神經表型資訊，可能有助鑑別 MSA 與 PD。⚠️ 回溯性、單中心，MSA 僅 15 人（MIBG 子集僅 9 人）；不含任何治療資料，屬鑑別診斷工具研究。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826522/",
+    "urlLabel": "論文 ↗ PubMed 42826522",
+    "en": {
+      "tag": "Biomarker · autonomic function · Sudoscan/MIBG scintigraphy · MSA vs PD",
+      "journal": "Parkinsonism & Related Disorders 152:109007 (2026/09/29, online ahead of print) · Nakahara K, Ueda M · Kumamoto University, Japan · doi:10.1016/j.parkreldis.2026.109007",
+      "note": "→ <b>A retrospective cohort of 15 MSA (12 MSA-C, 3 MSA-P) and 48 PD patients</b> (diabetes and Sjögren's syndrome excluded), measuring electrochemical skin conductance (ESC) via Sudoscan against ¹²³I-MIBG myocardial scintigraphy. The primary outcome, <b>feet-hands ESC gradient, was significantly lower in MSA than PD (median −3.5 vs 10.9 μS, p<0.001)</b>, feet ESC was also lower (63.7 vs 77.7 μS, p=0.005), with no significant difference in hands; <b>53% of MSA patients showed a negative gradient versus 8% of PD patients</b>. MIBG showed relatively preserved cardiac sympathetic innervation in MSA (delayed H/M ratio 3.67 vs 1.49, p<0.001), contrasting with PD. The ESC gradient showed <b>no significant correlation</b> with disease duration, available severity measures, or MIBG parameters. The authors conclude Sudoscan and MIBG provide complementary autonomic phenotyping that may aid differentiating MSA from PD. ⚠️ Retrospective, single-centre, only 15 MSA patients (MIBG subset only 9); contains no treatment data — a differential-diagnosis tool study.",
+      "urlLabel": "Paper ↗ PubMed 42826522"
+    }
+  },
+  {
     "id": "pubmed:42809157",
     "date": "2026-09-29",
     "dateDisplay": "2026/09/29",

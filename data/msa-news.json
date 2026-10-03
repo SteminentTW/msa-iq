@@ -1,5 +1,73 @@
 [
   {
+    "id": "lundbeck-mds2026-preview-2026-10",
+    "date": "2026-10-02",
+    "dateDisplay": "2026/10/02",
+    "level": "info",
+    "tag": "學會發表預告",
+    "body": "<b>Lundbeck 公告將於 MDS 2026 國際大會（首爾，2026/10/04–08）發表旗下動作障礙藥物線多項資料</b>，MSA 相關部分包括：①樞紐 Ph3 <b>MASCOT 試驗（amlenetug／Lu AF82422，NCT06706622）</b>收案人群多樣性之基線特徵（Late-breaking oral，10/5），確認<b>收案 401 人、涵蓋 MSA-C 與 MSA-P 兩亞型</b>，72 週雙盲安慰劑對照、主要讀出預計 2027 Q3；②mUMSARS Part I 量表之心理計量驗證、及其中文版驗證（ePoster 149／150，10/5）；③以質譜蛋白體學尋找候選腦脊髓液生物標記（ePoster 121），及一項<b>以 C 端 α-突觸核蛋白檢測區分 MSA 與帕金森氏症</b>之口頭報告（OPP3-G）；④一項美國健保資料庫觀察性研究，發現 MSA 病人之醫療資源使用與支出顯著高於帕金森氏症病人。",
+    "note": "→ <b>本次公告為研討會議程預告，非試驗結果讀出</b>：MASCOT 的基線多樣性描述不含任何療效或安全性數據；amlenetug 的主要療效結果仍待 2027 Q3。生物標記與量表驗證項目目前僅公告將發表，具體數值待會議現場公布後再補。",
+    "links": [
+      {
+        "label": "Lundbeck 新聞稿 ↗",
+        "url": "https://news.cision.com/h--lundbeck-a-s/r/lundbeck-to-showcase-progress-across-its-movement-disorders-pipeline-with-data-in-multiple-system-at,c4403628"
+      },
+      {
+        "label": "ClinicalTrials NCT06706622 ↗",
+        "url": "https://clinicaltrials.gov/study/NCT06706622"
+      }
+    ],
+    "en": {
+      "tag": "Congress presentation preview",
+      "body": "<b>Lundbeck announced it will present multiple movement-disorder pipeline updates at the MDS 2026 International Congress (Seoul, 2026/10/04–08)</b>. The MSA-related items include: (1) baseline characteristics describing participant diversity in the pivotal Phase III <b>MASCOT trial (amlenetug / Lu AF82422, NCT06706622)</b> (late-breaking oral, 10/5), confirming <b>401 participants enrolled, spanning both the MSA-C and MSA-P subtypes</b>, in a 72-week double-blind, placebo-controlled design with the primary readout expected in Q3 2027; (2) psychometric validation of the modified UMSARS Part I scale and of its Chinese-language version (ePosters 149/150, 10/5); (3) candidate cerebrospinal fluid biomarkers identified via mass-spectrometry proteomics (ePoster 121), plus an oral presentation on a <b>C-terminal alpha-synuclein assay to differentiate MSA from Parkinson's disease</b> (OPP3-G); (4) a US claims-database observational study finding significantly higher healthcare resource use and costs among MSA patients compared with Parkinson's disease patients.",
+      "note": "→ <b>This announcement is a congress-agenda preview, not a trial readout</b>: the MASCOT baseline/diversity description contains no efficacy or safety data, and amlenetug's primary efficacy result remains pending for Q3 2027. The biomarker and scale-validation items are announced only as forthcoming presentations; specific figures will be added once presented at the congress.",
+      "links": [
+        {
+          "label": "Lundbeck press release ↗",
+          "url": "https://news.cision.com/h--lundbeck-a-s/r/lundbeck-to-showcase-progress-across-its-movement-disorders-pipeline-with-data-in-multiple-system-at,c4403628"
+        },
+        {
+          "label": "ClinicalTrials NCT06706622 ↗",
+          "url": "https://clinicaltrials.gov/study/NCT06706622"
+        }
+      ]
+    }
+  },
+  {
+    "id": "foralumab-odd-filed-2026-09",
+    "date": "2026-09-30",
+    "dateDisplay": "2026/09/30",
+    "level": "info",
+    "tag": "法規 · 孤兒藥資格申請",
+    "body": "<b>Tiziana Life Sciences 向 FDA 遞交鼻噴 foralumab 治療 MSA 之孤兒藥資格（Orphan Drug Designation）申請</b>。申請理由為 MSA 在美國患病人數低於 20 萬人之罕病門檻、目前無任何 FDA 核准之疾病修飾療法。申請中引述之支持資料為<b>仍在進行中的 Ph2a 開放標籤試驗（NCT06868628）</b>，另援引 foralumab 於非活動性次發進展型多發性硬化症擴大使用計畫中 <b>14 名病人於 6 個月內皆呈現改善或穩定</b>之結果（<b>不同疾病、非 MSA 數據</b>）。公司執行長 Ivor Elrifi 稱 foralumab 可「誘導調節性 T 細胞、調控 T 細胞驅動發炎」並「降低微膠細胞活化」。⚠️ <b>此為資格（designation）申請，非核准（approval）、亦非試驗療效讀出</b>；孤兒藥資格本身不代表療效獲證實，僅賦予核准後 7 年市場獨佔、臨床試驗稅務抵免、申請費減免與 FDA 協助輔導等資格利益；審查結果尚待 FDA 公告。",
+    "note": "→ MSA 目前尚無任何已獲 FDA 孤兒藥資格之療法達到核准階段；本項申請本身不改變 foralumab 的臨床階段（仍為 Ph2a、累計僅 3 名 MSA 受試者有公開 PET 數據，見在研療法全景）。",
+    "links": [
+      {
+        "label": "GlobeNewswire 新聞稿 ↗",
+        "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/globenewswire/tiziana-life-sciences-files-for-orphan-drug-designation-with-the-fda-for-intranasal-foralumab-for-the-treatment-of-multiple-system-atrophy-msa/2435965/amp"
+      },
+      {
+        "label": "ClinicalTrials NCT06868628 ↗",
+        "url": "https://clinicaltrials.gov/study/NCT06868628"
+      }
+    ],
+    "en": {
+      "tag": "Regulatory · orphan drug designation filing",
+      "body": "<b>Tiziana Life Sciences has filed with the FDA for Orphan Drug Designation for intranasal foralumab in MSA</b>. The filing cites MSA's US prevalence below the 200,000-patient rare-disease threshold and the absence of any FDA-approved disease-modifying therapy. The supporting data cited is the <b>still-ongoing open-label Phase 2a trial (NCT06868628)</b>, alongside foralumab results from an expanded-access programme in non-active secondary progressive multiple sclerosis in which <b>14 patients showed either improvement or stability within 6 months</b> (<b>a different disease, not MSA data</b>). CEO Ivor Elrifi stated foralumab 'induces regulatory T cells and modulates T-cell-driven inflammation' while 'reducing microglial activation'. ⚠️ <b>This is a designation filing, not an approval and not a trial efficacy readout</b>; orphan designation itself does not establish efficacy — it confers eligibility for 7 years of market exclusivity upon approval, clinical-testing tax credits, application-fee waivers and FDA protocol assistance; the outcome of FDA review is still pending.",
+      "note": "→ No MSA therapy with FDA orphan drug designation has yet reached approval; this filing by itself does not change foralumab's clinical stage (still Phase 2a, with publicly reported PET data from only 3 MSA participants to date — see the competitive landscape page).",
+      "links": [
+        {
+          "label": "GlobeNewswire release ↗",
+          "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/globenewswire/tiziana-life-sciences-files-for-orphan-drug-designation-with-the-fda-for-intranasal-foralumab-for-the-treatment-of-multiple-system-atrophy-msa/2435965/amp"
+        },
+        {
+          "label": "ClinicalTrials NCT06868628 ↗",
+          "url": "https://clinicaltrials.gov/study/NCT06868628"
+        }
+      ]
+    }
+  },
+  {
     "id": "tak341-ph2-fail-2026",
     "date": "2025-10-31",
     "dateDisplay": "2025/10 財報揭露 · 2026/03 AD/PD 完整發表",
@@ -92,103 +160,6 @@
         {
           "label": "Press release ↗",
           "url": "https://www.biospace.com/press-releases/alterity-therapeutics-announces-granting-of-new-u-s-composition-of-matter-patent-for-ath434"
-        }
-      ]
-    }
-  },
-  {
-    "id": "sca-iq-partnering-2026-07",
-    "date": "2026-07-31",
-    "dateDisplay": "2026/07",
-    "level": "info",
-    "tag": "姊妹站",
-    "body": "<b>SCA-IQ</b>（姊妹站）新增「<b>合作機會</b>」頁：涵蓋 12 個市場、三層對象（競品／治療型／製造生態系）共 68 家的合作角度分析與市場覆蓋地圖。MSA 領域的細胞治療與 CDMO 生態系與 SCA 高度重疊，相關對象一併收錄於該頁並標記「亦與 MSA 相關」。",
-    "note": "→ 細胞治療的製造與供應鏈是跨疾病共用的，兩站不重複維護同一份合作分析。",
-    "links": [
-      {
-        "label": "SCA-IQ 合作機會 ↗",
-        "url": "https://steminenttw.github.io/sca-iq/#pa"
-      }
-    ],
-    "en": {
-      "dateDisplay": "2026/07",
-      "tag": "Sister site",
-      "body": "<b>SCA-IQ</b> has added a <b>Partnering</b> tab: a partnering assessment and market coverage map spanning 68 companies across 12 markets and three layers (rivals, therapeutic developers, and the manufacturing ecosystem). Cell therapy and CDMO ecosystems overlap heavily between MSA and SCA, so the relevant counterparties are covered there and flagged as also relevant to MSA.",
-      "note": "Manufacturing and supply chains in cell therapy are shared across diseases, so the same partnering analysis is not maintained twice.",
-      "links": [
-        {
-          "label": "SCA-IQ Partnering ↗",
-          "url": "https://steminenttw.github.io/sca-iq/#pa"
-        }
-      ]
-    }
-  },
-  {
-    "id": "asyn-pet-tracers-2026-07",
-    "date": "2026-07-30",
-    "dateDisplay": "2026/07",
-    "level": "info",
-    "tag": "生物標記",
-    "body": "掃描盤點目前已登錄的 <b>α-synuclein PET 造影示蹤劑臨床研究</b>，MSA 均列為目標族群：<b>MODAG GmbH</b> 的 [¹⁸F]MODAG-009（NCT07640555，Early Ph1，n=13，收案中，美國 Institute for Neurodegenerative Disorders／XingImaging，主要指標 SUVR，主要完成估 2027/05）與 [¹¹C]MODAG-005 再測信度先導研究（NCT07640542，Early Ph1，<b>2026/07/29 已啟動收案</b>，n=9、德國圖賓根大學醫院核醫科單中心，主要指標為注射後 4 日內之安全性與耐受性，主要完成估 2027/07）；另有 <b>Synusight Biotech（上海）</b>的 SST001（NCT07604116，Ph1、n=30，2026/06/15 起於上海華山醫院與江南大學附屬醫院收案，評估安全性、生物分佈、輻射劑量與藥動，主要完成估 2026/12）。",
-    "note": "→ 這些是造影示蹤劑而非治療藥物，故未列入試驗雷達。MSA 目前缺乏可在活體量化 α-synuclein 病理負荷的工具，臨床試驗多依賴 UMSARS 與腦部體積等間接指標；若示蹤劑取得驗證，將影響未來試驗的受試者分層與藥效藥理終點設計。",
-    "links": [
-      {
-        "label": "[¹⁸F]MODAG-009 ↗ NCT07640555",
-        "url": "https://clinicaltrials.gov/study/NCT07640555"
-      },
-      {
-        "label": "[¹¹C]MODAG-005 ↗ NCT07640542",
-        "url": "https://clinicaltrials.gov/study/NCT07640542"
-      },
-      {
-        "label": "SST001 ↗ NCT07604116",
-        "url": "https://clinicaltrials.gov/study/NCT07604116"
-      }
-    ],
-    "en": {
-      "dateDisplay": "2026/07",
-      "tag": "Biomarkers",
-      "body": "The sweep took stock of the <b>α-synuclein PET tracer studies currently registered</b>, all of which include MSA as a target population: <b>MODAG GmbH</b>'s [¹⁸F]MODAG-009 (NCT07640555, Early Ph1, n=13, recruiting at the Institute for Neurodegenerative Disorders / XingImaging in the US, SUVR as the primary measure, primary completion estimated 2027/05) and its [¹¹C]MODAG-005 test-retest pilot (NCT07640542, Early Ph1, which <b>opened to recruitment on 29 July 2026</b> with n=9 at a single site, the nuclear medicine department of Tübingen University Hospital in Germany, safety and tolerability through four days post-injection as the primary measure and primary completion estimated 2027/07); plus <b>Synusight Biotech (Shanghai)</b>'s SST001 (NCT07604116, Ph1, n=30, recruiting since 15 June 2026 at Huashan Hospital in Shanghai and the Affiliated Hospital of Jiangnan University, assessing safety, biodistribution, radiation dosimetry and pharmacokinetics, primary completion estimated 2026/12).",
-      "note": "→ These are imaging tracers rather than treatments, so they are not listed on the trial radar. MSA currently lacks a tool for quantifying α-synuclein pathology in living patients, and trials rely on indirect measures such as UMSARS and brain volume; a validated tracer would change how future trials stratify participants and design pharmacodynamic endpoints.",
-      "links": [
-        {
-          "label": "[¹⁸F]MODAG-009 ↗ NCT07640555",
-          "url": "https://clinicaltrials.gov/study/NCT07640555"
-        },
-        {
-          "label": "[¹¹C]MODAG-005 ↗ NCT07640542",
-          "url": "https://clinicaltrials.gov/study/NCT07640542"
-        },
-        {
-          "label": "SST001 ↗ NCT07604116",
-          "url": "https://clinicaltrials.gov/study/NCT07604116"
-        }
-      ]
-    }
-  },
-  {
-    "id": "ath434-ph3-fda-2026-07",
-    "date": "2026-07-07",
-    "dateDisplay": "2026/07",
-    "level": "info",
-    "tag": "法規里程碑",
-    "body": "<b>Alterity ATH434</b> 公布 FDA End-of-Phase-2 會議紀錄，確認 MSA 註冊路徑：Ph3 約 <b>200 人</b>、1:1 隨機 50mg 或安慰劑、每日兩次共 12 個月，主要終點 <b>11 項 UMSARS Part I</b>，次要終點含吞嚥障礙問卷、姿勢性低血壓症狀評估與 CGI-S；FDA 同意單一樞紐試驗加確認性證據即可支持核准。",
-    "note": "→ 公司稱 2026 年底前啟動 Ph3 作業。這是 MSA 領域少見已與 FDA 就樞紐設計取得一致的案例。",
-    "links": [
-      {
-        "label": "新聞稿 ↗",
-        "url": "https://www.biospace.com/press-releases/alterity-therapeutics-receives-fda-end-of-phase-2-meeting-minutes-confirming-registrational-pathway-for-ath434-in-multiple-system-atrophy"
-      }
-    ],
-    "en": {
-      "dateDisplay": "2026/07",
-      "tag": "Regulatory milestone",
-      "body": "<b>Alterity's ATH434</b> released FDA End-of-Phase-2 meeting minutes confirming its registrational pathway in MSA: a Ph3 of roughly <b>200 patients</b> randomised 1:1 to 50mg or placebo twice daily for 12 months, with the <b>11-item UMSARS Part I</b> as the primary endpoint and secondary endpoints including the Swallowing Disturbance Questionnaire, the Orthostatic Hypotension Symptom Assessment and CGI-S. The FDA agreed that a single pivotal trial plus confirmatory evidence could support approval.",
-      "note": "→ The company says Ph3 activities will begin by the end of 2026. Few MSA programmes have reached explicit FDA alignment on a pivotal design.",
-      "links": [
-        {
-          "label": "Press release ↗",
-          "url": "https://www.biospace.com/press-releases/alterity-therapeutics-receives-fda-end-of-phase-2-meeting-minutes-confirming-registrational-pathway-for-ath434-in-multiple-system-atrophy"
         }
       ]
     }

@@ -449,13 +449,13 @@
     "status": "收案中",
     "highlight": false,
     "relevance": "免疫調節路線（與 MSC 抗神經發炎機制相鄰）",
-    "note": "→ 以 PET 影像測微膠細胞活化為主要評估。2026/05/14 公司公布前 2 名 MSA 受試者的定量 PET：基底核與視丘攝取顯著下降；2026/07/31 追加公布第 3 名受試者，SUV 降約 34%、SUVR 降約 26%。**累計僅 3 人、開放標籤無對照，尚無臨床療效數據。**",
+    "note": "→ 以 PET 影像測微膠細胞活化為主要評估。2026/05/14 公司公布前 2 名 MSA 受試者的定量 PET：基底核與視丘攝取顯著下降；2026/07/31 追加公布第 3 名受試者，SUV 降約 34%、SUVR 降約 26%。**累計僅 3 人、開放標籤無對照，尚無臨床療效數據。** 2026/09/30 公司向 FDA 遞交 MSA 適應症孤兒藥資格申請（designation，非核准）。",
     "en": {
       "mechanism": "Fully human anti-CD3 monoclonal antibody given nasally; immune modulation reducing microglial activation",
       "phase": "Ph2a (NCT06868628)",
       "status": "Recruiting",
       "relevance": "Immune-modulation route (adjacent to the anti-neuroinflammatory MSC mechanism)",
-      "note": "Microglial activation on PET is the primary measure. On 2026/05/14 the company reported quantitative PET from its first 2 MSA patients: significantly reduced basal ganglia and thalamic uptake; on 2026/07/31 it added a 3rd patient, showing ~34% SUV and ~26% SUVR reduction. **Only 3 patients cumulative, open-label and uncontrolled, with no clinical efficacy data yet.**",
+      "note": "Microglial activation on PET is the primary measure. On 2026/05/14 the company reported quantitative PET from its first 2 MSA patients: significantly reduced basal ganglia and thalamic uptake; on 2026/07/31 it added a 3rd patient, showing ~34% SUV and ~26% SUVR reduction. **Only 3 patients cumulative, open-label and uncontrolled, with no clinical efficacy data yet.** On 2026/09/30 the company filed with the FDA for orphan drug designation in MSA (a designation filing, not an approval).",
       "drug": "Foralumab (nasal)",
       "sources": [
         {

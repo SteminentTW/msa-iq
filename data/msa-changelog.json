@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-10-03",
+    "dateDisplay": "2026/10/03",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>補回 2026-10-02 缺跑的一天（上次真正發布為 2026-10-01，缺口 2 天，在補跑上限 3 天內，全數回補）。</b>CT.gov 廣掃窗內（LastUpdatePostDate 2026-09-29～10-03）唯一與 MSA 直接相關者為 Teva emrusolmin 延伸試驗 NCT07197866（10/2 更新，仍收案中，平台既有記錄一致、無需異動）；其餘命中（AZD9750 前列腺癌、risdiplam SMA、SFL-0821 FSHD 等）皆為「atrophy」字面誤觸、經逐筆核對排除。PubMed「multiple system atrophy」[Title] 近 7 天命中 8 篇，7 篇已於 10/1 收錄，<b>新增 1 篇</b>（PubMed 42826522，Sudoscan 與 ¹²³I-MIBG 心肌造影鑑別 MSA 與 PD 之自主神經生物標記研究）。<b>新增 2 則產業新聞</b>：① Lundbeck 於 10/2 公告將在 MDS 2026（首爾，10/4–08）發表 amlenetug 樞紐 Ph3 MASCOT 試驗（NCT06706622，n=401）收案多樣性基線資料、mUMSARS 量表驗證、腦脊髓液生物標記與 MSA／PD 鑑別檢測——<b>純屬議程預告，非療效讀出</b>，已同步更新 events.json 之 MDS 2026 條目；② Tiziana 於 9/30 向 FDA 遞交鼻噴 foralumab 之 MSA 孤兒藥資格申請——<b>資格申請，非核准、非療效數據</b>，已於 msa-competitors.json foralumab 卡註記。公司新聞另查核 Alterity ATH434、Ono ONO-2808、Mayo MSC（NCT05167721）：窗內均無新事實，現況與既有記錄一致。msa-events.json 除上述 MDS 更新外無其他異動；msa-assessments／naturalhistory／preclinical 本次未查得新事實，維持不動。weekNewCount 延續本週（自 9/28 起）累計，本次新增 1 篇文獻＋2 則新聞，計入後為 12。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>Backfilled the one missed day, 2026-10-02 (last genuine publish was 2026-10-01; a 2-day gap, within the 3-day backfill cap, fully closed).</b> Within the CT.gov broad-scan window (LastUpdatePostDate 2026-09-29 to 10-03), the only MSA-relevant hit was Teva's emrusolmin extension trial NCT07197866 (updated 10/2, still recruiting, matching what the platform already has — no change needed); the rest of the hits (AZD9750 in prostate cancer, risdiplam in SMA, SFL-0821 in FSHD, etc.) were literal 'atrophy' mismatches excluded one by one. The PubMed '\"multiple system atrophy\"[Title]' search over the past 7 days returned 8 hits, 7 already recorded on 10/1, with <b>1 new paper added</b> (PubMed 42826522, an autonomic biomarker study using Sudoscan and ¹²³I-MIBG myocardial scintigraphy to differentiate MSA from PD). <b>2 industry news items added</b>: (1) Lundbeck announced on 10/2 that it will present, at MDS 2026 (Seoul, 10/4–08), baseline diversity data from the pivotal Phase III MASCOT trial of amlenetug (NCT06706622, n=401), mUMSARS scale validation, cerebrospinal fluid biomarker work and an MSA/PD differentiation assay — <b>purely a congress-agenda preview, not an efficacy readout</b>; the MDS 2026 entry in events.json was updated accordingly. (2) Tiziana filed with the FDA on 9/30 for orphan drug designation for intranasal foralumab in MSA — <b>a designation filing, not an approval or efficacy data</b>; noted on the foralumab card in msa-competitors.json. Company-news checks on Alterity's ATH434, Ono's ONO-2808 and the Mayo MSC trial (NCT05167721) found no new facts in the window; current status matches what is already on record. No other change was made to msa-events.json beyond the MDS update; msa-assessments, naturalhistory and preclinical had no new verifiable facts this run and remain unchanged. weekNewCount continues this week's running total (from 9/28); today added 1 paper plus 2 news items, bringing the total to 12.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-10-01",
     "dateDisplay": "2026/10/01",
     "tag": "每日掃描",
