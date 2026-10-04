@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-10-04",
+    "dateDisplay": "2026/10/04",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>上次真正發布為2026-10-03，缺口1天（即今日），屬正常每日掃描、無需補跑。</b>CT.gov廣掃（query.cond=multiple system atrophy，收案中/未收案/收案已結束三狀態，pageSize=40）共40筆命中，逐筆核對適應症：僅Ono ONO-2808（NCT07825402）、Alterity ATH434開放式延伸（NCT07729852）、Teva emrusolmin延伸（NCT07197866）等既有記錄之MSA試驗仍在窗內，<b>其餘命中皆為「atrophy」字面誤觸</b>（SMA／DMD／DM1／FSHD／肌少症sarcopenia／前列腺癌AZD9750／顏面萎縮等）或<b>觀察性登錄／自然史研究</b>（非典型帕金森症世代、神經退化性疾病標記、嗅覺黏膜生物標記等），<b>逐筆排除，未發現平台未收錄之新介入性試驗</b>。PubMed「multiple system atrophy」[Title]近7天命中7篇，5篇已於先前收錄，<b>新增2篇</b>（PubMed 42829174，京都大學屍解研究：MSA殼核與小腦白質CCR2陽性周邊單核球系細胞增加、伴血腦屏障滲漏，內生微膠細胞TMEM119則無差異；PubMed 42823968，242人橫斷面研究：56.2%呈姿勢性低血壓，MSA-C亞型／probable MSA／UMSARS-I分數與OH出現獨立相關，男性與NMSS分數則與嚴重度獨立相關）——<b>均為機轉／自然史觀察研究，不含治療資料</b>。公司新聞WebSearch查核Alterity ATH434（FDA註冊路徑已於Ph3設計定案，年底啟動）、Lundbeck amlenetug（MDS 2026發表基線資料，純議程預告）、Ono ONO-2808（interim正面訊號，籌劃Ph3）、Teva emrusolmin（Fast Track，Ph2收案中）、Tiziana foralumab（9/30孤兒藥申請）：<b>查得內容均為此前已收錄之既有事實，窗內無新事實</b>。msa-events.json除既有MDS 2026條目外無異動；msa-assessments／naturalhistory／preclinical本次未查得新事實，維持不動。weekNewCount本次新增2篇文獻，自12累計為14。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>The last genuine publish was 2026-10-03, a 1-day gap (i.e. today) — a normal daily run, no backfill needed.</b> The CT.gov broad scan (query.cond=multiple system atrophy, across recruiting/not-yet-recruiting/active-not-recruiting statuses, pageSize=40) returned 40 hits, checked one by one against indication: only Ono's ONO-2808 (NCT07825402), Alterity's ATH434 open-label extension (NCT07729852) and Teva's emrusolmin extension (NCT07197866) — all already on record — fell within the window; <b>everything else was either a literal 'atrophy' mismatch</b> (SMA/DMD/DM1/FSHD/sarcopenia/AZD9750 in prostate cancer/facial atrophy, etc.) <b>or an observational registry/natural-history study</b> (atypical parkinsonism cohorts, neurodegeneration progression markers, olfactory-mucosa biomarkers, etc.), <b>all excluded one by one, with no new interventional trial found that the platform does not already have</b>. PubMed's '\"multiple system atrophy\"[Title]' search over the past 7 days returned 7 hits, 5 already recorded, with <b>2 new papers added</b> (PubMed 42829174, a Kyoto University autopsy study: increased CCR2-positive peripheral myeloid cells in the MSA putamen and cerebellar white matter with blood-brain barrier leakage, while endogenous microglia (TMEM119) showed no difference; PubMed 42823968, a 242-patient cross-sectional study: 56.2% had orthostatic hypotension, with MSA-C subtype/probable MSA/UMSARS-I score independently associated with OH presence, and male sex/NMSS score independently associated with severity) — <b>both are mechanistic/natural-history observational studies with no treatment data</b>. WebSearch company-news checks on Alterity's ATH434 (Ph3 design finalised under an agreed FDA registrational pathway, starting by year-end), Lundbeck's amlenetug (MDS 2026 presentation of baseline data, a pure agenda preview), Ono's ONO-2808 (positive interim signal, planning Ph3), Teva's emrusolmin (Fast Track, Ph2 recruiting) and Tiziana's foralumab (orphan drug filing 9/30) <b>all surfaced facts already on record; nothing new within the window</b>. msa-events.json is unchanged beyond the existing MDS 2026 entry; msa-assessments, naturalhistory and preclinical had no new verifiable facts this run and remain unchanged. weekNewCount adds 2 papers this run, bringing the running total from 12 to 14.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-10-03",
     "dateDisplay": "2026/10/03",
     "tag": "每日掃描",

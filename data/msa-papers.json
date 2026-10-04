@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:42823968",
+    "date": "2026-09-17",
+    "dateDisplay": "2026/09/17",
+    "title": "Factors associated with orthostatic hypotension presence and severity in multiple system atrophy: a cross-sectional study",
+    "journal": "Frontiers in Neurology 17:1950923（2026/09/17）· Zhang K、Xu X 等 · 北京中醫藥大學東方醫院（中國）· doi:10.3389/fneur.2026.1950923",
+    "tag": "自主神經功能 · 姿勢性低血壓 · 臨床特徵 · 橫斷面研究",
+    "highlight": false,
+    "note": "→ <b>橫斷面研究，242名MSA病人</b>接受血壓評估。<b>136人（56.2%）呈姿勢性低血壓（OH）</b>；MSA-C亞型（OR=2.42，95% CI 1.33–4.43，p=0.004）、確定性較高之「probable MSA」診斷（OR=2.68，p=0.001）與較高UMSARS-I分數（OR=1.10，p=0.005）與OH出現獨立相關。<b>在OH陽性病人中，男性（OR=2.57，p=0.014）與較高NMSS分數（OR=1.06，p=0.009）與嚴重OH獨立相關，MSA亞型則非獨立因子</b>；MSA-C亞群中NMSS與嚴重OH之關聯達統計顯著（OR=1.09，p=0.004），其餘亞群未達顯著。<b>腦部影像標記與OH無相關</b>。作者結論OH「是否出現」與「嚴重程度」之相關因子不同，可用於辨識自主神經受累風險較高之病人。⚠️ 橫斷面設計、單一時間點血壓測量，無法推論因果或疾病進程；非治療性研究。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42823968/",
+    "urlLabel": "論文 ↗ PubMed 42823968",
+    "en": {
+      "tag": "Autonomic function · orthostatic hypotension · clinical characteristics · cross-sectional study",
+      "journal": "Frontiers in Neurology 17:1950923 (2026/09/17) · Zhang K, Xu X, et al. · Dongfang Hospital, Beijing University of Chinese Medicine, China · doi:10.3389/fneur.2026.1950923",
+      "note": "→ <b>A cross-sectional study of 242 MSA patients</b> underwent blood pressure assessment. <b>136 (56.2%) had orthostatic hypotension (OH)</b>; the MSA-C subtype (OR=2.42, 95% CI 1.33–4.43, p=0.004), a more certain \"probable MSA\" diagnosis (OR=2.68, p=0.001) and higher UMSARS-I scores (OR=1.10, p=0.005) were independently associated with OH presence. <b>Among OH-positive patients, male sex (OR=2.57, p=0.014) and higher NMSS scores (OR=1.06, p=0.009) were independently associated with severe OH, while MSA subtype was not an independent factor</b>; the NMSS-severe-OH association reached significance within the MSA-C subgroup (OR=1.09, p=0.004) but not in other subgroups. <b>No neuroimaging marker was associated with OH.</b> The authors conclude that the factors associated with OH presence differ from those for severity, which could help identify patients at higher risk of autonomic involvement. ⚠️ Cross-sectional design with a single blood-pressure timepoint cannot establish causality or disease trajectory; not a treatment study.",
+      "urlLabel": "Paper ↗ PubMed 42823968"
+    }
+  },
+  {
+    "id": "pubmed:42829174",
+    "date": "2026-10-03",
+    "dateDisplay": "2026/10/03",
+    "title": "Increased CCR2-immunopositive myeloid cells in the putamen and cerebellar white matter with blood-brain barrier disruption in multiple system atrophy",
+    "journal": "Neuroscience Letters 2026/10/03（Online ahead of print）· Okada N、Ayaki T 等 · 京都大學（日本）· doi:10.1016/j.neulet.2026.138750",
+    "tag": "病理機轉 · 神經發炎 · 周邊單核球系細胞 · 血腦屏障",
+    "highlight": false,
+    "note": "→ <b>屍解腦組織免疫組織化學研究</b>：對殼核與小腦白質進行CCR2（單核球系趨化受體）、TMEM119（微膠細胞標記）與纖維蛋白原（血腦屏障滲漏指標）染色，比對MSA病人與年齡匹配對照。<b>CCR2陽性面積在兩區域均顯著增加</b>（殼核p=0.0043、小腦白質p=0.0438），<b>TMEM119（內生微膠細胞）則無顯著差異</b>（p=0.42／0.82）；殼核纖維蛋白原免疫反應性與滲漏增加、分布與CCR2染色相似（p=0.0398）。兩區域CCR2密度呈正相關（r=0.7325，p=0.0248）。作者推論血腦屏障功能異常區域可能伴隨周邊單核球系細胞的募集，區別於內生微膠細胞活化。⚠️ 屍解橫斷面研究、樣本數未載明於摘要，不含任何治療或臨床對照資料，屬機轉研究。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829174/",
+    "urlLabel": "論文 ↗ PubMed 42829174",
+    "en": {
+      "tag": "Pathology/mechanism · neuroinflammation · peripheral myeloid cells · blood-brain barrier",
+      "journal": "Neuroscience Letters 2026/10/03 (online ahead of print) · Okada N, Ayaki T, et al. · Kyoto University, Japan · doi:10.1016/j.neulet.2026.138750",
+      "note": "→ <b>An autopsy brain-tissue immunohistochemistry study</b>: putamen and cerebellar white matter were stained for CCR2 (a monocyte-lineage chemokine receptor), TMEM119 (a microglial marker) and fibrinogen (a marker of blood-brain barrier leakage), comparing MSA patients with age-matched controls. <b>CCR2-positive area was significantly increased in both regions</b> (putamen p=0.0043, cerebellar white matter p=0.0438), while <b>TMEM119 (endogenous microglia) showed no significant difference</b> (p=0.42/0.82); in the putamen, fibrinogen immunoreactivity and leakage were increased with a distribution similar to CCR2 staining (p=0.0398). CCR2 density in the two regions correlated positively (r=0.7325, p=0.0248). The authors infer that regions with blood-brain barrier dysfunction may involve recruitment of peripheral monocyte-lineage cells, distinct from endogenous microglial activation. ⚠️ A cross-sectional autopsy study; sample size is not stated in the abstract, and it contains no treatment or clinical comparator data — a mechanistic study.",
+      "urlLabel": "Paper ↗ PubMed 42829174"
+    }
+  },
+  {
     "id": "pubmed:42826522",
     "date": "2026-09-29",
     "dateDisplay": "2026/09/29",
