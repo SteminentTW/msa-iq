@@ -1,5 +1,42 @@
 [
   {
+    "id": "ath434-nfl-adjusted-2026-10",
+    "date": "2026-10-05",
+    "dateDisplay": "2026/10",
+    "competitor": "Alterity Therapeutics",
+    "drug": "ATH434",
+    "trial": "ATH434-201 · Ph2（NCT05109091，隨機雙盲安慰劑對照，77 人入組、61 人納入 mITT 影像分析）",
+    "sourceType": "新聞稿 · 研討會發表",
+    "level": "info",
+    "readout": "<b>公司於 2026/10/05 在 MDS 2026 國際大會（首爾）發表 ATH434-201 之新分析。⚠️ 需先說明：本試驗<u>原訂主要終點（第 52 週黑質鐵含量變化，MRI 測得）並未達成</u></b>——此點本站過去收錄 ATH434-201 時未載明，本次依今日新聞稿內容補正。本次發表為<b>以基線腦脊髓液神經絲輕鏈（CSF NfL）為共變項、事後（post hoc）調整之分析</b>（原預先設定分析採 ANCOVA，未納入 NfL 共變項）：<b>50mg 劑量組於第 52 週 11 項 UMSARS Part I 相對安慰劑差距 4.64 分（p=0.032）</b>，公司換算約為<b>「減緩 52% 功能惡化」</b>，相對最小臨床顯著差異（1.5 分）約 3 倍；<b>75mg 劑量組未達統計顯著</b>（第 26 週差距 2.81 分、p=0.072；第 52 週 p=0.179）。另一項分析顯示<b>基線 CSF NfL 每升高 1000 pg/mL，第 52 週 UMSARS Part I 惡化約多 0.9 分（p=0.033）</b>，支持 NfL 作為疾病嚴重度之預後標記。影像面：<b>齒狀核（dentate nucleus）鐵含量於 50mg 組不降反升（+0.016 ppm，p=0.021）</b>，公司解讀為「區域性鐵處理機制不同」；<b>殼核與蒼白球鐵含量則呈數值上較安慰劑低（未達顯著）</b>。公司執行長 David Stamler 具名發布。", "implication": "→ 與本站先前收錄之 2025/01 頂線（ath434-201-2025，n=71 分析族群、50mg 相對療效 48%）同屬 ATH434-201 試驗之不同分析切面；<b>兩者數字不同（4.64分/52% vs 48%），且本次分析為事後調整、非原預先設定之統計模型，應視為支持性而非確認性證據</b>。<b>核心事實是：此 Ph2 原始影像主要終點未達成，公司對外溝通長期以 UMSARS 次要／探索性指標為主軸</b>——這是解讀 FDA 已同意之樞紐 Ph3（以 UMSARS Part I 為主要終點、非影像）設計邏輯時的重要背景。齒狀核鐵不降反升一點亦提示鐵調節機制在不同腦區可能方向不一，不宜單純解讀為「全腦鐵負荷下降」。",
+    "links": [
+      {
+        "label": "GlobeNewswire 新聞稿 2026/10/05 ↗",
+        "url": "https://www.globenewswire.com/news-release/2026/10/05/3374418/0/en/alterity-therapeutics-presents-new-analyses-of-ath434-phase-2-data-in-multiple-system-atrophy-at-the-2026-international-congress-of-parkinson-s-disease-and-movement-disorders.html"
+      },
+      {
+        "label": "試驗登錄 ↗ NCT05109091",
+        "url": "https://clinicaltrials.gov/study/NCT05109091"
+      }
+    ],
+    "en": {
+      "trial": "ATH434-201 · Ph2 (NCT05109091, randomised double-blind placebo-controlled; 77 enrolled, 61 in the mITT imaging analysis)",
+      "sourceType": "Press release · congress presentation",
+      "readout": "<b>On 2026/10/05 the company presented new analyses of ATH434-201 at the MDS 2026 International Congress (Seoul). ⚠️ First, a correction: this trial's <u>original primary endpoint — change in substantia nigra iron (by MRI) at Week 52 — was not met</u></b>, a point this site's earlier record of ATH434-201 did not state; it is corrected here based on today's release. Today's presentation is a <b>post-hoc analysis adjusted for baseline cerebrospinal fluid neurofilament light chain (CSF NfL) as a covariate</b> (the original prespecified analysis used ANCOVA without an NfL covariate): the <b>50 mg arm showed a 4.64-point difference versus placebo on the 11-item UMSARS Part I at Week 52 (p=0.032)</b>, which the company translates to roughly <b>'52% slower functional decline'</b> — about 3 times the minimal clinically important difference (1.5 points); the <b>75 mg arm did not reach significance</b> (2.81-point difference at Week 26, p=0.072; p=0.179 at Week 52). A separate analysis found that <b>each 1,000 pg/mL increase in baseline CSF NfL predicted roughly 0.9 additional points of UMSARS Part I worsening at Week 52 (p=0.033)</b>, supporting NfL as a prognostic marker of severity. On imaging: <b>dentate nucleus iron rose rather than fell in the 50 mg group (+0.016 ppm, p=0.021)</b>, which the company attributes to region-specific iron handling; <b>putamen and globus pallidus iron were numerically lower than placebo (not significant)</b>. The release is attributed to CEO David Stamler.", "implication": "→ This is a different analytical cut of the same ATH434-201 trial already recorded on this site (ath434-201-2025, 2025/01 topline, n=71 analysis set, 48% relative effect at 50mg); <b>the two sets of figures differ (4.64 points/52% vs 48%), and today's analysis is a post-hoc adjustment rather than the original prespecified statistical model, so it should be read as supportive rather than confirmatory evidence</b>. <b>The key underlying fact is that this Phase 2 trial's original imaging primary endpoint was not met, and the company's public communication has consistently centred on secondary/exploratory UMSARS measures instead</b> — important context for reading the logic behind the FDA-aligned pivotal Phase 3 design, which uses UMSARS Part I (not imaging) as its primary endpoint. The dentate-nucleus iron increase is also a reminder that iron-modulation effects may not run in the same direction across brain regions, and should not be read simply as 'whole-brain iron burden reduced.'",
+      "links": [
+        {
+          "label": "GlobeNewswire release 2026/10/05 ↗",
+          "url": "https://www.globenewswire.com/news-release/2026/10/05/3374418/0/en/alterity-therapeutics-presents-new-analyses-of-ath434-phase-2-data-in-multiple-system-atrophy-at-the-2026-international-congress-of-parkinson-s-disease-and-movement-disorders.html"
+        },
+        {
+          "label": "Trial registration ↗ NCT05109091",
+          "url": "https://clinicaltrials.gov/study/NCT05109091"
+        }
+      ],
+      "dateDisplay": "2026/10"
+    }
+  },
+  {
     "id": "kainos-km819-dili-2026",
     "date": "2026-09-28",
     "dateDisplay": "2026/09",

@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42600994",
+    "date": "2026-10-01",
+    "dateDisplay": "2026/10/01（Neurobiology of Disease 228:107575；線上搶先版 2026/08/14）",
+    "title": "Multiple system atrophy-derived α-synuclein fibrils are more potent and display oligodendrocyte cell tropism compared to Parkinson's disease-derived fibrils",
+    "journal": "Neurobiology of Disease 228:107575（2026/10/01；線上搶先 2026/08/14）· Laursen AS、Willén K、Fenyi A、Volbracht C、Dalgaard LT、Aznar S、Melki R、Fog K、Sotty F · 丹麥哥本哈根大學醫院／H. Lundbeck A/S／法國 CEA-CNRS MIRCen · doi:10.1016/j.nbd.2026.107575",
+    "tag": "病理機轉 · α-synuclein 株系（strain）假說 · 體外／動物模型",
+    "highlight": false,
+    "note": "→ <b>以蛋白錯誤折疊循環擴增（PMCA）技術擴增 MSA 與帕金森病（PD）病人腦組織來源之 α-synuclein，並與人工合成之 fibril／ribbon 兩種多形體（polymorph）比較</b>：將各類種子物質投予原代小鼠神經元培養，或<b>立體定位注射入野生型小鼠腦紋狀體</b>，比對誘發磷酸化 α-synuclein（pSyn）病理、微膠細胞反應性與寡突膠細胞（oligodendroglial）病理之程度。<b>結果</b>：<b>MSA 腦組織擴增物與 fibril 多形體，誘發之 pSyn 病理程度皆高於 PD 腦組織擴增物與 ribbon 多形體</b>（神經元培養與小鼠體內一致）；<b>MSA 擴增物誘發之寡突膠細胞 pSyn 聚集顯著多於 PD 擴增物</b>；注射 fibril 多形體之小鼠呈現輕度微膠細胞反應性變化。作者結論支持「株系假說」（strain hypothesis）——MSA 與 PD 的 α-synuclein 聚集體可能屬不同結構株系，可解釋兩病之病理分布與臨床進程差異（MSA 之寡突膠細胞內含物為其病理特徵、病程通常較 PD 更具侵襲性）。⚠️ <b>本文為體外細胞培養＋動物模型之機轉研究，非臨床試驗，不含任何療效或安全性資料</b>；<b>部分作者為 H. Lundbeck A/S 員工（利益揭露，見原文）</b>——該公司之抗 α-synuclein 抗體 amlenetug 正於 MSA 進行樞紐 Ph3（MASCOT），本文屬其標的機轉之基礎科學佐證，非臨床數據。<b>本站透過今日 PubMed 標題檢索（近7天視窗）取得，惟 PubMed 索引／線上搶先版日期（2026/08/14）早於視窗，疑為期刊正式出版日（2026/10/01）落入標題檢索視窗所致；本站如實註明此時間差。</b>",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42600994/",
+    "urlLabel": "論文 ↗ PubMed 42600994",
+    "en": {
+      "tag": "Pathology/mechanism · α-synuclein strain hypothesis · in-vitro/animal model",
+      "journal": "Neurobiology of Disease 228:107575 (2026/10/01; first available online 2026/08/14) · Laursen AS, Willén K, Fenyi A, Volbracht C, Dalgaard LT, Aznar S, Melki R, Fog K, Sotty F · Copenhagen University Hospital / H. Lundbeck A/S, Denmark / CEA-CNRS MIRCen, France · doi:10.1016/j.nbd.2026.107575",
+      "note": "→ <b>Protein misfolding cyclic amplification (PMCA) was used to amplify α-synuclein from MSA and Parkinson's disease (PD) brain tissue, compared against two synthetic polymorphs (fibril and ribbon)</b>: the seeding materials were applied to primary mouse neuronal cultures or <b>injected stereotactically into the striatum of wild-type mice</b>, comparing the resulting phosphorylated α-synuclein (pSyn) pathology, microglial reactivity and oligodendroglial pathology. <b>Results</b>: <b>MSA-amplified material and the fibril polymorph induced more pSyn pathology than PD-amplified material and the ribbon polymorph</b>, consistently in both neuronal cultures and mice; <b>MSA-amplified material induced significantly more oligodendroglial pSyn aggregation than PD-amplified material</b>; mice injected with the fibril polymorph showed mild changes in microglial reactivity. The authors conclude this supports the <b>strain hypothesis</b> — that MSA and PD alpha-synuclein aggregates may be structurally distinct strains, which could explain the two diseases' differing pathological distribution and clinical course (MSA's hallmark oligodendroglial inclusions and its typically more aggressive course than PD). ⚠️ <b>This is an in-vitro cell-culture plus animal-model mechanistic study, not a clinical trial, and contains no efficacy or safety data</b>; <b>several authors are employees of H. Lundbeck A/S (disclosed in the original paper)</b> — whose anti-alpha-synuclein antibody amlenetug is in a pivotal Phase III MSA trial (MASCOT); this paper is basic-science support for that mechanistic target, not clinical data. <b>This site retrieved it via today's PubMed title search (7-day window); the PubMed index/online-ahead-of-print date (2026/08/14) predates that window, apparently because the journal's formal publication date (2026/10/01) is what fell inside the title-search window — this timing discrepancy is noted here for transparency.</b>",
+      "urlLabel": "Paper ↗ PubMed 42600994"
+    }
+  },
+  {
     "id": "pubmed:42823968",
     "date": "2026-09-17",
     "dateDisplay": "2026/09/17",

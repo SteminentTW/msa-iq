@@ -168,15 +168,15 @@
     "drug": "ATH434",
     "mechanism": "小分子（調節鐵/抑制 α-synuclein 聚集）",
     "phase": "Ph2 完成 → Ph3（註冊型）",
-    "status": "Ph2 正面（2025/01 topline，modified UMSARS-I 顯著改善）；<b>2026/07/07 公布 FDA End-of-Phase-2 會議紀錄，確認註冊路徑</b>——Ph3 約 200 人、1:1 隨機 ATH434 50mg 或安慰劑、每日兩次共 12 個月，主要終點為 11 項 UMSARS Part I；FDA 同意「單一樞紐試驗＋確認性證據」即可支持核准，公司稱 2026 年底前啟動 Ph3 作業。",
+    "status": "Ph2（ATH434-201，NCT05109091，n=77）<b>原訂主要終點（第52週黑質鐵含量變化，MRI）並未達成</b>；公司長期以次要／探索性指標 modified UMSARS Part I 作為對外溝通主軸，2025/01 頂線稱 50mg 相對療效 48%（n=71 分析族群）。<b>2026/07/07 公布 FDA End-of-Phase-2 會議紀錄，確認註冊路徑</b>——Ph3 約 200 人、1:1 隨機 ATH434 50mg 或安慰劑、每日兩次共 12 個月，主要終點為 11 項 UMSARS Part I（非影像）；FDA 同意「單一樞紐試驗＋確認性證據」即可支持核准，公司稱 2026 年底前啟動 Ph3 作業。<b>2026/10/05 於 MDS 2026 國際大會發表以 CSF NfL 為共變項之事後調整分析</b>：50mg 組第52週 UMSARS Part I 相對安慰劑差距 4.64 分（p=0.032，約稱「減緩52%」），75mg 未達顯著；齒狀核鐵含量不降反升（+0.016 ppm，p=0.021）。詳見試驗結果雷達。",
     "highlight": false,
-    "relevance": "機制對手（正面）",
-    "note": "→ 目前 MSA 小分子中最為突出者：ATH434-201 於 modified UMSARS Part I 達統計與臨床顯著；獲 FDA Fast Track，且已與 FDA 就樞紐 Ph3 設計與主要終點取得一致。屬 α-synuclein／鐵路線，與細胞治療機制不同。",
+    "relevance": "機制對手（正面訊號，惟原始影像主要終點未達）",
+    "note": "→ 目前 MSA 小分子中對外溝通最為正面者：ATH434-201 於 modified UMSARS Part I 多次分析均見改善，獲 FDA Fast Track，且已與 FDA 就樞紐 Ph3 設計與主要終點（改為 UMSARS Part I，非影像）取得一致。⚠️ <b>但須註明：此 Ph2 原訂影像主要終點（黑質鐵）未達成，目前對外引用的正面數字均來自次要終點或事後調整分析，非原預先設定之確認性分析</b>。屬 α-synuclein／鐵路線，與細胞治療機制不同。",
     "en": {
-      "note": "The standout MSA small molecule: ATH434-201 achieved statistically and clinically significant improvement on modified UMSARS Part I; it holds FDA Fast Track and has now aligned with the FDA on pivotal Ph3 design and primary endpoint. An alpha-synuclein/iron route, distinct from cell therapy.",
+      "note": "→ The most positively communicated MSA small molecule to date: ATH434-201 has shown improvement on modified UMSARS Part I across several analyses, holds FDA Fast Track, and has aligned with the FDA on pivotal Ph3 design with UMSARS Part I (not imaging) as the primary endpoint. ⚠️ <b>Caveat: this Phase 2 trial's original imaging primary endpoint (substantia nigra iron) was not met, and the positive figures publicised to date all come from secondary endpoints or post-hoc adjusted analyses, not the original prespecified confirmatory analysis</b>. An alpha-synuclein/iron route, distinct from cell therapy.",
       "mechanism": "Small molecule (iron modulation / inhibits α-synuclein aggregation)",
-      "status": "Positive Ph2 (2025/01 topline: significant improvement on modified UMSARS-I); <b>FDA End-of-Phase-2 meeting minutes announced 2026/07/07 confirmed the registrational pathway</b> — a Ph3 of roughly 200 patients randomised 1:1 to ATH434 50mg or placebo twice daily for 12 months, with the 11-item UMSARS Part I as the primary endpoint. The FDA agreed that a single pivotal trial plus confirmatory evidence could support approval, and the company says Ph3 activities will start by end-2026.",
-      "relevance": "Mechanistic peer (positive)",
+      "status": "Ph2 (ATH434-201, NCT05109091, n=77): <b>the original primary endpoint (change in substantia nigra iron by MRI at Week 52) was not met</b>; the company's public communication has long centred on the secondary/exploratory modified UMSARS Part I measure, with the 2025/01 topline citing a 48% relative effect at 50mg (n=71 analysis set). <b>FDA End-of-Phase-2 meeting minutes announced 2026/07/07 confirmed the registrational pathway</b> — a Ph3 of roughly 200 patients randomised 1:1 to ATH434 50mg or placebo twice daily for 12 months, with the 11-item UMSARS Part I (not imaging) as the primary endpoint. The FDA agreed that a single pivotal trial plus confirmatory evidence could support approval, and the company says Ph3 activities will start by end-2026. <b>On 2026/10/05 at the MDS 2026 Congress the company presented a post-hoc analysis adjusted for CSF NfL as a covariate</b>: the 50mg arm showed a 4.64-point difference versus placebo on UMSARS Part I at Week 52 (p=0.032, described as 'roughly 52% slowing'), while 75mg did not reach significance; dentate nucleus iron rose rather than fell (+0.016 ppm, p=0.021). See the Trial Results radar for detail.",
+      "relevance": "Mechanistic peer (positive signal, though the original imaging primary endpoint was missed)",
       "sources": [
         {
           "label": "ATH434 Ph2 trial NCT05109091",
@@ -185,6 +185,10 @@
         {
           "label": "FDA EOP2 meeting minutes (2026/07/07)",
           "url": "https://www.biospace.com/press-releases/alterity-therapeutics-receives-fda-end-of-phase-2-meeting-minutes-confirming-registrational-pathway-for-ath434-in-multiple-system-atrophy"
+        },
+        {
+          "label": "MDS 2026 new analyses release (2026/10/05)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/05/3374418/0/en/alterity-therapeutics-presents-new-analyses-of-ath434-phase-2-data-in-multiple-system-atrophy-at-the-2026-international-congress-of-parkinson-s-disease-and-movement-disorders.html"
         }
       ],
       "phase": "Ph2 complete → registrational Ph3"
@@ -197,6 +201,10 @@
       {
         "label": "FDA EOP2 會議紀錄（2026/07/07）",
         "url": "https://www.biospace.com/press-releases/alterity-therapeutics-receives-fda-end-of-phase-2-meeting-minutes-confirming-registrational-pathway-for-ath434-in-multiple-system-atrophy"
+      },
+      {
+        "label": "MDS 2026 新分析新聞稿（2026/10/05）",
+        "url": "https://www.globenewswire.com/news-release/2026/10/05/3374418/0/en/alterity-therapeutics-presents-new-analyses-of-ath434-phase-2-data-in-multiple-system-atrophy-at-the-2026-international-congress-of-parkinson-s-disease-and-movement-disorders.html"
       }
     ],
     "category": "dmt"

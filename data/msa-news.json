@@ -1,5 +1,39 @@
 [
   {
+    "id": "ath434-nfl-adjusted-mds2026",
+    "date": "2026-10-05",
+    "dateDisplay": "2026/10/05",
+    "level": "info",
+    "tag": "學會發表 · 試驗讀出",
+    "body": "<b>Alterity Therapeutics 於 MDS 2026 國際大會（首爾）發表 ATH434-201（Ph2，NCT05109091）新分析</b>：以基線腦脊髓液神經絲輕鏈（CSF NfL）為共變項、事後調整之分析顯示，<b>50mg 劑量組第52週 11項 UMSARS Part I 相對安慰劑差距 4.64 分（p=0.032）</b>，公司稱約為「減緩52%功能惡化」；75mg 未達統計顯著。基線 NfL 每升高 1000 pg/mL，與約多 0.9 分惡化相關（p=0.033）。影像面：齒狀核鐵含量於 50mg 組不降反升（+0.016 ppm，p=0.021）。",
+    "note": "→ <b>需同時指出：此 Ph2 原訂主要終點（第52週黑質鐵含量，MRI）並未達成</b>，本次與先前公布之正面數字均來自次要／探索性或事後調整分析，本站已同步更正在研療法全景之敘述並附上完整脈絡，詳見試驗結果雷達。",
+    "links": [
+      {
+        "label": "GlobeNewswire 新聞稿 2026/10/05 ↗",
+        "url": "https://www.globenewswire.com/news-release/2026/10/05/3374418/0/en/alterity-therapeutics-presents-new-analyses-of-ath434-phase-2-data-in-multiple-system-atrophy-at-the-2026-international-congress-of-parkinson-s-disease-and-movement-disorders.html"
+      },
+      {
+        "label": "ClinicalTrials NCT05109091 ↗",
+        "url": "https://clinicaltrials.gov/study/NCT05109091"
+      }
+    ],
+    "en": {
+      "tag": "Congress presentation · trial readout",
+      "body": "<b>Alterity Therapeutics presented new analyses of ATH434-201 (Ph2, NCT05109091) at the MDS 2026 International Congress (Seoul)</b>: a post-hoc analysis adjusted for baseline cerebrospinal fluid neurofilament light chain (CSF NfL) as a covariate showed the <b>50 mg arm with a 4.64-point difference versus placebo on the 11-item UMSARS Part I at Week 52 (p=0.032)</b>, which the company describes as roughly '52% slower functional decline'; the 75 mg arm did not reach significance. Each 1,000 pg/mL increase in baseline NfL was associated with about 0.9 additional points of worsening (p=0.033). On imaging, dentate nucleus iron rose rather than fell in the 50 mg group (+0.016 ppm, p=0.021).",
+      "note": "→ <b>It should also be noted that this Phase 2 trial's original primary endpoint (substantia nigra iron at Week 52, by MRI) was not met</b>; both today's and previously publicised positive figures come from secondary/exploratory or post-hoc adjusted analyses. This site has updated the Therapy Landscape entry accordingly with full context; see the Trial Results radar for detail.",
+      "links": [
+        {
+          "label": "GlobeNewswire release 2026/10/05 ↗",
+          "url": "https://www.globenewswire.com/news-release/2026/10/05/3374418/0/en/alterity-therapeutics-presents-new-analyses-of-ath434-phase-2-data-in-multiple-system-atrophy-at-the-2026-international-congress-of-parkinson-s-disease-and-movement-disorders.html"
+        },
+        {
+          "label": "ClinicalTrials NCT05109091 ↗",
+          "url": "https://clinicaltrials.gov/study/NCT05109091"
+        }
+      ]
+    }
+  },
+  {
     "id": "lundbeck-mds2026-preview-2026-10",
     "date": "2026-10-02",
     "dateDisplay": "2026/10/02",

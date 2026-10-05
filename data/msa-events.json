@@ -5,14 +5,14 @@
     "date": "2026-10-04",
     "dateDisplay": "2026/10/04–08",
     "location": "首爾 COEX",
-    "relevance": "動作障礙領域最大國際年會；MSA 臨床與在研療法發表重鎮（Alterity ATH434 曾於 2025 年會發表）。<b>Lundbeck 已公告</b>將於 10/5 發表 amlenetug 樞紐 Ph3 MASCOT 試驗（NCT06706622，n=401）收案多樣性基線資料（Late-breaking oral）、mUMSARS Part I 量表心理計量驗證（含中文版）、腦脊髓液生物標記與一項區分 MSA／帕金森氏症的 C 端 α-突觸核蛋白檢測報告。",
+    "relevance": "動作障礙領域最大國際年會；MSA 臨床與在研療法發表重鎮。<b>Lundbeck 已於 10/5 發表</b> amlenetug 樞紐 Ph3 MASCOT 試驗（NCT06706622，n=401）收案多樣性基線資料（Late-breaking oral）、mUMSARS Part I 量表心理計量驗證（含中文版）、腦脊髓液生物標記與一項區分 MSA／帕金森氏症的 C 端 α-突觸核蛋白檢測報告。<b>Alterity 亦於 10/5 發表</b> ATH434-201（Ph2）以 CSF NfL 為共變項之事後調整分析，惟該試驗原訂影像主要終點並未達成，詳見試驗結果雷達。",
     "highlight": false,
     "url": "https://www.mdscongress.org/",
-    "competitors": ["amlenetug"],
+    "competitors": ["amlenetug", "ath434"],
     "en": {
       "name": "MDS International Congress",
       "location": "COEX, Seoul",
-      "relevance": "The largest international meeting in movement disorders and a key venue for MSA clinical and pipeline presentations (Alterity presented ATH434 data at the 2025 congress). <b>Lundbeck has announced</b> it will present, on 10/5, baseline diversity data from the pivotal Phase III MASCOT trial of amlenetug (NCT06706622, n=401) as a late-breaking oral, psychometric validation of the modified UMSARS Part I scale (including a Chinese-language version), cerebrospinal fluid biomarker work, and a report on a C-terminal alpha-synuclein assay to differentiate MSA from Parkinson's disease."
+      "relevance": "The largest international meeting in movement disorders and a key venue for MSA clinical and pipeline presentations. <b>Lundbeck presented on 10/5</b> baseline diversity data from the pivotal Phase III MASCOT trial of amlenetug (NCT06706622, n=401) as a late-breaking oral, psychometric validation of the modified UMSARS Part I scale (including a Chinese-language version), cerebrospinal fluid biomarker work, and a report on a C-terminal alpha-synuclein assay to differentiate MSA from Parkinson's disease. <b>Alterity also presented on 10/5</b> a post-hoc analysis of ATH434-201 (Ph2) adjusted for CSF NfL as a covariate, though that trial's original imaging primary endpoint was not met — see the Trial Results radar for detail."
     }
   },
   {
