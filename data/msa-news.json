@@ -1,5 +1,39 @@
 [
   {
+    "id": "ath434-mds2026-nfl-2026-10",
+    "date": "2026-10-05",
+    "dateDisplay": "2026/10",
+    "level": "pos",
+    "tag": "學會發表 · 試驗讀出",
+    "body": "<b>Alterity 於 MDS 2026 國際大會（首爾）發表 ATH434-201 Ph2 新分析</b>：以基線腦脊髓液 NfL 為共變項調整後，ATH434 50mg 組第52週 modified UMSARS Part I 相對安慰劑之減緩幅度由原頂線 48% 擴大為約 <b>52%</b>（差異 −4.64 分，p=0.032）；吞嚥量表（SDQ）52週變化亦呈顯著差異（50mg 惡化 1.2 分 vs 安慰劑 8.5 分，p=0.003）；QSM 鐵造影見殼核／蒼白球鐵沉積減少趨勢。分析族群為 mITT 61人。",
+    "note": "→ 屬 2025/01 頂線數據之事後生物標記調整分析，非新試驗、未經同儕審查，樣本仍小，詳見 競品試驗結果。",
+    "links": [
+      {
+        "label": "Alterity 新聞稿 ↗ BioSpace 2026/10/05",
+        "url": "https://www.biospace.com/press-releases/alterity-therapeutics-presents-new-analyses-of-ath434-phase-2-data-in-multiple-system-atrophy-at-the-2026-international-congress-of-parkinsons-disease-and-movement-disorders"
+      },
+      {
+        "label": "試驗登錄 ↗ NCT05109091",
+        "url": "https://clinicaltrials.gov/study/NCT05109091"
+      }
+    ],
+    "en": {
+      "tag": "Congress presentation · trial readout",
+      "body": "<b>At the MDS 2026 International Congress (Seoul), Alterity presented a new analysis of the ATH434-201 Ph2 trial</b>: after adjusting for baseline CSF NfL as a covariate, the week-52 slowing on modified UMSARS Part I for the ATH434 50mg arm versus placebo widened from the original 48% topline to roughly <b>52%</b> (−4.64 points, p=0.032); the swallowing scale (SDQ) also showed a significant week-52 difference (50mg worsened 1.2 points vs 8.5 on placebo, p=0.003); QSM iron imaging showed a trend of reduced iron in the putamen and globus pallidus. The analysis population was a modified ITT of 61.",
+      "note": "→ A post-hoc biomarker-adjusted analysis of the 2025/01 topline data, not a new trial, not yet peer-reviewed, and still a small sample — see Competitive Trial Results.",
+      "links": [
+        {
+          "label": "Alterity press release ↗ BioSpace 2026/10/05",
+          "url": "https://www.biospace.com/press-releases/alterity-therapeutics-presents-new-analyses-of-ath434-phase-2-data-in-multiple-system-atrophy-at-the-2026-international-congress-of-parkinsons-disease-and-movement-disorders"
+        },
+        {
+          "label": "Trial registration ↗ NCT05109091",
+          "url": "https://clinicaltrials.gov/study/NCT05109091"
+        }
+      ]
+    }
+  },
+  {
     "id": "lundbeck-mds2026-preview-2026-10",
     "date": "2026-10-02",
     "dateDisplay": "2026/10/02",
@@ -133,33 +167,6 @@
         {
           "label": "NCT07825402 ↗",
           "url": "https://clinicaltrials.gov/study/NCT07825402"
-        }
-      ]
-    }
-  },
-  {
-    "id": "ath434-patent-2026-08",
-    "date": "2026-08-12",
-    "dateDisplay": "2026/08",
-    "level": "info",
-    "tag": "智慧財產",
-    "body": "<b>Alterity ATH434</b> 取得美國專利商標局新核准的<b>物質組成專利</b>：保護範圍為 ATH434<b>甲磺酸鹽的特定結晶型</b>，並涵蓋以該結晶型治療神經疾病的方法。公司表示此專利<b>將保護期延長至至少 2045 年</b>（自核准日起逾 18 年），且<b>此結晶型即為 Ph2 MSA 試驗所用、亦將用於規劃中的 Ph3</b>。",
-    "note": "→ 這是專利事項、非臨床或法規進展，本身不構成療效或安全性訊息。與 2026/07 的 FDA End-of-Phase-2 註冊路徑一併參照，反映該案正在為公司稱 2026 年底啟動的 Ph3 作業鋪路。公司另稱此專利有利於未來拓展至帕金森病等涉及鐵代謝失衡與蛋白聚集的疾病。新聞稿未載專利號。",
-    "links": [
-      {
-        "label": "新聞稿 ↗",
-        "url": "https://www.biospace.com/press-releases/alterity-therapeutics-announces-granting-of-new-u-s-composition-of-matter-patent-for-ath434"
-      }
-    ],
-    "en": {
-      "dateDisplay": "2026/08",
-      "tag": "Intellectual property",
-      "body": "<b>Alterity's ATH434</b> has been granted a new US <b>composition-of-matter patent</b> by the USPTO, covering a <b>specific crystalline form of the mesylate salt</b> of ATH434 together with methods of treating neurological conditions using it. The company states the patent <b>extends protection to at least 2045</b> — more than 18 years from the grant date — and that <b>this is the form used in the Ph2 MSA trials and intended for the planned Ph3</b>.",
-      "note": "→ This is an intellectual-property matter rather than clinical or regulatory progress, and carries no information about efficacy or safety in itself. Read alongside the FDA End-of-Phase-2 registrational pathway of July 2026, it reflects groundwork for the Ph3 activities the company says will begin by the end of 2026. The company also states the patent supports future development in Parkinson's disease and other conditions involving disturbed iron handling and protein aggregation. The release does not give a patent number.",
-      "links": [
-        {
-          "label": "Press release ↗",
-          "url": "https://www.biospace.com/press-releases/alterity-therapeutics-announces-granting-of-new-u-s-composition-of-matter-patent-for-ath434"
         }
       ]
     }

@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-10-06",
+    "dateDisplay": "2026/10/06",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>上次真正發布為2026-10-04，缺口2天（2026-10-05未執行＋今日）。</b>PubMed「multiple system atrophy」[Title]與CT.gov廣掃均使用近7天／最近更新排序窗口，已涵蓋缺口期間，判定<b>無需另行補跑</b>；缺口期間若有新事實已隨本次掃描一併收錄。CT.gov廣掃（query.cond=multiple system atrophy，收案中/未收案/收案已結束，另加全狀態pageSize=40）共49筆不重複命中，逐筆核對適應症：<b>全數為既有記錄試驗，或「atrophy」字面誤觸（SMA／DM1／FSHD／DMD／sarcopenia等）／觀察性自然史登錄，未發現新介入性試驗</b>。PubMed近7天命中6篇（42829174／42826522／42809157／42798249／42711280／42600994），<b>六篇皆已於先前掃描收錄</b>，無新文獻。公司新聞WebSearch查核Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva emrusolmin、Tiziana foralumab、Mayo MSC、Ionis ION464：<b>新增1則——Alterity於2026/10/05 MDS 2026大會發表ATH434-201事後NfL共變項調整分析，50mg組減緩幅度自頂線48%擴大為約52%（p=0.032）</b>，已加入msa-results.json、msa-news.json，並於msa-competitors.json狀態欄補一句；其餘對象窗內均為已收錄之既有事實（Lundbeck MASCOT基線、Ono Ph3註冊、Teva Fast Track、Tiziana孤兒藥申請、Mayo/Ionis既有試驗狀態），無新增。msa-events.json／assessments／naturalhistory／preclinical本次未查得新事實，維持不動。因上週（10/5為週一）缺一次執行，weekNewCount本次隨新的一週重新起算：新增1則，計1。",
+    "link": {
+      "label": "詳見 競品試驗結果 ↗",
+      "tab": "si",
+      "anchor": "trialradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>The last genuine publish was 2026-10-04, a 2-day gap (2026-10-05 was not run, plus today).</b> Both the PubMed \"multiple system atrophy\"[Title] query and the CT.gov broad scan use a near-7-day / most-recently-updated window, which already covers the gap period, so no separate backfill run was judged necessary; any gap-period facts would have surfaced in this scan. The CT.gov broad scan (query.cond=multiple system atrophy, across recruiting/not-yet-recruiting/completed statuses plus an all-status pageSize=40 pull) returned 49 unique hits, checked one by one against indication: <b>all were either already-recorded trials, literal \"atrophy\" mismatches (SMA/DM1/FSHD/DMD/sarcopenia, etc.), or observational natural-history registries — no new interventional trial was found</b>. PubMed's near-7-day window returned 6 hits (42829174/42826522/42809157/42798249/42711280/42600994), <b>all six already on record</b> — no new papers. Company-news WebSearch checked Alterity ATH434, Lundbeck amlenetug, Ono ONO-2808, Teva emrusolmin, Tiziana foralumab, Mayo MSC and Ionis ION464: <b>one addition — Alterity's 2026/10/05 presentation at the MDS 2026 Congress of a post-hoc NfL-covariate-adjusted analysis of ATH434-201, widening the 50mg arm's slowing from the 48% topline to roughly 52% (p=0.032)</b>, added to msa-results.json and msa-news.json with a line appended to msa-competitors.json's status field; every other target's in-window coverage was already-recorded fact (Lundbeck's MASCOT baseline, Ono's Ph3 registration, Teva's Fast Track, Tiziana's orphan filing, Mayo/Ionis's existing trial status) — no additions. msa-events.json/assessments/naturalhistory/preclinical had no new facts this run and are unchanged. Because last week's run was skipped (10/5 was a Monday), weekNewCount restarts with the new week: 1 addition, now 1."
+    }
+  },
+  {
     "date": "2026-10-04",
     "dateDisplay": "2026/10/04",
     "tag": "每日掃描",

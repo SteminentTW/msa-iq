@@ -1,5 +1,43 @@
 [
   {
+    "id": "ath434-mds2026-nfl",
+    "date": "2026-10-05",
+    "dateDisplay": "2026/10",
+    "competitor": "Alterity Therapeutics",
+    "drug": "ATH434",
+    "trial": "ATH434-201 · Ph2（早期 MSA，隨機雙盲安慰劑對照，NCT05109091）",
+    "sourceType": "新聞稿",
+    "level": "pos",
+    "readout": "Alterity 於 2026/10/05 在 MDS 2026 國際大會（首爾）發表 ATH434-201 Ph2 試驗之新分析：以基線腦脊髓液神經絲輕鏈（CSF NfL）為共變項調整後，ATH434 50mg 組於第52週 modified UMSARS Part I 相對安慰劑之差異擴大為 −4.64 分（p=0.032），相當於約 52% 減緩（原 2025/01 頂線為 48%）。分析另發現基線 CSF NfL 每升高 1,000 pg/mL 與約 0.9 分額外惡化相關（p=0.033），即 NfL 可預測病程惡化、調整後更凸顯療效訊號。吞嚥量表（SDQ）52週變化：50mg 組僅惡化 1.2 分、安慰劑惡化 8.5 分（p=0.003）；QSM 鐵造影顯示殼核與蒼白球鐵沉積呈減少趨勢，與鐵螯合機轉相符。本次分析族群為 mITT 61人（經隨機、給藥、CSF α-synuclein陽性、且有給藥後影像之受試者）。",
+    "implication": "→ 本次為對 2025/01 頂線數據之事後生物標記（NfL）共變項調整分析，非新試驗、非獨立驗證；分析族群仍小（mITT 61人）、未經同儕審查，有效性待 Ph3 確認。",
+    "links": [
+      {
+        "label": "Alterity 新聞稿 ↗ BioSpace 2026/10/05",
+        "url": "https://www.biospace.com/press-releases/alterity-therapeutics-presents-new-analyses-of-ath434-phase-2-data-in-multiple-system-atrophy-at-the-2026-international-congress-of-parkinsons-disease-and-movement-disorders"
+      },
+      {
+        "label": "試驗登錄 ↗ NCT05109091",
+        "url": "https://clinicaltrials.gov/study/NCT05109091"
+      }
+    ],
+    "en": {
+      "trial": "ATH434-201 · Ph2 (early MSA, randomised double-blind placebo-controlled, NCT05109091)",
+      "sourceType": "Press release",
+      "readout": "On 2026/10/05 at the MDS 2026 International Congress (Seoul), Alterity presented a new analysis of the ATH434-201 Ph2 trial: after adjusting for baseline CSF neurofilament light chain (NfL) as a covariate, the week-52 difference versus placebo on modified UMSARS Part I for the ATH434 50mg arm widened to −4.64 points (p=0.032), equivalent to roughly 52% slowing (versus 48% in the original 2025/01 topline). The analysis also found each 1,000 pg/mL increase in baseline CSF NfL was associated with about 0.9 additional points of worsening (p=0.033) — i.e. NfL predicts disease worsening, and adjusting for it sharpens the apparent treatment effect. On the swallowing scale (SDQ) over 52 weeks, the 50mg arm worsened by only 1.2 points versus 8.5 points on placebo (p=0.003); QSM iron imaging showed a trend of reduced iron accumulation in the putamen and globus pallidus, consistent with the iron-chelation mechanism. The analysis population was a modified ITT of 61 participants (randomised, dosed, CSF alpha-synuclein positive, with post-dose imaging).",
+      "implication": "→ This is a post-hoc biomarker (NfL) covariate adjustment of the 2025/01 topline data, not a new trial or independent confirmation; the analysis population remains small (mITT 61), is not yet peer-reviewed, and efficacy awaits Ph3 confirmation.",
+      "links": [
+        {
+          "label": "Alterity press release ↗ BioSpace 2026/10/05",
+          "url": "https://www.biospace.com/press-releases/alterity-therapeutics-presents-new-analyses-of-ath434-phase-2-data-in-multiple-system-atrophy-at-the-2026-international-congress-of-parkinsons-disease-and-movement-disorders"
+        },
+        {
+          "label": "Trial registration ↗ NCT05109091",
+          "url": "https://clinicaltrials.gov/study/NCT05109091"
+        }
+      ]
+    }
+  },
+  {
     "id": "kainos-km819-dili-2026",
     "date": "2026-09-28",
     "dateDisplay": "2026/09",

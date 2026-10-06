@@ -168,14 +168,14 @@
     "drug": "ATH434",
     "mechanism": "小分子（調節鐵/抑制 α-synuclein 聚集）",
     "phase": "Ph2 完成 → Ph3（註冊型）",
-    "status": "Ph2 正面（2025/01 topline，modified UMSARS-I 顯著改善）；<b>2026/07/07 公布 FDA End-of-Phase-2 會議紀錄，確認註冊路徑</b>——Ph3 約 200 人、1:1 隨機 ATH434 50mg 或安慰劑、每日兩次共 12 個月，主要終點為 11 項 UMSARS Part I；FDA 同意「單一樞紐試驗＋確認性證據」即可支持核准，公司稱 2026 年底前啟動 Ph3 作業。",
+    "status": "Ph2 正面（2025/01 topline，modified UMSARS-I 顯著改善）；<b>2026/07/07 公布 FDA End-of-Phase-2 會議紀錄，確認註冊路徑</b>——Ph3 約 200 人、1:1 隨機 ATH434 50mg 或安慰劑、每日兩次共 12 個月，主要終點為 11 項 UMSARS Part I；FDA 同意「單一樞紐試驗＋確認性證據」即可支持核准，公司稱 2026 年底前啟動 Ph3 作業。<b>2026/10/05 於 MDS 2026 大會發表之事後 NfL 共變項調整分析</b>，將 50mg 組減緩幅度自頂線 48% 擴大為約 52%（詳見競品試驗結果）。",
     "highlight": false,
     "relevance": "機制對手（正面）",
     "note": "→ 目前 MSA 小分子中最為突出者：ATH434-201 於 modified UMSARS Part I 達統計與臨床顯著；獲 FDA Fast Track，且已與 FDA 就樞紐 Ph3 設計與主要終點取得一致。屬 α-synuclein／鐵路線，與細胞治療機制不同。",
     "en": {
       "note": "The standout MSA small molecule: ATH434-201 achieved statistically and clinically significant improvement on modified UMSARS Part I; it holds FDA Fast Track and has now aligned with the FDA on pivotal Ph3 design and primary endpoint. An alpha-synuclein/iron route, distinct from cell therapy.",
       "mechanism": "Small molecule (iron modulation / inhibits α-synuclein aggregation)",
-      "status": "Positive Ph2 (2025/01 topline: significant improvement on modified UMSARS-I); <b>FDA End-of-Phase-2 meeting minutes announced 2026/07/07 confirmed the registrational pathway</b> — a Ph3 of roughly 200 patients randomised 1:1 to ATH434 50mg or placebo twice daily for 12 months, with the 11-item UMSARS Part I as the primary endpoint. The FDA agreed that a single pivotal trial plus confirmatory evidence could support approval, and the company says Ph3 activities will start by end-2026.",
+      "status": "Positive Ph2 (2025/01 topline: significant improvement on modified UMSARS-I); <b>FDA End-of-Phase-2 meeting minutes announced 2026/07/07 confirmed the registrational pathway</b> — a Ph3 of roughly 200 patients randomised 1:1 to ATH434 50mg or placebo twice daily for 12 months, with the 11-item UMSARS Part I as the primary endpoint. The FDA agreed that a single pivotal trial plus confirmatory evidence could support approval, and the company says Ph3 activities will start by end-2026. <b>A post-hoc NfL-covariate-adjusted analysis presented at MDS 2026 (2026/10/05)</b> widened the 50mg arm's slowing from the 48% topline to roughly 52% (see Competitive Trial Results).",
       "relevance": "Mechanistic peer (positive)",
       "sources": [
         {
