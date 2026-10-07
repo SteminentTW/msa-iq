@@ -1,5 +1,39 @@
 [
   {
+    "id": "msa01-ph3-discovered-2026-10",
+    "date": "2026-10-07",
+    "dateDisplay": "2026/10/07",
+    "level": "pos",
+    "tag": "主動盤點新收錄 · Ph3 收案中",
+    "body": "<b>主動盤點發現一項先前未收錄之樞紐性資產：MSA-01（ubiquinol／還原型輔酶Q10），由東京大學（Jun Mitsui）與Nobelpharma合作開發</b>。其Ph2試驗（UMIN000031771）已於<b>2023年發表於EClinicalMedicine</b>：139人隨機雙盲安慰劑對照，第48週UMSARS Part 2自基線變化最小平方均差 <b>−1.7分（95% CI −3.2至−0.2，p=0.023）</b>，達主要指標。延續此結果，<b>Ph3樞紐試驗（NCT07446894）已於2026/02/09啟動收案</b>，估計收案140人、12日本站點，主要完成日估2028/03。此試驗登錄已逾7個月未再更新、未落入CT.gov近期排序前40名之例行掃描窗口，本次透過更廣泛之管線檢索主動發現並補收。",
+    "note": "→ 機轉為輔酶Q10生合成缺陷（COQ2相關）之營養補充路徑，與目前站上以α-synuclein、神經發炎、細胞治療為主之資產機轉互不重疊；Ph2為研究者發起、單一地區（日本）、樣本中等，Ph3驗證結果尚待公布。",
+    "links": [
+      {
+        "label": "ClinicalTrials NCT07446894 ↗",
+        "url": "https://clinicaltrials.gov/study/NCT07446894"
+      },
+      {
+        "label": "EClinicalMedicine 論文 ↗ PubMed 37256098",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37256098/"
+      }
+    ],
+    "en": {
+      "tag": "Newly added via active discovery · Ph3 recruiting",
+      "body": "<b>Active pipeline discovery surfaced a previously untracked pivotal-stage asset: MSA-01 (ubiquinol / reduced coenzyme Q10), developed by the University of Tokyo (Jun Mitsui) with Nobelpharma</b>. Its Phase 2 trial (UMIN000031771) was <b>published in EClinicalMedicine in 2023</b>: 139 patients, randomized, double-blind, placebo-controlled, with a least-squares mean difference of <b>−1.7 points (95% CI −3.2 to −0.2, p=0.023)</b> in UMSARS Part 2 change from baseline at week 48, meeting the primary endpoint. Building on this result, <b>a pivotal Ph3 trial (NCT07446894) started recruiting on 2026/02/09</b>, with an estimated enrollment of 140 across 12 Japanese sites and an estimated primary completion in 2028/03. The registration had gone over 7 months without an update and fell outside CT.gov's recent-sort top-40 scan window, so it was missed in routine scans until surfaced here through a broader pipeline search.",
+      "note": "→ The mechanism — nutritional supplementation addressing a CoQ10 biosynthesis deficiency (COQ2-related) — does not overlap with the alpha-synuclein-, neuroinflammation- or cell-therapy-centered assets otherwise tracked on this site. The Ph2 trial was investigator-initiated, single-region (Japan), with a moderate sample size; Ph3 confirmatory results are still pending.",
+      "links": [
+        {
+          "label": "ClinicalTrials NCT07446894 ↗",
+          "url": "https://clinicaltrials.gov/study/NCT07446894"
+        },
+        {
+          "label": "EClinicalMedicine paper ↗ PubMed 37256098",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37256098/"
+        }
+      ]
+    }
+  },
+  {
     "id": "ath434-mds2026-nfl-2026-10",
     "date": "2026-10-05",
     "dateDisplay": "2026/10",
@@ -140,33 +174,6 @@
         {
           "label": "ALZFORUM — TAK-341 ↗",
           "url": "https://www.alzforum.org/therapeutics/tak-341"
-        }
-      ]
-    }
-  },
-  {
-    "id": "ono2808-ph3-registered-2026-09",
-    "date": "2026-09-17",
-    "dateDisplay": "2026/09",
-    "level": "info",
-    "tag": "Ph3 登錄",
-    "body": "<b>小野藥品 ONO-2808</b>（S1P5 促效劑）樞紐性 <b>Ph3 試驗（NCT07825402）於 2026/09/17 登錄 CT.gov</b>，<b>尚未開始收案</b>：隨機雙盲安慰劑對照、口服、<b>限 MSA-P 亞型</b>、療程 48 週，估計 2027/01 開始收案、2029/10 主要完成。承接 2026/05 WPC 發表之 Ph2 核心數據（MSA-P 次族群 mUMSARS 變化：安慰劑 3.90 vs 高劑量 1.16）。",
-    "note": "→ 登錄未載入組人數與收案地點，屬 Ph2→Ph3 銜接的正式里程碑，非新療效數據。",
-    "links": [
-      {
-        "label": "NCT07825402 ↗",
-        "url": "https://clinicaltrials.gov/study/NCT07825402"
-      }
-    ],
-    "en": {
-      "dateDisplay": "2026/09",
-      "tag": "Ph3 registered",
-      "body": "<b>Ono's ONO-2808</b> (S1P5 agonist) pivotal <b>Ph3 trial (NCT07825402) was registered on CT.gov on 2026/09/17</b> and is <b>not yet recruiting</b>: randomized, double-blind, placebo-controlled, oral, <b>restricted to the MSA-P subtype</b>, 48-week treatment; estimated start 2027/01 and primary completion 2029/10. It follows the Ph2 core data presented at WPC in 2026/05 (MSA-P subgroup mUMSARS change: 3.90 placebo vs 1.16 high dose).",
-      "note": "→ The registration does not yet give enrollment size or sites; this is a formal Ph2-to-Ph3 milestone, not new efficacy data.",
-      "links": [
-        {
-          "label": "NCT07825402 ↗",
-          "url": "https://clinicaltrials.gov/study/NCT07825402"
         }
       ]
     }

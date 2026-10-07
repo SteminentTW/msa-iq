@@ -495,5 +495,44 @@
       ],
       "dateDisplay": "2025/10 disclosure · 2026/03 AD/PD full presentation"
     }
+  },
+  {
+    "id": "msa01-ph2-eclinmed-2023",
+    "date": "2023-04-14",
+    "dateDisplay": "2023/04（本站 2026/10 新收錄）",
+    "competitor": "東京大學（Jun Mitsui）／Nobelpharma",
+    "drug": "MSA-01（ubiquinol／還原型輔酶Q10）",
+    "trial": "UMIN000031771 · Ph2（日本，隨機雙盲安慰劑對照，現登錄延續試驗 NCT07446894 · Ph3）",
+    "sourceType": "論文",
+    "level": "pos",
+    "readout": "2018/06–2019/05於日本多中心收案139人（ubiquinol 1500mg/日 69人、安慰劑70人），131人納入全分析集（ubiquinol 63人、安慰劑68人）。主要指標第48週UMSARS Part 2（運動檢查）分數自基線變化：ubiquinol組減緩幅度顯著優於安慰劑，最小平方均差 −1.7分（95% CI −3.2至−0.2，p=0.023）。論文提出機轉假說：COQ2基因功能缺損變異見於家族性MSA、V393A變異與散發性MSA相關，MSA病人CoQ10水平偏低。2023/04/14發表於EClinicalMedicine。",
+    "implication": "→ 本站先前未收錄此2023年已發表Ph2正面結果，經主動盤點後與其延續之Ph3試驗（NCT07446894）一併補收；為研究者發起、單一地區（日本）試驗，樣本中等，效應量（−1.7分）之臨床意義及Ph3可重現性仍待驗證。",
+    "links": [
+      {
+        "label": "EClinicalMedicine 論文 ↗ PubMed 37256098",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37256098/"
+      },
+      {
+        "label": "Ph3延續試驗 ↗ NCT07446894",
+        "url": "https://clinicaltrials.gov/study/NCT07446894"
+      }
+    ],
+    "en": {
+      "dateDisplay": "2023/04 (newly added to this site 2026/10)",
+      "trial": "UMIN000031771 · Ph2 (Japan, randomized, double-blind, placebo-controlled; now followed by the registered Ph3 extension NCT07446894)",
+      "sourceType": "Publication",
+      "readout": "Enrolled 139 patients at multiple Japanese sites from 2018/06 to 2019/05 (69 on ubiquinol 1500mg/day, 70 on placebo); 131 were included in the full analysis set (63 ubiquinol, 68 placebo). The primary endpoint, change from baseline in UMSARS Part 2 (motor examination) at week 48, showed significantly less decline on ubiquinol than placebo: least-squares mean difference −1.7 points (95% CI −3.2 to −0.2, p=0.023). The paper proposes a mechanistic rationale: loss-of-function COQ2 variants have been reported in familial MSA, the V393A variant is associated with sporadic MSA, and CoQ10 levels are reduced in MSA patients. Published in EClinicalMedicine on 2023/04/14.",
+      "implication": "→ This site had not previously recorded this published 2023 positive Ph2 result; it is added now via active discovery together with its follow-on Ph3 trial (NCT07446894). The trial was investigator-initiated and single-region (Japan) with a moderate sample size; the clinical meaningfulness of the −1.7-point effect and its reproducibility in Ph3 remain to be established.",
+      "links": [
+        {
+          "label": "EClinicalMedicine paper ↗ PubMed 37256098",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37256098/"
+        },
+        {
+          "label": "Follow-on Ph3 trial ↗ NCT07446894",
+          "url": "https://clinicaltrials.gov/study/NCT07446894"
+        }
+      ]
+    }
   }
 ]

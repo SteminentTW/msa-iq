@@ -371,5 +371,23 @@
       "status": "<b>Newly recorded here — completed, reported as a failure</b>. Randomised, double-blind, placebo-controlled, IV infusion every 4 weeks, 159 patients across 56 sites in North America/Europe/Asia, completed 2025-07. Primary endpoint was change in Modified UMSARS at week 52. Takeda's 2025-10-31 earnings disclosure stated neither primary nor secondary endpoints were met and TAK-341 was removed from the pipeline; full results presented at the 2026-03 AD/PD conference showed the drug was safe and tolerated but with no significant between-group difference; the programme has been discontinued.",
       "sponsor": "Takeda (originated by AstraZeneca/MedImmune)"
     }
+  },
+  {
+    "nct": "NCT07446894",
+    "drug": "MSA-01（ubiquinol／還原型輔酶Q10）",
+    "mechanism": "口服高生體可用率還原型輔酶Q10（ubiquinol）補充，鎖定MSA相關之輔酶Q10（CoQ10）生合成缺陷",
+    "phase": "Ph3",
+    "status": "收案中——<b>本站新收錄</b>。登錄於2026-03-03首次公開、2026-03-04最後更新（逾7個月未再更新），經主動盤點發現本站先前漏收。隨機雙盲安慰劑對照（四重遮盲），估計收案140人，12站點（名古屋大學、千葉大學、九州大學、北海道大學等日本各院；登錄中多數單站仍標示「尚未開始收案」，整體狀態為收案中）。2026-02-09實際啟動，主要完成日估2028-03-31，療程12個月，主要指標為UMSARS Part 2第52週自基線變化。延續同團隊2023年發表於EClinicalMedicine之Ph2正面結果所啟動之樞紐驗證試驗，詳見試驗結果。",
+    "sponsor": "東京大學（Jun Mitsui）／Nobelpharma",
+    "cell": false,
+    "primary": "2028-03-31",
+    "url": "https://clinicaltrials.gov/study/NCT07446894",
+    "en": {
+      "drug": "MSA-01 (ubiquinol / reduced coenzyme Q10)",
+      "mechanism": "Oral high-bioavailability reduced coenzyme Q10 (ubiquinol) supplementation, targeting an MSA-associated coenzyme Q10 (CoQ10) biosynthesis deficiency",
+      "phase": "Ph3",
+      "status": "Recruiting — <b>newly added to this site</b>. First posted 2026-03-03, last updated 2026-03-04 (no update in over 7 months); surfaced through active discovery after being missed earlier. Randomized, double-blind, placebo-controlled (quadruple-masked), estimated enrollment 140, across 12 Japanese sites (Nagoya University, Chiba University, Kyushu University, Hokkaido University and others; most individual sites are still listed as \"not yet recruiting\" while the overall status is recruiting). Actual start 2026-02-09, estimated primary completion 2028-03-31, 12-month treatment course; primary endpoint is change from baseline in UMSARS Part 2 at week 52. It follows a positive Phase 2 result from the same team published in EClinicalMedicine in 2023 — see Results.",
+      "sponsor": "University of Tokyo (Jun Mitsui) / Nobelpharma"
+    }
   }
 ]

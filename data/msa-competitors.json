@@ -619,5 +619,45 @@
         }
       ]
     }
+  },
+  {
+    "id": "msa01-ubiquinol",
+    "category": "dmt",
+    "company": "東京大學（Jun Mitsui）／Nobelpharma",
+    "drug": "MSA-01（ubiquinol／還原型輔酶Q10）",
+    "mechanism": "口服高生體可用率還原型輔酶Q10補充，鎖定MSA相關之CoQ10生合成缺陷（COQ2基因變異與低CoQ10水平已於家族性／散發性MSA中報告）",
+    "phase": "Ph2 完成且已發表正面結果（2023，EClinicalMedicine）→ Ph3 收案中（NCT07446894）",
+    "status": "樞紐性Ph3試驗收案中，<b>本站新收錄</b>（主動盤點發現，登錄已逾7個月未更新、未進入近期排序窗口而先前漏收）",
+    "highlight": false,
+    "relevance": "唯一以輔酶Q10生合成缺陷為機轉、且已有已發表陽性Ph2數據支持之樞紐試驗資產",
+    "note": "→ Ph2（UMIN000031771）2018/06–2019/05於日本收案139人（ubiquinol 69人／安慰劑70人，131人納入全分析集），主要指標第48週UMSARS Part 2變化：ubiquinol組減緩幅度顯著優於安慰劑（最小平方均差 −1.7分，95% CI −3.2至−0.2，p=0.023），2023年發表於EClinicalMedicine。→ <b>Ph3（NCT07446894，jRCT2031250696）於2026/02/09啟動、2026/03登錄CT.gov</b>：隨機雙盲安慰劑對照、四重遮盲，估計收案140人，12站點（日本），主要指標同為UMSARS Part 2第52週變化，次要指標含Barthel Index、SARA與UMSARS Part 1，主要完成日估2028/03。⚠️ Ph2為研究者發起試驗、單一地區（日本）、樣本中等；Ph3驗證結果尚未公布。",
+    "en": {
+      "company": "University of Tokyo (Jun Mitsui) / Nobelpharma",
+      "mechanism": "Oral high-bioavailability reduced coenzyme Q10 (ubiquinol) supplementation, targeting an MSA-associated CoQ10 biosynthesis deficiency (COQ2 variants and reduced CoQ10 levels have been reported in familial and sporadic MSA)",
+      "phase": "Ph2 complete with a published positive result (2023, EClinicalMedicine) → Ph3 recruiting (NCT07446894)",
+      "status": "Pivotal Ph3 trial recruiting — <b>newly added to this site</b> (surfaced via active discovery; the registration had gone over 7 months without an update and fell outside the recent-sort window, so it was missed earlier)",
+      "relevance": "The only pivotal-stage asset targeting the CoQ10-biosynthesis-deficiency mechanism with a published positive Ph2 readout",
+      "note": "→ The Ph2 trial (UMIN000031771) enrolled 139 patients in Japan from 2018/06 to 2019/05 (69 ubiquinol / 70 placebo; 131 in the full analysis set); the primary endpoint, change in UMSARS Part 2 at week 48, showed significantly less decline on ubiquinol than placebo (least-squares mean difference −1.7 points, 95% CI −3.2 to −0.2, p=0.023), published in EClinicalMedicine in 2023. → <b>The Ph3 trial (NCT07446894, jRCT2031250696) started 2026/02/09 and was registered on CT.gov in 2026/03</b>: randomized, double-blind, placebo-controlled, quadruple-masked, estimated enrollment 140 across 12 Japanese sites, with the same primary endpoint (UMSARS Part 2 change at week 52) and secondary endpoints including the Barthel Index, SARA and UMSARS Part 1; estimated primary completion 2028/03. ⚠️ The Ph2 trial was investigator-initiated, single-region (Japan), with a moderate sample size; Ph3 confirmatory results are not yet available.",
+      "sources": [
+        {
+          "label": "ClinicalTrials NCT07446894",
+          "url": "https://clinicaltrials.gov/study/NCT07446894"
+        },
+        {
+          "label": "EClinicalMedicine 2023 (PubMed 37256098)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37256098/"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "ClinicalTrials NCT07446894",
+        "url": "https://clinicaltrials.gov/study/NCT07446894"
+      },
+      {
+        "label": "EClinicalMedicine 2023（PubMed 37256098）",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37256098/"
+      }
+    ]
   }
 ]
