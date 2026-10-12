@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42857053",
+    "date": "2026-10-11",
+    "dateDisplay": "2026/10/11",
+    "title": "Differentiating early Parkinson's disease from multiple system atrophy on multimodal PET/MRI using atlas-guided segmentation and vision transformer classification",
+    "journal": "Frontiers in Aging Neuroscience 18:1928959（2026/10/11，線上優先刊於2026/09/25）· Cong C、Zhang X、Rifat ST、Tan H、Sun J、Peng W、Chen X · 重慶理工大學電氣電子工程學院／重慶市陸軍軍醫大學大坪醫院核醫學科（中國）· doi:10.3389/fnagi.2026.1928959 · 開放取用（PMC13649701）",
+    "tag": "鑑別診斷 · 影像生物標記 · PET/MRI 多模態 · 深度學習（Vision Transformer）",
+    "highlight": false,
+    "note": "→ <b>開發全自動多模態PET/MRI分析框架，協助早期PD與MSA-P之鑑別</b>：流程含圖譜引導之個人化標記生成、nnU-Net對尾狀核與殼核之自動分割、多模態影像融合，以及Vision Transformer搭配多切面投票（ViT+MSV）之分類模型。<b>155名早期病人（121名PD、34名MSA-P），以病人層級分層4折交叉驗證評估</b>。→ <b>結果</b>：分割模型Dice係數0.853（95% CI 0.830–0.877）、IoU 0.747（95% CI 0.725–0.770）；分類模型交叉驗證<b>AUC 0.947（95% CI 0.905–0.981）、準確度0.929、敏感度0.942、特異度0.882</b>；<b>以[18F]FDG PET、[11C]CFT多巴胺轉運體PET與T2加權MRI三者組合表現最佳</b>；Grad-CAM顯著圖顯示判別依據主要集中於雙側殼核。⚠️ <b>限制</b>：MSA-P僅34人、同世代內交叉驗證而非獨立外部測試集，分類效能可能被高估；參考標準為臨床診斷而非病理確診；<b>不含任何治療或療效資料，屬鑑別診斷工具研究</b>。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42857053/",
+    "urlLabel": "論文 ↗ PubMed 42857053",
+    "en": {
+      "tag": "Differential diagnosis · imaging biomarker · multimodal PET/MRI · deep learning (Vision Transformer)",
+      "journal": "Frontiers in Aging Neuroscience 18:1928959 (indexed 2026/10/11, online ahead of print 2026/09/25) · Cong C, Zhang X, Rifat ST, Tan H, Sun J, Peng W, Chen X · School of Electrical and Electronic Engineering, Chongqing University of Technology / Department of Nuclear Medicine, Daping Hospital, Army Medical University (China) · doi:10.3389/fnagi.2026.1928959 · open access (PMC13649701)",
+      "note": "→ <b>Developed a fully automated multimodal PET/MRI framework to help differentiate early PD from MSA-P</b>: the pipeline combines atlas-guided subject-specific label generation, nnU-Net segmentation of the caudate and putamen, multimodal image fusion, and a Vision Transformer classifier with multi-slice voting (ViT+MSV). <b>155 early-stage patients (121 PD, 34 MSA-P) were evaluated with patient-level stratified 4-fold cross-validation</b>. → <b>Results</b>: the segmentation model achieved a Dice score of 0.853 (95% CI 0.830–0.877) and an IoU of 0.747 (95% CI 0.725–0.770); the classifier achieved a cross-validated <b>AUC of 0.947 (95% CI 0.905–0.981), accuracy 0.929, sensitivity 0.942 and specificity 0.882</b>; <b>combining [18F]FDG PET, [11C]CFT dopamine-transporter PET and T2-weighted MRI gave the best performance</b>; Grad-CAM saliency maps showed the classifier's discriminative signal concentrated in the bilateral putamen. ⚠️ <b>Limitations</b>: only 34 MSA-P patients; cross-validation within the same cohort rather than an independent external test set, which may overstate real-world performance; the reference standard is clinical diagnosis rather than pathological confirmation; <b>contains no treatment or efficacy data — a differential-diagnosis tool study</b>.",
+      "urlLabel": "Paper ↗ PubMed 42857053"
+    }
+  },
+  {
     "id": "pubmed:42823968",
     "date": "2026-09-17",
     "dateDisplay": "2026/09/17",

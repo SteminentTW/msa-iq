@@ -231,19 +231,20 @@
   },
   {
     "id": "ion464",
-    "company": "Biogen / Ionis",
+    "company": "Ionis Pharmaceuticals（登錄現單獨列名；原與 Biogen 合作）",
     "drug": "ION464 (BIIB101)",
     "mechanism": "反義寡核苷酸 ASO（標的 SNCA/α-synuclein）",
     "phase": "Ph1（HORIZON）",
-    "status": "2025/02 Biogen 宣布終止開發",
+    "status": "<b>2026/10/12 更新：CT.gov 登錄現狀與先前「2025/02 Biogen 宣布終止開發」之記錄不一致</b>——登錄最後更新 2026-04-27，主辦方現單獨列 Ionis Pharmaceuticals，整體狀態為<b>收案中</b>，估計主要完成日延後為 2027-09；Ionis 官方產品線頁面仍列 ION464 為 MSA 項目。⚠️ 原 2025/02 報導未撤銷，<b>公開來源未見官方說明兩者落差之原因，無法核實</b>。",
     "highlight": false,
-    "relevance": "機制對手（退場）",
-    "note": "→ HORIZON Ph1 安全可耐受，但 Biogen 於 2025/02 終止 ION464——與其退出 SCA3 ASO 同一模式（大廠反覆退出神經退化 ASO）。反襯細胞治療路線的差異化。",
+    "relevance": "機制對手（狀態存疑，見下方更新說明）",
+    "note": "→ HORIZON Ph1 先前安全可耐受；2025/02 曾有報導稱 Biogen 終止 ION464，與其退出 SCA3 ASO 同一模式（大廠反覆退出神經退化 ASO）。惟 2026/10 查核發現 CT.gov 登錄與 Ionis 官網均仍將此案列為收案中之 MSA 項目，<b>兩組公開資訊並存、本站不臆測原因</b>；若後續有官方澄清將再更新。",
     "en": {
-      "note": "HORIZON Ph1 was safe/tolerated, but Biogen discontinued ION464 in Feb 2025 — the same pattern as its SCA3 ASO exit. Highlights the differentiation of the cell-therapy route.",
+      "note": "HORIZON Ph1 was previously reported safe/tolerated; 2025/02 press coverage said Biogen discontinued ION464, the same pattern as its SCA3 ASO exit. However, an October 2026 check found both the CT.gov registration and Ionis's own website still list this programme as a recruiting MSA asset. <b>Both sets of public information coexist and this site does not speculate on the cause</b>; this entry will be updated again if an official clarification appears.",
+      "company": "Ionis Pharmaceuticals (sole listed sponsor on the current registration; originally partnered with Biogen)",
       "mechanism": "Antisense oligonucleotide targeting SNCA/α-synuclein",
-      "status": "Biogen announced discontinuation in 2025/02",
-      "relevance": "Mechanistic peer (exited)"
+      "status": "<b>Updated 2026/10/12: the current CT.gov registration conflicts with this site's prior record of \"Biogen announced discontinuation in 2025/02\"</b> — the registration was last updated 2026-04-27, now lists Ionis Pharmaceuticals alone as sponsor, shows the overall status as <b>Recruiting</b>, with estimated primary completion pushed to 2027-09; Ionis's own pipeline page still lists ION464 for MSA. ⚠️ The 2025/02 report is not retracted; <b>no public source explains the discrepancy, so it cannot be verified</b>.",
+      "relevance": "Mechanistic peer (status unclear — see update note)"
     },
     "sources": [
       {

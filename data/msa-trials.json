@@ -341,17 +341,17 @@
     "drug": "ION464（BIIB101）",
     "mechanism": "α-synuclein 反義寡核苷酸（鞘內）",
     "phase": "Ph1（HORIZON）",
-    "status": "Biogen 於 2025/02 宣布終止開發",
-    "sponsor": "Ionis／Biogen",
+    "status": "<b>本站更新（2026/10/12）：登錄現狀與先前記錄不一致</b>——CT.gov 登錄最後更新 2026-04-27（狀態驗證日 2026-04），主辦方現單獨列為 <b>Ionis Pharmaceuticals</b>（不再列 Biogen），整體狀態為<b>收案中</b>，估計主要完成日由原 2025-09 延後為 <b>2027-09</b>；Ionis 官方神經科學產品線網頁亦持續將 ION464 列為 MSA 在研項目。⚠️ 本站此前依 2025/02 多家媒體報導記錄「Biogen 宣布終止開發」，<b>該歷史報導本身未撤銷</b>；公開來源未見任何官方聲明解釋此一落差（Biogen 是否已將權利歸還 Ionis、由其自行接手續行等，均<b>無法核實</b>），本站僅依登錄現狀同步更新狀態欄，不就原因臆測。",
+    "sponsor": "Ionis Pharmaceuticals（登錄現單獨列名；2025/02 曾由 Biogen 宣布終止，詳見狀態說明）",
     "cell": false,
-    "primary": "—",
+    "primary": "2027-09",
     "url": "https://clinicaltrials.gov/study/NCT04165486",
     "en": {
       "drug": "ION464 (BIIB101)",
       "mechanism": "α-synuclein antisense oligonucleotide (intrathecal)",
       "phase": "Ph1 (HORIZON)",
-      "status": "Biogen announced discontinuation in 2025/02",
-      "sponsor": "Ionis / Biogen"
+      "status": "<b>Updated here (2026/10/12): the current registration conflicts with this site's prior record</b> — the CT.gov registration was last updated 2026-04-27 (status verified 2026-04), now lists <b>Ionis Pharmaceuticals</b> alone as sponsor (Biogen no longer appears), shows the overall status as <b>Recruiting</b>, and has pushed estimated primary completion from 2025-09 out to <b>2027-09</b>; Ionis's own neuroscience pipeline page continues to list ION464 among its MSA programmes. ⚠️ This site had previously recorded, per February 2025 press coverage, that 'Biogen announced discontinuation' — <b>that historical record is not retracted</b>; no public source explains the discrepancy (whether Biogen returned rights to Ionis, which then continued independently, or otherwise, <b>cannot be verified</b>), so this entry updates the status field to match the current registration without speculating on the cause.",
+      "sponsor": "Ionis Pharmaceuticals (sole listed sponsor on the current registration; Biogen announced discontinuation in 2025/02 — see status note)"
     }
   },
   {

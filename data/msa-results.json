@@ -242,7 +242,7 @@
     "sourceType": "新聞稿",
     "level": "neg",
     "readout": "Ph1 更新顯示安全、耐受良好，未見與試驗藥相關的嚴重不良事件或死亡。**2025/02/12 Biogen 宣布終止 ION464／BIIB101 開發**（截至 2025/03 Ionis 管線仍列此案）。公開來源未見以療效或安全為由的具體說明。",
-    "implication": "→ α-synuclein ASO 路線在 MSA 失去一家大型藥廠的開發推動；標的正確與否未被此決定回答，不宜過度解讀。",
+    "implication": "→ α-synuclein ASO 路線在 MSA 失去一家大型藥廠的開發推動；標的正確與否未被此決定回答，不宜過度解讀。⚠️ <b>2026/10/12 更新</b>：CT.gov 登錄現狀（主辦方單獨列 Ionis、狀態收案中）與本則歷史記錄不一致，詳見 試驗雷達／在研療法全景 ION464 卡片之說明；本則歷史記錄不予撤銷。",
     "links": [
       {
         "label": "ClinicalTrials NCT04165486",
@@ -262,7 +262,7 @@
       "trial": "HORIZON · Ph1 (intrathecal, NCT04165486)",
       "sourceType": "Press release",
       "readout": "The Ph1 update showed the drug was safe and well tolerated, with no serious adverse events or deaths related to study drug. **On 2025/02/12 Biogen announced it was discontinuing ION464/BIIB101** (as of 2025/03 Ionis still listed it in its pipeline). Public sources give no specific efficacy or safety rationale.",
-      "implication": "→ The α-synuclein ASO route in MSA loses a large-cap sponsor; the decision does not answer whether the target is right, so it should not be over-read.",
+      "implication": "→ The α-synuclein ASO route in MSA loses a large-cap sponsor; the decision does not answer whether the target is right, so it should not be over-read. ⚠️ <b>Updated 2026/10/12</b>: the current CT.gov registration (sole sponsor now Ionis, status Recruiting) conflicts with this historical record — see the note on the ION464 card in the Trial Radar / Therapy Landscape; this historical record is not retracted.",
       "links": [
         {
           "label": "ClinicalTrials NCT04165486",

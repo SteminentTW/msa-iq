@@ -1,5 +1,39 @@
 [
   {
+    "id": "ion464-status-correction-2026-10",
+    "date": "2026-10-12",
+    "dateDisplay": "2026/10/12",
+    "level": "info",
+    "tag": "試驗登錄更正 · 狀態澄清",
+    "body": "<b>本站追蹤資產例行查核發現，Ionis／Biogen 的 α-synuclein 反義寡核苷酸 ION464（BIIB101）於 MSA 之 Ph1「HORIZON」試驗（NCT04165486），其 ClinicalTrials.gov 登錄現狀與本站此前依 2025/02 多家媒體報導所記錄之「Biogen 宣布終止開發」不一致</b>：登錄最後更新於 2026-04-27（狀態驗證日 2026-04），主辦方現單獨列為 <b>Ionis Pharmaceuticals</b>（不再列 Biogen），整體狀態為<b>收案中</b>，估計主要完成日由原 2025-09 延後為 <b>2027-09</b>。Ionis 官方神經科學產品線網頁亦持續將 ION464 列為 MSA 在研項目之一。",
+    "note": "→ ⚠️ 公開來源未見任何官方聲明解釋此一落差的具體原因（例如 Biogen 是否已將權利歸還 Ionis、由其自行接手續行開發等，均<b>無法核實</b>）；2025/02 Biogen 宣布終止開發 ION464／BIIB101 一事確曾經多家媒體報導，<b>本站不撤銷該歷史記錄</b>，僅依登錄現狀同步更新試驗雷達與在研療法全景之狀態欄，並於此註明兩者並存、尚待官方說明。",
+    "links": [
+      {
+        "label": "試驗登錄 NCT04165486 ↗",
+        "url": "https://clinicaltrials.gov/study/NCT04165486"
+      },
+      {
+        "label": "Ionis 神經科學產品線頁面 ↗",
+        "url": "https://neurology.ionis.com/our-pipeline"
+      }
+    ],
+    "en": {
+      "tag": "Registry update · status clarification",
+      "body": "<b>A routine check of tracked assets found that the ClinicalTrials.gov registration for Ionis/Biogen's alpha-synuclein antisense oligonucleotide ION464 (BIIB101) in its Phase 1 'HORIZON' MSA trial (NCT04165486) now conflicts with this site's prior record — based on February 2025 press coverage — that \"Biogen announced discontinuation.\"</b> The registration was last updated 2026-04-27 (status verified 2026-04), now lists <b>Ionis Pharmaceuticals</b> alone as sponsor (Biogen no longer appears), shows the overall status as <b>Recruiting</b>, and has pushed estimated primary completion from 2025-09 out to <b>2027-09</b>. Ionis's own neuroscience pipeline page also continues to list ION464 among its MSA programmes.",
+      "note": "→ ⚠️ No public source explains the specific reason for this discrepancy (whether Biogen returned rights to Ionis, which then continued development independently, or some other explanation — all <b>cannot be verified</b>); the 2025/02 reports of Biogen discontinuing ION464/BIIB101 were carried by multiple outlets and <b>this site does not retract that historical record</b> — it simply updates the Trial Radar and Therapy Landscape status fields to match the current registration, and flags here that both facts coexist pending an official clarification.",
+      "links": [
+        {
+          "label": "Trial registration NCT04165486 ↗",
+          "url": "https://clinicaltrials.gov/study/NCT04165486"
+        },
+        {
+          "label": "Ionis neuroscience pipeline page ↗",
+          "url": "https://neurology.ionis.com/our-pipeline"
+        }
+      ]
+    }
+  },
+  {
     "id": "msa01-ph3-discovered-2026-10",
     "date": "2026-10-07",
     "dateDisplay": "2026/10/07",
@@ -131,49 +165,6 @@
         {
           "label": "ClinicalTrials NCT06868628 ↗",
           "url": "https://clinicaltrials.gov/study/NCT06868628"
-        }
-      ]
-    }
-  },
-  {
-    "id": "tak341-ph2-fail-2026",
-    "date": "2025-10-31",
-    "dateDisplay": "2025/10 財報揭露 · 2026/03 AD/PD 完整發表",
-    "level": "neg",
-    "tag": "試驗讀出 · 主動盤點新收錄",
-    "body": "<b>武田／AstraZeneca 的 TAK-341（MEDI1341，anti-α-synuclein 單株抗體）樞紐性 Ph2（NCT05526391）確認失敗、開發終止</b>。試驗為隨機雙盲安慰劑對照，每 4 週靜脈輸注一次，於北美／歐洲／亞洲 56 站點收案 159 人，2025/07 完成；主要指標為第 52 週 Modified UMSARS 分數變化。武田於 2025/10/31 第三季財報文件中揭露<b>主要與次要終點均未達統計顯著</b>，並將 TAK-341 自產品線移除；完整數據其後於 2026/03 AD/PD 國際大會發表，結果為<b>安全性可耐受、但治療組與安慰劑組無顯著差異</b>。本站先前未收錄此資產與此試驗，本次為主動盤點（active discovery）後首次收錄。",
-    "note": "→ 這是繼 Biohaven verdiperstat（M-STAR Ph3，2021）與 Ionis/Biogen ION464（2025）後，MSA 領域第三個由大型藥廠終止的 anti-α-synuclein／抗神經退化資產。⚠️ 本次掃描期間 ClinicalTrials.gov、PubMed 與多數新聞網域遭組織層級網路政策阻擋（HTTP 403），本站無法直接讀取武田財報原文或 AD/PD 海報全文，以上僅根據可透過搜尋索引到之 FierceBiotech、AlzForum、Neurology 摘要頁等次級來源彙整；具體 UMSARS 數值尚未見於本站可查證之公開索引摘要中列出，本站不代填。",
-    "links": [
-      {
-        "label": "ClinicalTrials NCT05526391 ↗",
-        "url": "https://clinicaltrials.gov/study/NCT05526391"
-      },
-      {
-        "label": "FierceBiotech 報導 ↗",
-        "url": "https://www.fiercebiotech.com/biotech/takeda-drops-astrazeneca-partnered-neurological-drug-after-phase-2-failure"
-      },
-      {
-        "label": "ALZFORUM — TAK-341 ↗",
-        "url": "https://www.alzforum.org/therapeutics/tak-341"
-      }
-    ],
-    "en": {
-      "dateDisplay": "2025/10 disclosure · 2026/03 AD/PD full presentation",
-      "tag": "Trial readout · newly added via active discovery",
-      "body": "<b>Takeda/AstraZeneca's TAK-341 (MEDI1341, an anti-alpha-synuclein monoclonal antibody) pivotal Ph2 (NCT05526391) has been confirmed a failure and the programme discontinued</b>. The trial was randomised, double-blind, placebo-controlled, with IV infusions every 4 weeks, enrolling 159 patients across 56 sites in North America, Europe and Asia, completing in 2025/07; the primary endpoint was change in Modified UMSARS at week 52. Takeda disclosed in its 2025/10/31 Q3 earnings materials that <b>neither the primary nor secondary endpoints were met</b> and removed TAK-341 from its pipeline; full data were subsequently presented at the 2026/03 AD/PD International Conference, showing the drug was <b>safe and well tolerated but with no significant difference</b> versus placebo. This site had not previously tracked this asset or trial; it is added here following active discovery.",
-      "note": "→ The third large-pharma anti-alpha-synuclein/anti-neurodegenerative asset halted in MSA, after Biohaven's verdiperstat (M-STAR Ph3, 2021) and Ionis/Biogen's ION464 (2025). ⚠️ During this scan, ClinicalTrials.gov, PubMed and most news domains were blocked by an organisation-level network policy (HTTP 403), so this site could not directly read Takeda's earnings filing or the AD/PD poster; the above is compiled from secondary sources indexed via search — FierceBiotech, AlzForum, a Neurology abstract page — and specific UMSARS figures are not yet available from a source this site could verify, so none are supplied.",
-      "links": [
-        {
-          "label": "ClinicalTrials NCT05526391 ↗",
-          "url": "https://clinicaltrials.gov/study/NCT05526391"
-        },
-        {
-          "label": "FierceBiotech coverage ↗",
-          "url": "https://www.fiercebiotech.com/biotech/takeda-drops-astrazeneca-partnered-neurological-drug-after-phase-2-failure"
-        },
-        {
-          "label": "ALZFORUM — TAK-341 ↗",
-          "url": "https://www.alzforum.org/therapeutics/tak-341"
         }
       ]
     }
