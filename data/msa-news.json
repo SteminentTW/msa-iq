@@ -1,5 +1,31 @@
 [
   {
+    "id": "ono2808-ph2-formal-results-2026-10",
+    "date": "2026-10-06",
+    "dateDisplay": "2026/10/06",
+    "level": "info",
+    "tag": "試驗結果登錄 · 安全性揭露",
+    "body": "<b>小野藥品 ONO-2808 之 Ph2 試驗（NCT05923866）正式結果登錄上線 CT.gov</b>（hasResults=true，登錄日 2026/10/06）。登錄內容<b>僅含安全性與藥動學指標</b>：24 週核心部分完成率隨劑量遞減（安慰劑 19/23、低劑量 18/23、中劑量 17/23、高劑量 16/23 完成），期間<b>共 2 例死亡（中劑量組 1 例、高劑量組 1 例），經試驗研究者評估均與試驗藥物無關</b>；嚴重不良事件（TESAE）例數安慰劑 6、各劑量組 4，其中與藥物相關者僅安慰劑與低劑量各 1 例。此前已收錄之 mUMSARS 療效數據（MSA-P 次族群正面訊號）<b>僅來自公司期中分析與研討會發表，CT.gov 尚未正式登錄療效結果</b>。",
+    "note": "→ 安全性數字與公司先前揭露之 TEAE 比率一致，未見新增警訊；新曝露之死亡例數為 MSA 晚期病人族群試驗常見之背景死亡率範疇，且均經判定與藥物無關，公司與 Deciphera 之樞紐 Ph3（NCT07825402）規劃未見變動。⚠️ <b>劑量依存之脫落率上升（安慰劑 4/23 未完成 → 高劑量 7/23）可能反映耐受性隨劑量下降，公開登錄未附具體原因，不臆測。</b>",
+    "links": [
+      {
+        "label": "CT.gov 正式結果 ↗ NCT05923866",
+        "url": "https://clinicaltrials.gov/study/NCT05923866?tab=results"
+      }
+    ],
+    "en": {
+      "tag": "Trial results posted · safety disclosure",
+      "body": "<b>Formal results for Ono Pharmaceutical's Phase 2 ONO-2808 trial (NCT05923866) were posted to CT.gov</b> (hasResults=true, posted 2026/10/06). The posting <b>covers only safety and pharmacokinetic measures</b>: 24-week core-part completion declined with dose (19/23 placebo, 18/23 low, 17/23 medium, 16/23 high dose completed), with <b>2 deaths during the period (1 on medium dose, 1 on high dose), both assessed by investigators as unrelated to study drug</b>; serious adverse events (TESAEs) numbered 6 on placebo and 4 in each dose arm, with drug-related TESAEs limited to 1 each on placebo and low dose. The previously recorded mUMSARS efficacy data (a positive signal in the MSA-P subgroup) <b>still come only from the company's interim analysis and conference presentation; CT.gov has not yet posted formal efficacy results</b>.",
+      "note": "→ The safety figures are consistent with the TEAE rates the company previously disclosed, with no new red flags; the newly disclosed deaths fall within the background mortality expected in a late-stage MSA trial population and were judged unrelated to drug, and there is no sign of any change to the company's and Deciphera's plans for the pivotal Phase 3 (NCT07825402). ⚠️ <b>The dose-dependent rise in discontinuation (4/23 not completed on placebo versus 7/23 on high dose) may reflect declining tolerability at higher doses, but the public registration gives no specific reason, and none is speculated here.</b>",
+      "links": [
+        {
+          "label": "Formal CT.gov results ↗ NCT05923866",
+          "url": "https://clinicaltrials.gov/study/NCT05923866?tab=results"
+        }
+      ]
+    }
+  },
+  {
     "id": "ion464-status-correction-2026-10",
     "date": "2026-10-12",
     "dateDisplay": "2026/10/12",
@@ -131,40 +157,6 @@
         {
           "label": "ClinicalTrials NCT06706622 ↗",
           "url": "https://clinicaltrials.gov/study/NCT06706622"
-        }
-      ]
-    }
-  },
-  {
-    "id": "foralumab-odd-filed-2026-09",
-    "date": "2026-09-30",
-    "dateDisplay": "2026/09/30",
-    "level": "info",
-    "tag": "法規 · 孤兒藥資格申請",
-    "body": "<b>Tiziana Life Sciences 向 FDA 遞交鼻噴 foralumab 治療 MSA 之孤兒藥資格（Orphan Drug Designation）申請</b>。申請理由為 MSA 在美國患病人數低於 20 萬人之罕病門檻、目前無任何 FDA 核准之疾病修飾療法。申請中引述之支持資料為<b>仍在進行中的 Ph2a 開放標籤試驗（NCT06868628）</b>，另援引 foralumab 於非活動性次發進展型多發性硬化症擴大使用計畫中 <b>14 名病人於 6 個月內皆呈現改善或穩定</b>之結果（<b>不同疾病、非 MSA 數據</b>）。公司執行長 Ivor Elrifi 稱 foralumab 可「誘導調節性 T 細胞、調控 T 細胞驅動發炎」並「降低微膠細胞活化」。⚠️ <b>此為資格（designation）申請，非核准（approval）、亦非試驗療效讀出</b>；孤兒藥資格本身不代表療效獲證實，僅賦予核准後 7 年市場獨佔、臨床試驗稅務抵免、申請費減免與 FDA 協助輔導等資格利益；審查結果尚待 FDA 公告。",
-    "note": "→ MSA 目前尚無任何已獲 FDA 孤兒藥資格之療法達到核准階段；本項申請本身不改變 foralumab 的臨床階段（仍為 Ph2a、累計僅 3 名 MSA 受試者有公開 PET 數據，見在研療法全景）。",
-    "links": [
-      {
-        "label": "GlobeNewswire 新聞稿 ↗",
-        "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/globenewswire/tiziana-life-sciences-files-for-orphan-drug-designation-with-the-fda-for-intranasal-foralumab-for-the-treatment-of-multiple-system-atrophy-msa/2435965/amp"
-      },
-      {
-        "label": "ClinicalTrials NCT06868628 ↗",
-        "url": "https://clinicaltrials.gov/study/NCT06868628"
-      }
-    ],
-    "en": {
-      "tag": "Regulatory · orphan drug designation filing",
-      "body": "<b>Tiziana Life Sciences has filed with the FDA for Orphan Drug Designation for intranasal foralumab in MSA</b>. The filing cites MSA's US prevalence below the 200,000-patient rare-disease threshold and the absence of any FDA-approved disease-modifying therapy. The supporting data cited is the <b>still-ongoing open-label Phase 2a trial (NCT06868628)</b>, alongside foralumab results from an expanded-access programme in non-active secondary progressive multiple sclerosis in which <b>14 patients showed either improvement or stability within 6 months</b> (<b>a different disease, not MSA data</b>). CEO Ivor Elrifi stated foralumab 'induces regulatory T cells and modulates T-cell-driven inflammation' while 'reducing microglial activation'. ⚠️ <b>This is a designation filing, not an approval and not a trial efficacy readout</b>; orphan designation itself does not establish efficacy — it confers eligibility for 7 years of market exclusivity upon approval, clinical-testing tax credits, application-fee waivers and FDA protocol assistance; the outcome of FDA review is still pending.",
-      "note": "→ No MSA therapy with FDA orphan drug designation has yet reached approval; this filing by itself does not change foralumab's clinical stage (still Phase 2a, with publicly reported PET data from only 3 MSA participants to date — see the competitive landscape page).",
-      "links": [
-        {
-          "label": "GlobeNewswire release ↗",
-          "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/globenewswire/tiziana-life-sciences-files-for-orphan-drug-designation-with-the-fda-for-intranasal-foralumab-for-the-treatment-of-multiple-system-atrophy-msa/2435965/amp"
-        },
-        {
-          "label": "ClinicalTrials NCT06868628 ↗",
-          "url": "https://clinicaltrials.gov/study/NCT06868628"
         }
       ]
     }

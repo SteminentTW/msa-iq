@@ -270,7 +270,7 @@
     "drug": "ONO-2808",
     "mechanism": "S1P5 受體促效劑",
     "phase": "Ph2",
-    "status": "已停止收案、試驗進行中",
+    "status": "已停止收案、試驗進行中。<b>【2026/10/06 更新】CT.gov 正式結果登錄上線（hasResults=true）</b>：核心部分完成率隨劑量遞減，並揭露 2 例死亡（中、高劑量組各 1 例，經研究者判定與藥物無關）；登錄僅含安全性／藥動學結果，療效指標（mUMSARS）尚未正式登錄，詳見 results.json。",
     "sponsor": "小野藥品 Ono",
     "cell": false,
     "primary": "2025-09-15",
@@ -278,7 +278,7 @@
     "en": {
       "mechanism": "S1P5 receptor agonist",
       "phase": "Ph2",
-      "status": "Active, not recruiting",
+      "status": "Active, not recruiting. <b>[Update 2026/10/06] Formal results posted to CT.gov</b> (hasResults=true): core-part completion declined with dose, and 2 deaths were disclosed (1 each on medium and high dose, judged unrelated to drug by investigators); the posting covers only safety/PK results, with the mUMSARS efficacy endpoint not yet formally posted — see results.json.",
       "sponsor": "Ono Pharmaceutical"
     }
   },

@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-10-13",
+    "dateDisplay": "2026/10/13",
+    "tag": "每日掃描 · 試驗結果登錄",
+    "level": "info",
+    "body": "上次真正發布為2026-10-12，缺口1天，屬正常每日掃描。CT.gov廣掃（query.cond=multiple system atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選，pageSize=40，依最後更新排序）共40筆命中，逐筆核對適應症後，<b>所有MSA標籤命中均為既有記錄試驗，其餘為「atrophy」字面誤觸（FSHD／SMA／DM1／DMD／sarcopenia／顏面萎縮等）或已反覆排除之觀察性登錄／自然史研究／純診斷工具（NCT07863180再次核對仍限PSP-Richardson症候群，延續排除）</b>，未發現平台未收錄之新介入性試驗。PubMed「multiple system atrophy」[Title]近10天（edat）命中2篇（42857053、42829174），均已於先前掃描收錄，本次無新文獻。<b>追蹤資產WebSearch查核發現小野藥品ONO-2808之Ph2試驗（NCT05923866）於2026/10/06正式結果登錄上線CT.gov（hasResults=true）</b>：登錄僅含安全性與藥動學指標，揭露核心部分期間2例死亡（中、高劑量組各1例，經研究者判定與藥物無關）、完成率隨劑量遞減；既有之mUMSARS療效數據仍僅見於公司期中分析與研討會發表，CT.gov尚未正式登錄療效結果。已同步更新msa-results.json（ono2808-ph2筆）、msa-trials.json、msa-competitors.json狀態欄，並於msa-news.json加一筆說明（移除陣列末端最舊之foralumab-odd-filed-2026-09一則以維持約5筆，內容已完整保留於msa-competitors.json）。其餘追蹤資產（Alterity ATH434、Lundbeck amlenetug）WebSearch查核窗內均為既有記錄，無新事實。msa-events.json／assessments／naturalhistory／preclinical本次未滿維護週期或未查得新驗證事實，維持不動。本次掃描所用CT.gov API、PubMed E-utilities、WebSearch工具均正常運作，無來源失敗。weekNewCount本週（自10/12週一起算，先前為4）本次新增1項試驗結果登錄揭露，累計為5。",
+    "link": {
+      "label": "詳見 競品試驗結果 ↗",
+      "tab": "res"
+    },
+    "en": {
+      "tag": "Daily scan · trial results posted",
+      "body": "The last genuine publish was 2026-10-12, a 1-day gap — a normal daily run. The CT.gov broad scan (query.cond=multiple system atrophy, status-filtered to RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=40, sorted by last-update) returned 40 hits; checking each against indication found <b>every MSA-labelled hit already on record, with the rest being literal \"atrophy\" false positives (FSHD/SMA/DM1/DMD/sarcopenia/facial atrophy etc.) or previously and repeatedly excluded observational/natural-history/diagnostic-tool studies (NCT07863180 re-checked and still restricted to PSP-Richardson syndrome, so the exclusion stands)</b> — no new interventional trial was found that the platform does not already have. PubMed's '\"multiple system atrophy\"[Title]' sweep over the past 10 days (by edat) returned 2 hits (42857053, 42829174), both already recorded in earlier scans — no new papers this run. <b>A WebSearch check of tracked assets found that formal results for Ono Pharmaceutical's Phase 2 ONO-2808 trial (NCT05923866) were posted to CT.gov on 2026/10/06 (hasResults=true)</b>: the posting covers only safety and pharmacokinetic measures, disclosing 2 deaths during the core part (1 each on medium and high dose, judged unrelated to drug by investigators) and declining completion with dose; the existing mUMSARS efficacy data still come only from the company's interim analysis and conference presentation, with CT.gov not yet posting formal efficacy results. msa-results.json (the ono2808-ph2 entry), msa-trials.json and msa-competitors.json status fields were updated accordingly, and a new entry was added to msa-news.json (its oldest item, foralumab-odd-filed-2026-09, was dropped to keep the list at roughly 5; its content is fully preserved in msa-competitors.json). The other tracked assets (Alterity's ATH434, Lundbeck's amlenetug) were checked via WebSearch and returned only facts already on record within the window, with no new findings. msa-events.json, assessments, naturalhistory and preclinical have not reached their maintenance cycles or surfaced new verified facts this run, and remain unchanged. All tools used in this scan (the CT.gov API, PubMed E-utilities, WebSearch) functioned normally; no source failures. weekNewCount (this week, starting Monday 10/12; previously 4) gains this run's one new trial-results disclosure, bringing the total to 5.",
+      "link": {
+        "label": "See Competitive Trial Results ↗",
+        "tab": "res"
+      }
+    }
+  },
+  {
     "date": "2026-10-12",
     "dateDisplay": "2026/10/12",
     "tag": "每日掃描",

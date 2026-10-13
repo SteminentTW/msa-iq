@@ -162,8 +162,8 @@
     "trial": "ONO-2808-03 · Ph2（雙盲核心部分 24 週）",
     "sourceType": "研討會摘要",
     "level": "pos",
-    "readout": "安全性：TEAE 發生率安慰劑 91%（21/23）vs ONO-2808 93%（64/69），無非預期安全訊號。療效：**MSA-P 次族群** 24 週 mUMSARS 自基線變化 安慰劑 3.90 vs 中劑量 1.39、高劑量 1.16；MRI 腦容積評估見劑量依存的萎縮抑制傾向。公司與 Deciphera 規劃樞紐性 Ph3。",
-    "implication": "→ 又一個非 α-synuclein 標的（S1P5／寡突膠質）的正面訊號；但屬次族群分析，須待 Ph3 驗證。",
+    "readout": "安全性：TEAE 發生率安慰劑 91%（21/23）vs ONO-2808 93%（64/69），無非預期安全訊號。療效：**MSA-P 次族群** 24 週 mUMSARS 自基線變化 安慰劑 3.90 vs 中劑量 1.39、高劑量 1.16；MRI 腦容積評估見劑量依存的萎縮抑制傾向。公司與 Deciphera 規劃樞紐性 Ph3。<b>【2026/10/06 更新】CT.gov 正式結果登錄上線（NCT05923866，hasResults=true）</b>：核心部分（24 週）完成率隨劑量遞減——安慰劑 19/23、低劑量 18/23、中劑量 17/23、高劑量 16/23 完成；<b>核心部分期間共 2 例死亡（中劑量組 1 例、高劑量組 1 例），經試驗研究者評估均與試驗藥物無關</b>；嚴重不良事件（TESAE）例數為安慰劑 6、低劑量 4、中劑量 4、高劑量 4，其中與藥物相關之 TESAE 僅安慰劑組 1 例、低劑量組 1 例，中／高劑量組均為 0。⚠️ 本次正式登錄<b>僅揭露安全性與藥物動力學指標，未含 mUMSARS 等療效指標之正式登錄數據</b>——上述療效數字仍僅見於公司期中分析與研討會發表，CT.gov 尚未正式登錄療效結果。",
+    "implication": "→ 又一個非 α-synuclein 標的（S1P5／寡突膠質）的正面訊號；但屬次族群分析，須待 Ph3 驗證。CT.gov 正式安全性數據與先前公司揭露之 TEAE 比率一致，惟新增之死亡事件（經判定與藥物無關）與劑量依存之脫落率提高，為 Ph3 設計時需關注的背景資訊。",
     "links": [
       {
         "label": "Ono 期中分析 2025/10/09",
@@ -172,14 +172,18 @@
       {
         "label": "Ono WPC 發表 2026/05",
         "url": "https://www.ono-pharma.com/en/news/20260528.html"
+      },
+      {
+        "label": "CT.gov 正式結果登錄 ↗ NCT05923866",
+        "url": "https://clinicaltrials.gov/study/NCT05923866?tab=results"
       }
     ],
     "en": {
       "competitor": "Ono Pharmaceutical",
       "trial": "ONO-2808-03 · Ph2 (24-week double-blind core part)",
       "sourceType": "Conference abstract",
-      "readout": "Safety: TEAE incidence 91% on placebo (21/23) vs 93% on ONO-2808 (64/69), with no unexpected signals. Efficacy: in the **MSA-P subgroup**, 24-week change from baseline in mUMSARS was 3.90 on placebo vs 1.39 (medium dose) and 1.16 (high dose); MRI brain-volume assessment showed a dose-dependent trend toward suppressed atrophy. Ono and Deciphera plan a pivotal Ph3.",
-      "implication": "→ Another positive signal from a non-α-synuclein target (S1P5 / oligodendrocytes), but it rests on a subgroup analysis and awaits Ph3 confirmation.",
+      "readout": "Safety: TEAE incidence 91% on placebo (21/23) vs 93% on ONO-2808 (64/69), with no unexpected signals. Efficacy: in the **MSA-P subgroup**, 24-week change from baseline in mUMSARS was 3.90 on placebo vs 1.39 (medium dose) and 1.16 (high dose); MRI brain-volume assessment showed a dose-dependent trend toward suppressed atrophy. Ono and Deciphera plan a pivotal Ph3. <b>[Update 2026/10/06] Formal results were posted to CT.gov</b> (NCT05923866, hasResults=true): core-part (24-week) completion declined with dose — 19/23 on placebo, 18/23 low dose, 17/23 medium dose, 16/23 high dose; <b>2 deaths occurred during the core part (1 on medium dose, 1 on high dose), both assessed by investigators as unrelated to study drug</b>; serious adverse events (TESAEs) numbered 6 on placebo, 4 low dose, 4 medium dose and 4 high dose, with drug-related TESAEs limited to 1 on placebo and 1 on low dose (0 on medium/high). ⚠️ This formal posting <b>discloses only safety and pharmacokinetic measures, not the mUMSARS efficacy endpoint</b> — the efficacy figures above still come only from the company's interim analysis and conference presentation; CT.gov has not yet posted formal efficacy results.",
+      "implication": "→ Another positive signal from a non-α-synuclein target (S1P5 / oligodendrocytes), but it rests on a subgroup analysis and awaits Ph3 confirmation. The formal CT.gov safety data are consistent with the company's previously disclosed TEAE rates, but the newly disclosed deaths (judged unrelated to drug) and the dose-dependent rise in discontinuation are background points worth watching as Ph3 is designed.",
       "links": [
         {
           "label": "Ono interim analysis 2025/10/09",
@@ -188,6 +192,10 @@
         {
           "label": "Ono WPC presentation 2026/05",
           "url": "https://www.ono-pharma.com/en/news/20260528.html"
+        },
+        {
+          "label": "Formal CT.gov results ↗ NCT05923866",
+          "url": "https://clinicaltrials.gov/study/NCT05923866?tab=results"
         }
       ],
       "dateDisplay": "2025/10 interim · 2026/05 WPC"
