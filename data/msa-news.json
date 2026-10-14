@@ -1,5 +1,31 @@
 [
   {
+    "id": "biocells-msc-discovered-2026-10",
+    "date": "2026-10-14",
+    "dateDisplay": "2026/10/14",
+    "level": "info",
+    "tag": "新競品發現 · 細胞治療",
+    "body": "主動資產盤點發現本站先前漏收之一項 MSA 細胞治療試驗：<b>波蘭私人再生醫學診所 Biocells Medical 的自體神經誘導間質幹細胞（MSC）Ph2 試驗（NCT07465198）</b>。登錄於 2026-03-11 首次公開、2026-03 驗證後逾 7 個月未再更新，因登錄更新時間落在 CT.gov 依最後更新日排序之廣掃視窗（近40筆）之外，先前未被平台收錄。試驗設計為隨機、雙盲、安慰劑對照，單一站點（波蘭華沙），估計收案50人，介入為單次靜脈輸注2億顆神經誘導MSC，主要指標為第48週UMSARS變化。登錄整體狀態仍列「尚未開始收案」，惟估計起始日2026-09-01已過，登錄未說明進度。",
+    "note": "→ 第三方產業資料庫另列同公司名下一項「異體MSC外泌體」產品亦以MSA為適應症、標示Ph2，因無法以CT.gov登錄或公司官方來源核實，本站不予收錄該筆，僅記錄已登錄在案之本試驗。",
+    "links": [
+      {
+        "label": "試驗登錄 ↗ NCT07465198",
+        "url": "https://clinicaltrials.gov/study/NCT07465198"
+      }
+    ],
+    "en": {
+      "tag": "New competitor discovered · Cell therapy",
+      "body": "Active asset discovery surfaced an MSA cell-therapy trial previously missed by this site: <b>a Phase 2 trial of autologous neuro-induced mesenchymal stem cells (MSC) from Biocells Medical</b>, a private regenerative-medicine clinic in Poland (NCT07465198). First posted 2026-03-11 and last verified 2026-03, with no update in over 7 months, its registration date fell outside the ~40-record window of the broad CT.gov sweep sorted by last-update date, so it had not previously been recorded. The design is randomised, double-blind, placebo-controlled, single-site (Warsaw, Poland), with an estimated enrolment of 50; the intervention is a single intravenous infusion of 200 million neuro-induced MSCs, and the primary outcome is change in UMSARS at week 48. The overall registry status still reads 'not yet recruiting', even though the estimated start date of 2026-09-01 has already passed, with no registry note on progress.",
+      "note": "→ A third-party industry database separately lists an 'allogeneic MSC exosome' product under the same company name, also for MSA and marked Phase 2; since it cannot be verified against a CT.gov registration or an official company source, it is not recorded here — only the registered trial above is.",
+      "links": [
+        {
+          "label": "Registry ↗ NCT07465198",
+          "url": "https://clinicaltrials.gov/study/NCT07465198"
+        }
+      ]
+    }
+  },
+  {
     "id": "ono2808-ph2-formal-results-2026-10",
     "date": "2026-10-06",
     "dateDisplay": "2026/10/06",
@@ -123,40 +149,6 @@
         {
           "label": "Trial registration ↗ NCT05109091",
           "url": "https://clinicaltrials.gov/study/NCT05109091"
-        }
-      ]
-    }
-  },
-  {
-    "id": "lundbeck-mds2026-preview-2026-10",
-    "date": "2026-10-02",
-    "dateDisplay": "2026/10/02",
-    "level": "info",
-    "tag": "學會發表預告",
-    "body": "<b>Lundbeck 公告將於 MDS 2026 國際大會（首爾，2026/10/04–08）發表旗下動作障礙藥物線多項資料</b>，MSA 相關部分包括：①樞紐 Ph3 <b>MASCOT 試驗（amlenetug／Lu AF82422，NCT06706622）</b>收案人群多樣性之基線特徵（Late-breaking oral，10/5），確認<b>收案 401 人、涵蓋 MSA-C 與 MSA-P 兩亞型</b>，72 週雙盲安慰劑對照、主要讀出預計 2027 Q3；②mUMSARS Part I 量表之心理計量驗證、及其中文版驗證（ePoster 149／150，10/5）；③以質譜蛋白體學尋找候選腦脊髓液生物標記（ePoster 121），及一項<b>以 C 端 α-突觸核蛋白檢測區分 MSA 與帕金森氏症</b>之口頭報告（OPP3-G）；④一項美國健保資料庫觀察性研究，發現 MSA 病人之醫療資源使用與支出顯著高於帕金森氏症病人。",
-    "note": "→ <b>本次公告為研討會議程預告，非試驗結果讀出</b>：MASCOT 的基線多樣性描述不含任何療效或安全性數據；amlenetug 的主要療效結果仍待 2027 Q3。生物標記與量表驗證項目目前僅公告將發表，具體數值待會議現場公布後再補。",
-    "links": [
-      {
-        "label": "Lundbeck 新聞稿 ↗",
-        "url": "https://news.cision.com/h--lundbeck-a-s/r/lundbeck-to-showcase-progress-across-its-movement-disorders-pipeline-with-data-in-multiple-system-at,c4403628"
-      },
-      {
-        "label": "ClinicalTrials NCT06706622 ↗",
-        "url": "https://clinicaltrials.gov/study/NCT06706622"
-      }
-    ],
-    "en": {
-      "tag": "Congress presentation preview",
-      "body": "<b>Lundbeck announced it will present multiple movement-disorder pipeline updates at the MDS 2026 International Congress (Seoul, 2026/10/04–08)</b>. The MSA-related items include: (1) baseline characteristics describing participant diversity in the pivotal Phase III <b>MASCOT trial (amlenetug / Lu AF82422, NCT06706622)</b> (late-breaking oral, 10/5), confirming <b>401 participants enrolled, spanning both the MSA-C and MSA-P subtypes</b>, in a 72-week double-blind, placebo-controlled design with the primary readout expected in Q3 2027; (2) psychometric validation of the modified UMSARS Part I scale and of its Chinese-language version (ePosters 149/150, 10/5); (3) candidate cerebrospinal fluid biomarkers identified via mass-spectrometry proteomics (ePoster 121), plus an oral presentation on a <b>C-terminal alpha-synuclein assay to differentiate MSA from Parkinson's disease</b> (OPP3-G); (4) a US claims-database observational study finding significantly higher healthcare resource use and costs among MSA patients compared with Parkinson's disease patients.",
-      "note": "→ <b>This announcement is a congress-agenda preview, not a trial readout</b>: the MASCOT baseline/diversity description contains no efficacy or safety data, and amlenetug's primary efficacy result remains pending for Q3 2027. The biomarker and scale-validation items are announced only as forthcoming presentations; specific figures will be added once presented at the congress.",
-      "links": [
-        {
-          "label": "Lundbeck press release ↗",
-          "url": "https://news.cision.com/h--lundbeck-a-s/r/lundbeck-to-showcase-progress-across-its-movement-disorders-pipeline-with-data-in-multiple-system-at,c4403628"
-        },
-        {
-          "label": "ClinicalTrials NCT06706622 ↗",
-          "url": "https://clinicaltrials.gov/study/NCT06706622"
         }
       ]
     }

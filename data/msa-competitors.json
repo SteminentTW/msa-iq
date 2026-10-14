@@ -660,5 +660,38 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/37256098/"
       }
     ]
+  },
+  {
+    "id": "biocells",
+    "company": "Biocells Medical（波蘭華沙，私人再生醫學診所）",
+    "drug": "自體神經誘導間質幹細胞（IV）",
+    "mechanism": "自體間質幹細胞經神經誘導處理後，單次靜脈輸注2億顆細胞",
+    "phase": "Ph2（NCT07465198）",
+    "status": "尚未開始收案（登錄最後更新2026-03，逾7個月未再更新）",
+    "highlight": false,
+    "relevance": "新進細胞治療業者（歐洲，私人診所主導）",
+    "note": "→ 與 Mayo、韓國案例同屬間質幹細胞（MSC）輸注路線，差異在於本案細胞<b>經「神經誘導」處理後再經靜脈輸注</b>（Mayo為鞘內注射、未經神經誘導之脂肪MSC）。⚠️ <b>證據基礎目前有限</b>：登錄本身未附任何臨床前或機制驗證資料，主辦方為私人診所、公開資訊有限；另於第三方產業資料庫查得同公司名下一項「異體MSC外泌體」產品亦列MSA適應症，<b>因無法以原始來源核實，本站不就該筆另行收錄</b>。目前無任何結果公開讀出。",
+    "category": "cell",
+    "sources": [
+      {
+        "label": "試驗登錄 NCT07465198",
+        "url": "https://clinicaltrials.gov/study/NCT07465198"
+      }
+    ],
+    "en": {
+      "company": "Biocells Medical (Warsaw, Poland — private regenerative-medicine clinic)",
+      "drug": "Autologous neuro-induced mesenchymal stem cells (IV)",
+      "mechanism": "Autologous mesenchymal stem cells subjected to neuro-induction, given as a single intravenous infusion of 200 million cells",
+      "phase": "Ph2 (NCT07465198)",
+      "status": "Not yet recruiting (registration last updated 2026-03, no update in over 7 months)",
+      "relevance": "New cell-therapy entrant (Europe, led by a private clinic)",
+      "note": "→ This sits in the same mesenchymal stem cell (MSC) infusion family as the Mayo and Korean programmes, but differs in that the cells here are <b>subjected to 'neuro-induction' before being given intravenously</b> (Mayo's adipose MSC is intrathecal and not neuro-induced). ⚠️ <b>The evidence base is currently limited</b>: the registration itself includes no preclinical or mechanistic validation data, and the sponsor is a private clinic with limited public information; a third-party industry database separately lists an 'allogeneic MSC exosome' product under the same company name also for MSA, but <b>because it cannot be verified against a primary source, it is not separately recorded on this site</b>. No results have been read out publicly to date.",
+      "sources": [
+        {
+          "label": "Registry NCT07465198",
+          "url": "https://clinicaltrials.gov/study/NCT07465198"
+        }
+      ]
+    }
   }
 ]

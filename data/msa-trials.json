@@ -389,5 +389,23 @@
       "status": "Recruiting — <b>newly added to this site</b>. First posted 2026-03-03, last updated 2026-03-04 (no update in over 7 months); surfaced through active discovery after being missed earlier. Randomized, double-blind, placebo-controlled (quadruple-masked), estimated enrollment 140, across 12 Japanese sites (Nagoya University, Chiba University, Kyushu University, Hokkaido University and others; most individual sites are still listed as \"not yet recruiting\" while the overall status is recruiting). Actual start 2026-02-09, estimated primary completion 2028-03-31, 12-month treatment course; primary endpoint is change from baseline in UMSARS Part 2 at week 52. It follows a positive Phase 2 result from the same team published in EClinicalMedicine in 2023 — see Results.",
       "sponsor": "University of Tokyo (Jun Mitsui) / Nobelpharma"
     }
+  },
+  {
+    "nct": "NCT07465198",
+    "drug": "自體神經誘導間質幹細胞（Biocells Medical）",
+    "mechanism": "靜脈輸注之自體間質幹細胞（經神經誘導處理），單次輸注2億顆（200,000,000）細胞",
+    "phase": "Ph2",
+    "status": "尚未開始收案——<b>本站新收錄</b>。登錄於 2026-03-11 首次公開，狀態驗證日 2026-03（逾 7 個月未再更新），經主動盤點（CT.gov 資產點名，非廣掃前 40 筆排序視窗）發現本站先前漏收。隨機、雙盲、安慰劑對照，1:1 分派，<b>單一站點</b>（波蘭華沙，Biocells Medical），估計收案 50 人，收 35–65 歲、經診斷為 MSA-P 或 MSA-C 之病人。對照組為生理食鹽水輸注。估計起始日 2026-09-01（已過，但登錄整體狀態仍列「尚未開始收案」，登錄未說明是否延後或已啟動），估計主要完成日 2029-09-01。主要指標為第 48 週 UMSARS 分數自基線變化，次要指標為 SF-36 生活品質量表同期變化。⚠️ <b>需註明三點</b>：(1) Biocells Medical 為波蘭華沙一家私人再生醫學診所（依當地商業登記資料），非傳統意義之製藥公司，公開資訊有限；(2) 另於第三方產業資料庫查得同公司名下列有一項「異體間質幹細胞外泌體」產品、同樣以 MSA 為適應症並標示 Ph2，<b>惟此為不同產品，且僅見於第三方彙整資料庫，無法以 CT.gov 登錄或公司官方來源核實，本站不予收錄該筆</b>；(3) 目前無任何結果公開讀出，不得就安全性或療效做任何推論。",
+    "sponsor": "Biocells Medical（波蘭華沙，私人再生醫學診所）",
+    "cell": true,
+    "primary": "2029-09-01",
+    "url": "https://clinicaltrials.gov/study/NCT07465198",
+    "en": {
+      "drug": "Autologous neuro-induced mesenchymal stem cells (Biocells Medical)",
+      "mechanism": "Intravenously infused autologous mesenchymal stem cells (neuro-induced), given as a single infusion of 200,000,000 cells",
+      "phase": "Ph2",
+      "status": "Not yet recruiting — <b>newly added to this site</b>. First posted to CT.gov 2026-03-11, status last verified 2026-03 (no update in over 7 months); surfaced through active asset-name discovery (not the broad top-40, last-update-sorted sweep), having been missed earlier. Randomised, double-blind, placebo-controlled, 1:1 allocation, <b>single site</b> (Warsaw, Poland — Biocells Medical), estimated enrolment 50, ages 35–65, diagnosed with MSA-P or MSA-C. The comparator arm receives a saline infusion. Estimated start date 2026-09-01 (already past, but the overall registry status still reads 'not yet recruiting', with no registry note on delay or actual start), estimated primary completion 2029-09-01. The primary outcome is change from baseline in UMSARS score at week 48, with change in SF-36 quality-of-life score over the same period as a secondary outcome. ⚠️ <b>Three notes</b>: (1) Biocells Medical is a private regenerative-medicine clinic based in Warsaw, Poland (per local business registry data), not a conventional pharmaceutical company, and public information about it is limited; (2) a third-party industry database separately lists an 'allogeneic mesenchymal stem cell-derived exosome' product under the same company name, also for MSA and also marked Phase 2 — <b>this is a different product, appears only in third-party aggregator data, and cannot be verified against a CT.gov registration or an official company source, so it is not recorded on this site</b>; (3) no results have been read out publicly to date, and no inference about safety or efficacy should be drawn.",
+      "sponsor": "Biocells Medical (Warsaw, Poland — private regenerative-medicine clinic)"
+    }
   }
 ]
