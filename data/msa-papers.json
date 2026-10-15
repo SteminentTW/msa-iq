@@ -1054,5 +1054,23 @@
       "note": "→ A retrospective chart review of 451 patients (clinically probable MSA 107, Parkinson's disease 223, dementia with Lewy bodies 89, pure autonomic failure 32): applying the 2022 MDS criteria (a fall of >20/10 mmHg systolic/diastolic) raised detection of orthostatic hypotension in MSA from 39.3% under the Gilman criteria to <b>64.5%</b> (p<0.001), but the same criteria also flagged large fractions of Parkinson's disease (39.0%), dementia with Lewy bodies (67.4%) and pure autonomic failure (87.5%). <b>Systolic overshoot occurred in only 6.5% of MSA</b>, significantly less than in dementia with Lewy bodies (21.3%, p=0.002) and pure autonomic failure (28.1%, p<0.001). The authors conclude that the MDS criteria detect neurogenic orthostatic hypotension in MSA more sensitively, and that the lower overshoot rate may help separate MSA from other synucleinopathies, reflecting less prominent postganglionic autonomic impairment.",
       "urlLabel": "Paper ↗ PubMed 42525578"
     }
+  },
+  {
+    "id": "pubmed:42872575",
+    "date": "2026-10-14",
+    "dateDisplay": "2026/10/14",
+    "title": "Accuracy of Machine Learning in Differential Diagnosis of Multiple System Atrophy: A Systematic Review and Meta-Analysis",
+    "journal": "Mov Disord Clin Pract（2026/10/14 線上）· Wang G 等（寧夏醫科大學臨床醫學院）",
+    "tag": "鑑別診斷 · 機器學習 · 系統性回顧與統合分析",
+    "highlight": false,
+    "note": "→ <b>系統性回顧共納入 51 項研究（MSA 3,595 人、總計 18,189 例），其中 38 項進入量化合成</b>。MSA 對 PD 的合併敏感度 0.86、特異度 0.87、AUC 0.93；整體合併敏感度 0.85、特異度 0.92、AUC 0.94。<b>PET 為基礎的模型表現最佳（AUC 0.97），深度學習模型優於其他（AUC 0.99）</b>。作者指出需前瞻性多中心驗證與標準化外部測試後才適合臨床導入。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42872575/",
+    "urlLabel": "論文 ↗ PubMed 42872575",
+    "en": {
+      "tag": "Differential diagnosis · machine learning · systematic review and meta-analysis",
+      "journal": "Mov Disord Clin Pract (online 2026/10/14) · Wang G et al. (School of Clinical Medicine, Ningxia Medical University)",
+      "note": "→ <b>51 studies were included in the systematic review (3,595 MSA patients, 18,189 total cases); 38 contributed to quantitative synthesis</b>. For MSA vs PD, pooled sensitivity was 0.86, specificity 0.87 and AUC 0.93; overall pooled sensitivity 0.85, specificity 0.92, AUC 0.94. <b>PET-based models performed best (AUC 0.97) and deep-learning models outperformed others (AUC 0.99)</b>. The authors call for prospective multicenter validation and standardized external testing before clinical implementation.",
+      "urlLabel": "Paper ↗ PubMed 42872575"
+    }
   }
 ]

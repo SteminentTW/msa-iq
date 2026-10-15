@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-10-15",
+    "dateDisplay": "2026/10/15",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "新增 1 則文獻（機器學習鑑別診斷 MSA 之系統性回顧與統合分析，Mov Disord Clin Pract）。CT.gov 近期更新之 MSA 試驗均已收錄；NCT07798609（Soufflé SFL-0821）經核對適應症為 FSHD，非 MSA，不收。",
+    "en": { "tag": "Daily scan", "body": "Added 1 paper (systematic review and meta-analysis of machine learning for MSA differential diagnosis, Mov Disord Clin Pract). Recently updated MSA trials on CT.gov were already tracked; NCT07798609 (Soufflé SFL-0821) is FSHD, not MSA, and was excluded." }
+  },
+  {
     "date": "2026-10-14",
     "dateDisplay": "2026/10/14",
     "tag": "每日掃描 · 新競品發現",
