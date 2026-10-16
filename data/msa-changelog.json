@@ -1,11 +1,11 @@
 [
   {
-    "date": "2026-10-15",
-    "dateDisplay": "2026/10/15",
+    "date": "2026-10-16",
+    "dateDisplay": "2026/10/16",
     "tag": "每日掃描",
     "level": "info",
-    "body": "新增 1 則文獻（機器學習鑑別診斷 MSA 之系統性回顧與統合分析，Mov Disord Clin Pract）。CT.gov 近期更新之 MSA 試驗均已收錄；NCT07798609（Soufflé SFL-0821）經核對適應症為 FSHD，非 MSA，不收。",
-    "en": { "tag": "Daily scan", "body": "Added 1 paper (systematic review and meta-analysis of machine learning for MSA differential diagnosis, Mov Disord Clin Pract). Recently updated MSA trials on CT.gov were already tracked; NCT07798609 (Soufflé SFL-0821) is FSHD, not MSA, and was excluded." }
+    "body": "CT.gov廣掃（query.cond=multiple system atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選，pageSize=40，依最後更新排序）逐筆比對既有23筆試驗，命中之候選筆均為先前已核實排除之觀察性登錄／自然史研究／純診斷工具或「atrophy」字面同義詞誤觸（如SMA之risdiplam／salanersen、DM1、DMD、前列腺癌AZD9750等），<b>本次無新增試驗</b>。PubMed「multiple system atrophy」[Title]近7天（reldate=7）命中2篇（42872575、42476092），均已於先前掃描收錄，<b>本次無新增文獻</b>。公司新聞WebSearch查核Alterity ATH434、Ono ONO-2808、Teva emrusolmin、Tiziana foralumab、Ionis ION464：窗內查得內容均為平台已收錄之既有事實（ATH434開放標籤二期數據、foralumab PET造影期中讀出、ION464 HORIZON試驗現況等），無新增。msa-events.json／msa-assessments.json／msa-naturalhistory.json／msa-preclinical.json均未滿各自維護週期，維持不動。<b>本次無新增內容，weekNewCount維持4</b>。",
+    "en": { "tag": "Daily scan", "body": "The CT.gov broad scan (query.cond=multiple system atrophy, RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING filter, pageSize=40, sorted by last-update) was checked against the 23 existing trials; all candidate hits were previously reviewed and excluded observational registries, natural-history studies, pure diagnostic tools, or literal \"atrophy\" synonym false hits (e.g. SMA's risdiplam/salanersen, DM1, DMD, prostate-cancer AZD9750); <b>no new trial this run</b>. PubMed's \"multiple system atrophy\"[Title] 7-day window (reldate=7) returned 2 hits (42872575, 42476092), both already recorded; <b>no new paper this run</b>. Company-news WebSearch checks on Alterity ATH434, Ono ONO-2808, Teva emrusolmin, Tiziana foralumab and Ionis ION464 found only facts already on the platform (ATH434 open-label Phase 2 data, foralumab's interim PET imaging readout, ION464's HORIZON trial status, etc.); nothing new. msa-events.json, msa-assessments.json, msa-naturalhistory.json and msa-preclinical.json have not reached their respective maintenance cycles and remain unchanged. <b>No new content today; weekNewCount stays at 4.</b>" }
   },
   {
     "date": "2026-10-14",
