@@ -693,5 +693,38 @@
         }
       ]
     }
+  },
+  {
+    "id": "butylphthalide",
+    "company": "浙江大學醫學院附屬第二醫院（中國，研究者發起）",
+    "drug": "Butylphthalide（3-N-butylphthalide／NBP）",
+    "mechanism": "<b>口服小分子</b>，於中國已核准用於缺血性腦中風之神經保護藥物（抗氧化、改善微循環與線粒體功能），本試驗為<b>適應症外擴展至MSA</b>之學術研究者發起試驗",
+    "phase": "Ph2/3",
+    "status": "<b>NCT07518810，2026-10-16 新登錄上線，收案中</b>。多中心、隨機、雙盲、安慰劑對照、四重盲，估計收案150人，給藥600mg/日共6個月，主要指標為MDS-UMSARS Part I+II總分變化，估計主要完成日2027-04。站點全數在中國。⚠️ <b>目前無任何結果公開讀出</b>。",
+    "highlight": false,
+    "relevance": "已核准藥物之適應症外再利用（drug repurposing）路線，非新穎機制",
+    "note": "→ Butylphthalide為中國市售已久的缺血性腦中風神經保護藥，此次為學術機構發起之適應症外探索性試驗，非原廠藥廠主導的MSA專案開發。證據基礎目前僅為試驗設計，尚無任何療效或安全性資料；若未來讀出正面訊號，因其為已上市普通藥物，對本公司等開發中生物／細胞療法的競爭意涵應屬有限（定價與可及性區隔不同），但仍反映學術界對MSA神經保護/抗氧化路線的持續嘗試。",
+    "category": "dmt",
+    "sources": [
+      {
+        "label": "試驗登錄 NCT07518810",
+        "url": "https://clinicaltrials.gov/study/NCT07518810"
+      }
+    ],
+    "en": {
+      "company": "Second Affiliated Hospital, Zhejiang University, School of Medicine (China, investigator-initiated)",
+      "drug": "Butylphthalide (3-N-butylphthalide/NBP)",
+      "mechanism": "An <b>oral small molecule</b> already approved in China as a neuroprotective agent for ischaemic stroke (antioxidant, microcirculation and mitochondrial mechanisms); this is an academic investigator-initiated <b>off-label extension into MSA</b>",
+      "phase": "Ph2/3",
+      "status": "<b>NCT07518810, newly posted to the registry on 2026-10-16, recruiting.</b> Multicentre, randomised, double-blind, placebo-controlled, quadruple-masked, estimated enrolment 150, dosed at 600 mg/day for 6 months, primary endpoint is change in the MDS-UMSARS Part I+II total score, estimated primary completion 2027-04. All sites are in China. <b>No results have been read out publicly to date.</b>",
+      "relevance": "A drug-repurposing route for an already-approved drug, not a novel mechanism",
+      "note": "Butylphthalide is a long-marketed Chinese neuroprotective drug for ischaemic stroke; this is an academic off-label exploratory trial, not an originator-led MSA development programme. The evidence base is currently limited to the trial design, with no efficacy or safety data yet. Even a positive signal would likely carry limited competitive implications for developers of biologic/cell therapies such as Steminent, given differences in pricing and market positioning as an already-marketed generic drug, though it does reflect continued academic interest in neuroprotective/antioxidant approaches for MSA.",
+      "sources": [
+        {
+          "label": "Trial registration NCT07518810",
+          "url": "https://clinicaltrials.gov/study/NCT07518810"
+        }
+      ]
+    }
   }
 ]

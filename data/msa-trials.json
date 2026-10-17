@@ -407,5 +407,23 @@
       "status": "Not yet recruiting — <b>newly added to this site</b>. First posted to CT.gov 2026-03-11, status last verified 2026-03 (no update in over 7 months); surfaced through active asset-name discovery (not the broad top-40, last-update-sorted sweep), having been missed earlier. Randomised, double-blind, placebo-controlled, 1:1 allocation, <b>single site</b> (Warsaw, Poland — Biocells Medical), estimated enrolment 50, ages 35–65, diagnosed with MSA-P or MSA-C. The comparator arm receives a saline infusion. Estimated start date 2026-09-01 (already past, but the overall registry status still reads 'not yet recruiting', with no registry note on delay or actual start), estimated primary completion 2029-09-01. The primary outcome is change from baseline in UMSARS score at week 48, with change in SF-36 quality-of-life score over the same period as a secondary outcome. ⚠️ <b>Three notes</b>: (1) Biocells Medical is a private regenerative-medicine clinic based in Warsaw, Poland (per local business registry data), not a conventional pharmaceutical company, and public information about it is limited; (2) a third-party industry database separately lists an 'allogeneic mesenchymal stem cell-derived exosome' product under the same company name, also for MSA and also marked Phase 2 — <b>this is a different product, appears only in third-party aggregator data, and cannot be verified against a CT.gov registration or an official company source, so it is not recorded on this site</b>; (3) no results have been read out publicly to date, and no inference about safety or efficacy should be drawn.",
       "sponsor": "Biocells Medical (Warsaw, Poland — private regenerative-medicine clinic)"
     }
+  },
+  {
+    "nct": "NCT07518810",
+    "drug": "Butylphthalide（3-N-butylphthalide／NBP，口服軟膠囊）",
+    "mechanism": "口服小分子，於中國核准用於缺血性腦中風之神經保護藥物，機制涉及抗氧化、改善微循環與線粒體功能；本試驗為適應症外擴展至MSA",
+    "phase": "Ph2/3",
+    "status": "<b>收案中</b>，登錄 2026-10-16 新上線（起始日 2026-08-27）。多中心、隨機、雙盲、安慰劑對照，<b>四重盲</b>，估計收案 150 人，年齡 30–80 歲、確診 MSA（2022年MDS準則）5年內、排除非典型帕金森症其他鑑別診斷（IPD／PSP／CBD／DLB）。給藥 100mg軟膠囊每日3次（600mg/日）共6個月，<b>主要指標為 MDS-UMSARS Part I+II 總分（0–104分）於第1/3/6/12個月之變化</b>。站點全數在中國（浙江大學附屬第二醫院為首，另有杭州、湖州、嘉興、寧波、台州、南寧、北京等站點）。估計主要完成日 2027-04。<b>目前無任何結果公開讀出</b>。",
+    "sponsor": "Second Affiliated Hospital, Zhejiang University, School of Medicine（中國，研究者發起）",
+    "cell": false,
+    "primary": "2027-04",
+    "url": "https://clinicaltrials.gov/study/NCT07518810",
+    "en": {
+      "drug": "Butylphthalide (3-N-butylphthalide/NBP, oral soft capsule)",
+      "mechanism": "An oral small molecule approved in China as a neuroprotective agent for ischaemic stroke, with proposed antioxidant, microcirculation-improving and mitochondrial mechanisms; this trial is an off-label extension into MSA",
+      "phase": "Ph2/3",
+      "status": "<b>Recruiting</b>; newly posted to the registry on 2026-10-16 (study start 2026-08-27). Multicentre, randomised, double-blind, placebo-controlled, <b>quadruple-masked</b>, estimated enrolment 150, ages 30-80, MSA diagnosed under the 2022 MDS criteria within the past 5 years, excluding other differential diagnoses of atypical parkinsonism (IPD/PSP/CBD/DLB). Dosing is 100 mg soft capsules three times daily (600 mg/day) for 6 months, with <b>the primary endpoint being change in the MDS-UMSARS Part I+II total score (0-104) at months 1/3/6/12</b>. All sites are in China (led by the Second Affiliated Hospital of Zhejiang University, with further sites in Hangzhou, Huzhou, Jiaxing, Ningbo, Taizhou, Nanning and Beijing). Estimated primary completion 2027-04. <b>No results have been read out publicly to date.</b>",
+      "sponsor": "Second Affiliated Hospital, Zhejiang University, School of Medicine (China, investigator-initiated)"
+    }
   }
 ]

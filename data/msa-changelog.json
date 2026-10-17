@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-10-17",
+    "dateDisplay": "2026/10/17",
+    "tag": "每日掃描 · 新試驗",
+    "level": "info",
+    "body": "CT.gov廣掃（query.cond=multiple system atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選，pageSize=40，依最後更新排序）逐筆比對既有23筆試驗後，<b>新增1筆試驗</b>：<b>浙江大學醫學院附屬第二醫院研究者發起之Butylphthalide（NBP）Ph2/3隨機雙盲安慰劑對照試驗 NCT07518810</b>（2026-10-16新登錄上線，收案中，估計150人，主要指標MDS-UMSARS Part I+II，中國多站點，估計完成2027-04），已建檔於msa-trials.json與msa-competitors.json（butylphthalide，category:dmt）。另一候選NCT07863180（Tributyrin for PSP虛擬試驗）查核其收案條件後確認僅限PSP-Richardson症候群、不收MSA病人，條件標籤屬CT.gov索引誤觸，不予收錄。其餘近期更新命中均為先前已核實排除之觀察性登錄／自然史研究／純診斷工具或「atrophy」字面同義詞誤觸（SMA之risdiplam／salanersen、FSHD、DM1、DMD、sarcopenia、前列腺癌AZD9750等）。PubMed「multiple system atrophy」[Title]近7天（reldate=7）命中2篇（42872575、42476092），均已於先前掃描收錄，<b>本次無新增文獻</b>。公司新聞WebSearch查核Alterity ATH434、Lundbeck amlenetug、Tiziana foralumab：窗內查得內容均為平台已收錄之既有事實或早於7天窗口，無新增。msa-events.json／msa-assessments.json／msa-naturalhistory.json／msa-preclinical.json均未滿各自維護週期，維持不動。<b>本週（自2026-10-12起算）新增1項試驗，weekNewCount 4→5</b>。",
+    "link": {
+      "label": "詳見 在研療法全景 ↗",
+      "tab": "ov"
+    },
+    "en": { "tag": "Daily scan · new trial", "body": "The CT.gov broad scan (query.cond=multiple system atrophy, RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING filter, pageSize=40, sorted by last update) was checked against the 23 existing trials, and <b>one new trial was added</b>: an investigator-initiated Phase 2/3 randomised, double-blind, placebo-controlled trial of Butylphthalide (NBP) at the Second Affiliated Hospital of Zhejiang University, <b>NCT07518810</b> (newly posted to the registry on 2026-10-16, recruiting, estimated 150 patients, primary endpoint MDS-UMSARS Part I+II, multi-site in China, estimated completion 2027-04), now recorded in msa-trials.json and msa-competitors.json (butylphthalide, category: dmt). A second candidate, NCT07863180 (a Tributyrin virtual trial for PSP), was checked and confirmed to enroll only PSP-Richardson syndrome patients, not MSA — its MSA condition tag is a CT.gov indexing false-positive and was not recorded. All other recently updated hits were previously reviewed and excluded observational registries, natural-history studies, pure diagnostic tools, or literal \"atrophy\" synonym false hits (SMA's risdiplam/salanersen, FSHD, DM1, DMD, sarcopenia, prostate-cancer AZD9750, etc.). PubMed's \"multiple system atrophy\"[Title] 7-day window (reldate=7) returned 2 hits (42872575, 42476092), both already recorded; <b>no new paper this run</b>. Company-news WebSearch checks on Alterity ATH434, Lundbeck amlenetug and Tiziana foralumab found only facts already on the platform or items predating the 7-day window; nothing new. msa-events.json, msa-assessments.json, msa-naturalhistory.json and msa-preclinical.json have not reached their maintenance cycles and remain unchanged. <b>One new trial this week (counting from 2026-10-12); weekNewCount moves from 4 to 5.</b>", "link": { "label": "See Pipeline Landscape ↗", "tab": "ov" } }
+  },
+  {
     "date": "2026-10-16",
     "dateDisplay": "2026/10/16",
     "tag": "每日掃描",
