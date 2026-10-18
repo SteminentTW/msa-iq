@@ -1,23 +1,5 @@
 [
   {
-    "nct": "NCT07774585",
-    "drug": "α-Syn H21 單株抗體",
-    "mechanism": "人源化單株抗體，標的病理性 α-synuclein 聚集體（靜脈給藥）",
-    "phase": "Ph1（探索性）",
-    "status": "<b>尚未開始收案</b>——<b>本站新收錄</b>。登錄於 2026-08-19，單一站點（上海瑞金醫院），估計收案僅 <b>3 人</b>，主要完成日估計 2026-12-31。⚠️ 樣本量極小、屬早期探索性安全性試驗，目前無任何結果公開讀出，不得就療效做任何推論。",
-    "sponsor": "上海瑞金醫院（Ruijin Hospital）",
-    "cell": false,
-    "primary": "2026-12",
-    "url": "https://clinicaltrials.gov/study/NCT07774585",
-    "en": {
-      "drug": "α-Syn H21 monoclonal antibody",
-      "mechanism": "Humanized monoclonal antibody targeting pathological α-synuclein aggregates (intravenous)",
-      "phase": "Ph1 (exploratory)",
-      "status": "<b>Not yet recruiting</b> — <b>newly recorded here</b>. Registered 2026-08-19, single site (Ruijin Hospital, Shanghai), with an estimated enrolment of only <b>3</b> and an estimated primary completion date of 2026-12-31. ⚠️ Very small sample size; an early exploratory safety study. No results have been read out publicly, so no inference about efficacy can be drawn.",
-      "sponsor": "Ruijin Hospital, Shanghai"
-    }
-  },
-  {
     "nct": "NCT07289477",
     "drug": "NouvNeu001（人類多巴胺神經前驅細胞注射液）",
     "mechanism": "人類多巴胺神經前驅細胞經殼核立體定位注射移植（細胞替代）",
