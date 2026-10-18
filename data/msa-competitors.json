@@ -1,5 +1,59 @@
 [
   {
+    "id": "asyn-h21",
+    "category": "asyn",
+    "company": "上海瑞金醫院（Ruijin Hospital）",
+    "drug": "α-Syn H21 單株抗體",
+    "mechanism": "人源化單株抗體，標的病理性 α-synuclein 聚集體",
+    "phase": "Ph1（探索性，NCT07774585）",
+    "status": "尚未開始收案；登錄於 2026-08-19，單一站點，估計收案僅 3 人",
+    "highlight": false,
+    "relevance": "新進 anti-aSyn 抗體（學術醫院主導、中國）",
+    "note": "→ 與 Lundbeck amlenetug、Teva emrusolmin 同屬抗 α-synuclein 路線，但本案由學術醫院單一站點主導、樣本量極小（n=3），屬早期探索性安全性試驗，與前兩者的大型多國樞紐試驗規模差距懸殊。目前無任何結果公開讀出，無法判斷是否具商業開發意圖。",
+    "en": {
+      "company": "Ruijin Hospital, Shanghai",
+      "drug": "α-Syn H21 monoclonal antibody",
+      "mechanism": "Humanized monoclonal antibody targeting pathological α-synuclein aggregates",
+      "phase": "Ph1 (exploratory, NCT07774585)",
+      "status": "Not yet recruiting; registered 2026-08-19, single site, estimated enrolment of only 3",
+      "relevance": "New anti-α-synuclein antibody entrant (academic-hospital-led, China)",
+      "note": "In the same anti-α-synuclein family as Lundbeck's amlenetug and Teva's emrusolmin, but led by a single academic-hospital site with a very small sample (n=3) — an early exploratory safety study, far smaller in scale than the two large multinational pivotal programmes. No results have been read out publicly, and it is not possible to tell whether there is commercial development intent behind it."
+    },
+    "sources": [
+      {
+        "label": "ClinicalTrials NCT07774585",
+        "url": "https://clinicaltrials.gov/study/NCT07774585"
+      }
+    ]
+  },
+  {
+    "id": "nouvneu001",
+    "category": "cell",
+    "company": "星耀再生醫學／iRegene Therapeutics（中國）",
+    "drug": "NouvNeu001 人類多巴胺神經前驅細胞注射液",
+    "mechanism": "人類多巴胺神經前驅細胞經殼核立體定位注射移植（細胞替代）",
+    "phase": "登錄標題載為 Ph1/3，設計模組欄位僅標示 Ph1（NCT07289477）",
+    "status": "收案中；登錄最後更新 2026-04-14（逾7個月未再更新），單一站點（北京），限收 MSA 帕金森型（MSA-P）",
+    "highlight": false,
+    "relevance": "細胞替代型新進者（中國，久未更新登錄、經主動發現補收）",
+    "note": "→ 屬細胞替代（多巴胺神經前驅細胞移植）路線，與 Mayo／韓系 MSC 旁分泌保護路線、XS411CN 機制相近但為不同公司之獨立產品。登錄逾7個月未更新，排序排不進每日CT.gov近期更新前40名，本次經藥名/機制主動發現補收，非近期新進展。目前無任何結果公開讀出。",
+    "en": {
+      "company": "iRegene Therapeutics (China)",
+      "drug": "NouvNeu001 Human Dopaminergic Progenitor Cells Injection",
+      "mechanism": "Stereotactic intra-putaminal transplantation of human dopaminergic progenitor cells (cell replacement)",
+      "phase": "Registry title states Ph1/3; design-module field lists only Ph1 (NCT07289477)",
+      "status": "Recruiting; registry last updated 2026-04-14 (no update in over 7 months); single site (Beijing); enrols only the parkinsonian subtype of MSA (MSA-P)",
+      "relevance": "New cell-replacement entrant (China, a stale registration surfaced through active discovery)",
+      "note": "A cell-replacement (dopaminergic progenitor cell transplant) programme, mechanistically similar to XS411CN but an independent product from a different company, and distinct from the paracrine-protection approach of the Mayo/Korean MSC programmes. The registry has not been updated in over 7 months, so it does not surface in the daily CT.gov recent-update top-40 sort; it was found this cycle through active drug-name/mechanism discovery rather than being a recent development. No results have been read out publicly."
+    },
+    "sources": [
+      {
+        "label": "ClinicalTrials NCT07289477",
+        "url": "https://clinicaltrials.gov/study/NCT07289477"
+      }
+    ]
+  },
+  {
     "id": "alt001",
     "company": "北京天壇醫院研究者發起（主辦者即主持人：王擁軍／Yilong Wang，中國）",
     "drug": "ALT001",

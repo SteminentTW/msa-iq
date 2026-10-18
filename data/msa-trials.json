@@ -1,5 +1,41 @@
 [
   {
+    "nct": "NCT07774585",
+    "drug": "α-Syn H21 單株抗體",
+    "mechanism": "人源化單株抗體，標的病理性 α-synuclein 聚集體（靜脈給藥）",
+    "phase": "Ph1（探索性）",
+    "status": "<b>尚未開始收案</b>——<b>本站新收錄</b>。登錄於 2026-08-19，單一站點（上海瑞金醫院），估計收案僅 <b>3 人</b>，主要完成日估計 2026-12-31。⚠️ 樣本量極小、屬早期探索性安全性試驗，目前無任何結果公開讀出，不得就療效做任何推論。",
+    "sponsor": "上海瑞金醫院（Ruijin Hospital）",
+    "cell": false,
+    "primary": "2026-12",
+    "url": "https://clinicaltrials.gov/study/NCT07774585",
+    "en": {
+      "drug": "α-Syn H21 monoclonal antibody",
+      "mechanism": "Humanized monoclonal antibody targeting pathological α-synuclein aggregates (intravenous)",
+      "phase": "Ph1 (exploratory)",
+      "status": "<b>Not yet recruiting</b> — <b>newly recorded here</b>. Registered 2026-08-19, single site (Ruijin Hospital, Shanghai), with an estimated enrolment of only <b>3</b> and an estimated primary completion date of 2026-12-31. ⚠️ Very small sample size; an early exploratory safety study. No results have been read out publicly, so no inference about efficacy can be drawn.",
+      "sponsor": "Ruijin Hospital, Shanghai"
+    }
+  },
+  {
+    "nct": "NCT07289477",
+    "drug": "NouvNeu001（人類多巴胺神經前驅細胞注射液）",
+    "mechanism": "人類多巴胺神經前驅細胞經殼核立體定位注射移植（細胞替代）",
+    "phase": "登錄標題載為 Ph1/3，<b>設計模組欄位僅標示 Ph1</b>（登錄本身內部不一致，據登錄原文如實記載，不代為推論）",
+    "status": "<b>收案中</b>——<b>本站新收錄</b>。登錄最後更新 2026-04-14（逾7個月未再更新，不進最近排序前40名，本次經藥名/機制主動發現補收）。單一站點（中國北京），起始 2026-01-05，估計收案 9 人，主要指標為 <b>52 週移植後不良事件發生率與嚴重程度（CTCAE v5.0）</b>，主要完成日估計 2027-10。限收 <b>MSA 帕金森型（MSA-P）</b>。⚠️ 目前無任何結果公開讀出。",
+    "sponsor": "星耀再生醫學／iRegene Therapeutics（中國）",
+    "cell": true,
+    "primary": "2027-10",
+    "url": "https://clinicaltrials.gov/study/NCT07289477",
+    "en": {
+      "drug": "NouvNeu001 (Human Dopaminergic Progenitor Cells Injection)",
+      "mechanism": "Stereotactic intra-putaminal transplantation of human dopaminergic progenitor cells (cell replacement)",
+      "phase": "Registry title states Ph1/3, but <b>the design-module field lists only Ph1</b> (an internal inconsistency in the registry itself, reported as-is without inference)",
+      "status": "<b>Recruiting</b> — <b>newly recorded here</b>. Registry last updated 2026-04-14 (no update in over 7 months, so it does not surface in the recent-update top-40 sort; found this cycle through active drug-name/mechanism discovery). Single site (Beijing, China), started 2026-01-05, estimated enrolment of 9, with the primary outcome being <b>incidence and severity of adverse events through 52 weeks post-transplant (CTCAE v5.0)</b>, and an estimated primary completion date of 2027-10. Enrols only the <b>parkinsonian subtype of MSA (MSA-P)</b>. ⚠️ No results have been read out publicly.",
+      "sponsor": "iRegene Therapeutics (China)"
+    }
+  },
+  {
     "nct": "NCT05695378",
     "drug": "KM-819",
     "mechanism": "FAF1（Fas-associated factor 1）抑制劑（口服小分子）",
