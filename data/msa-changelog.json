@@ -2,6 +2,19 @@
   {
     "date": "2026-10-20",
     "dateDisplay": "2026/10/20",
+    "tag": "每日掃描 · 補充",
+    "level": "info",
+    "body": "延續本日較早一次MSA-IQ更新（新增文獻42897443，當時僅依PubMed書目資料收錄、未查閱摘要）：本次已補查該篇全文摘要並重寫note為完整摘要（M-STAR安慰劑組129名病人1年期縱向MRI，小腦—橋腦—殼核組合體積指數為最具效力之MSA進展生物標記，偵測30%治療效果每組僅需55人；作者含Biohaven Pharmaceuticals人員）。另外，<b>新增1篇先前未收錄之文獻</b>：北京大學第一醫院團隊之MSA/PD靜息態腦電圖α頻率鑑別診斷研究（PubMed 42876674，MSA-C顯著降低、MSA-P無顯著差異）。CT.gov廣掃（query.cond=multiple system atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選，pageSize=40）逐筆比對既有25筆試驗，近7天內更新且未收錄者僅3筆（NCT07883655、NCT07221669即Salanersen/BIIB115、NCT07798609），核查後確認均為SMA／FSHD之「atrophy」關鍵字誤觸，非MSA，無新增試驗；既有試驗Butylphthalide（NCT07518810）與Amlenetug（NCT06706622）近期登錄更新，核對後收案狀態、站點與試驗設計均無變化。公司新聞WebSearch查核Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva emrusolmin、Tiziana foralumab、Ionis ION464：窗內查得內容均早於7天窗口或為既有事實，無新增。events.json週檢（上次實質更新2026-10-03，已逾週期，本次執行）：查核MDS 2026年會（已於2026/10/4-8結束）與International MSA Congress 2027現況，Lundbeck MASCOT基線資料發表內容與既有mds-congress-2026條目記載一致，Mission MSA 2027註冊/摘要資訊尚未公告，均無新事實，現有排程維持不變。<b>本次新增1篇獨立文獻（另1篇為既有條目之摘要補完），weekNewCount 8→9</b>。",
+    "link": { "label": "詳見 文獻雷達 ↗", "tab": "si", "anchor": "litradar" },
+    "en": {
+      "tag": "Daily scan · follow-up",
+      "body": "Follow-up to an earlier MSA-IQ update run today (which added paper 42897443 from PubMed bibliographic data alone, without reading the abstract): the full abstract has now been reviewed and the entry's note rewritten with complete findings (M-STAR placebo-arm cohort, 129 patients, 1-year longitudinal MRI; a combined cerebellum-pons-putamen volumetric index is the most powerful MSA progression biomarker, needing only 55 patients per arm to detect a 30% treatment effect; authors include Biohaven Pharmaceuticals personnel). Separately, <b>1 previously-unrecorded paper was added</b>: a Peking University First Hospital study of resting-state EEG alpha frequency differentiating MSA from PD (PubMed 42876674; significantly reduced in MSA-C, no significant difference in MSA-P). The CT.gov broad scan (query.cond=multiple system atrophy, RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING filter, pageSize=40) was checked against the existing 25 trials; only 3 hits updated within the last 7 days were not already on file (NCT07883655, NCT07221669 i.e. Salanersen/BIIB115, NCT07798609), all confirmed as SMA/FSHD false positives from the \"atrophy\" keyword, not MSA — no new trials added; existing trials Butylphthalide (NCT07518810) and Amlenetug (NCT06706622) had recent registry updates with no change in recruitment status, sites or design. Company-news WebSearch checks on Alterity ATH434, Lundbeck amlenetug, Ono ONO-2808, Teva emrusolmin, Tiziana foralumab and Ionis ION464 surfaced only facts outside the 7-day window or already on file — no additions. The weekly events.json check (last substantively updated 2026-10-03, overdue, run today): checked the MDS 2026 congress (concluded 2026/10/4-8) and the 2027 International MSA Congress; Lundbeck's MASCOT baseline-data presentation matches what is already recorded in the mds-congress-2026 entry, and no Mission MSA 2027 registration/abstract announcement has been made yet — existing schedule unchanged. <b>1 independent new paper added today (the other being an abstract completion of an already-recorded entry); weekNewCount 8→9.</b>",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
+    "date": "2026-10-20",
+    "dateDisplay": "2026/10/20",
     "tag": "每日掃描 · 新文獻",
     "level": "info",
     "body": "上次發布為2026-10-19（本日SCA-IQ已先發布，MSA-IQ補跑）。新增1篇文獻：Quattrone 等於 Movement Disorders 發表之MSA臨床試驗用自動化MR容積測量（PubMed 42897443）。CT.gov近期命中均為既有收錄或非MSA／觀察性登錄，無新試驗。",

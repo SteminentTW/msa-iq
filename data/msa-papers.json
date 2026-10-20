@@ -4,17 +4,35 @@
     "date": "2026-10-19",
     "dateDisplay": "2026/10/19",
     "title": "Automated Magnetic Resonance Volumetry to Measure Multiple System Atrophy Disease Progression in Clinical Trials.",
-    "journal": "Movement Disorders（線上優先刊於2026/10/19）· Quattrone A、Wilkens I、Zhu Z、Qureshi IA、Franzmeier N、Höglinger GU；M-STAR Study Group · doi:10.1002/mds.70585",
-    "tag": "影像生物標記 · 臨床試驗終點 · MR 容積測量",
+    "journal": "Movement Disorders 線上預印本（online ahead of print）doi:10.1002/mds.70585 · Quattrone A、Wilkens I、Zhu Z、Qureshi IA、Franzmeier N、Höglinger GU 等；M-STAR Study Group（德國LMU慕尼黑大學醫院神經內科等多國機構）",
+    "tag": "MSA · 疾病進展生物標記 · 自動化MRI體積測量 · 試驗終點方法學",
     "highlight": false,
-    "note": "→ 以自動化磁振造影容積測量作為MSA臨床試驗中疾病進展的測量方式（依標題）。⚠️ 本站僅依PubMed書目資料收錄，尚未查閱摘要內文，不引用任何數據。",
+    "note": "→ <b>自M-STAR自然史研究（NCT03952806）安慰劑組取得129名MSA病人（76名MSA-C、53名MSA-P）之1年期縱向腦部MRI</b>，與184名健康對照比較，以自動化MRI體積測量法評估42個腦區體積、4項組合體積指標、9項臨床量表與血清神經絲輕鏈蛋白（NfL）作為進展指標之效應量與所需樣本數。<b>結果</b>：基線時MSA-C萎縮最明顯區域為幕下結構，MSA-P則為殼核；兩亞型縱向追蹤皆以幕下結構萎縮幅度最大。<b>小腦—橋腦—殼核組合體積指數為最具效力之進展生物標記</b>（整體效應量-1.81，95% CI -2.14至-1.55；MSA-C -2.04、MSA-P -1.55），<b>偵測30%治療效果所需樣本數每組僅55人</b>，優於臨床量表（需多59.6%病人）。<b>結論</b>：縱向MRI區域萎縮速率可作為MSA臨床試驗更敏感之影像終點。⚠️ <b>作者欄位含Biohaven Pharmaceuticals人員</b>，應為其參與M-STAR研究所致，本篇<b>不含任何藥物療效數據，純屬試驗終點方法學研究</b>；MSA-P世代（n=53）相對MSA-C（n=76）較小，效應量估計之精確度受限；安慰劑組世代，長期追蹤是否適用於接受治療之病人尚待驗證。→ 與本平台的關聯：<b>影像終點方法學直接影響未來MSA介入性試驗（含細胞治療）之收案規模估算與終點選擇</b>，對評估競品試驗設計品質具參考價值。",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42897443/",
     "urlLabel": "論文 ↗ PubMed 42897443",
     "en": {
-      "tag": "Imaging biomarker · clinical-trial endpoint · MR volumetry",
-      "journal": "Movement Disorders (online ahead of print 2026/10/19) · Quattrone A, Wilkens I, Zhu Z, Qureshi IA, Franzmeier N, Höglinger GU; M-STAR Study Group · doi:10.1002/mds.70585",
-      "note": "→ Automated MR volumetry as a way to measure disease progression in MSA clinical trials (per the title). ⚠️ Recorded from PubMed bibliographic data only; the abstract has not been reviewed here, so no figures are quoted.",
+      "tag": "MSA · disease-progression biomarker · automated MRI volumetry · trial-endpoint methodology",
+      "journal": "Movement Disorders, online ahead of print, doi:10.1002/mds.70585 · Quattrone A, Wilkens I, Zhu Z, Qureshi IA, Franzmeier N, Höglinger GU, et al.; M-STAR Study Group (LMU Munich University Hospital and other international sites, Germany)",
+      "note": "→ <b>Drew on 1-year longitudinal brain MRI from 129 MSA patients (76 MSA-C, 53 MSA-P) in the placebo arm of the M-STAR natural-history study (NCT03952806)</b>, compared with 184 healthy controls, using automated MRI volumetry to estimate effect sizes and required sample sizes across 42 regional brain volumes, 4 composite volumetric indices, 9 clinical scales and serum neurofilament light chain (NfL) as progression markers. <b>Results</b>: at baseline, infratentorial structures were most atrophic in MSA-C and the putamen in MSA-P; both subtypes showed the largest longitudinal volume loss in infratentorial structures. <b>A combined cerebellum-pons-putamen volumetric index was the most powerful progression biomarker</b> (overall effect size -1.81, 95% CI -2.14 to -1.55; MSA-C -2.04, MSA-P -1.55), <b>requiring as few as 55 patients per arm to detect a 30% treatment effect</b>, outperforming clinical scales (which needed 59.6% more patients). <b>Conclusion</b>: longitudinal MRI-derived regional atrophy rates may serve as more sensitive imaging endpoints for MSA clinical trials. ⚠️ <b>The author list includes Biohaven Pharmaceuticals personnel</b>, presumably reflecting its participation in M-STAR; the paper <b>contains no drug efficacy data and is purely a trial-endpoint methodology study</b>; the MSA-P cohort (n=53) is smaller than MSA-C (n=76), limiting the precision of its effect-size estimates; this is a placebo-arm natural-history cohort, so whether the findings generalise to treated patients over the longer term remains to be seen. → Relevance to this platform: <b>imaging-endpoint methodology directly affects sample-size estimation and endpoint choice for future interventional MSA trials, including cell therapy</b>, and is useful for assessing the design quality of competitor trials.",
       "urlLabel": "Paper ↗ PubMed 42897443"
+    }
+  },
+  {
+    "id": "pubmed:42876674",
+    "date": "2026-09-30",
+    "dateDisplay": "2026/09/30",
+    "title": "Resting-state cortical alpha frequency in Parkinson's disease and multiple system atrophy: associations with diagnosis, age, and symptom burden.",
+    "journal": "Frontiers in Aging Neuroscience 18:1928414（2026/09/30）· Chen D、Tang H、Pan Y 等（北京大學第一醫院神經內科）· doi:10.3389/fnagi.2026.1928414 · 開放取用（PMC13661991）",
+    "tag": "MSA · PD鑑別 · 靜息態腦電圖 · α頻率生物標記",
+    "highlight": false,
+    "note": "→ <b>分析104名受試者（PD、MSA-P、MSA-C與健康對照）之源重建靜息態腦電圖資料</b>，以資料驅動之遮罩經驗模態分解法萃取各皮質網路之個體化α頻率（IAF），以廣義線性模型分析診斷分組差異、年齡效應及其交互作用。<b>結果</b>：<b>PD與MSA-C相對健康對照均呈現顯著較低之皮質IAF，MSA-P則無顯著整體差異</b>；網路層級分析顯示視覺網路與背側注意力網路之IAF降低於PD與MSA-C兩組皆顯著。年齡對α頻率減慢有獨立貢獻（不加速疾病相關軌跡），且<b>年齡顯著調節IAF減慢與非運動症狀負荷之關聯</b>——高齡病人中，IAF較低與較高整體非運動、自主神經與精神/認知症狀負荷顯著相關，此關聯於年輕病人或運動症狀嚴重度上未見。⚠️ <b>限制</b>：<b>MSA-P未顯示組間差異，顯示此生物標記對MSA-C較具鑑別力、對MSA-P則有限</b>；橫斷性設計、世代規模中等（104人分4組），<b>不含任何藥物或介入性治療資料</b>，純屬診斷/機轉層級腦電圖研究。→ 與本平台的關聯：<b>非侵入性、低成本之腦電圖生物標記對MSA-C鑑別診斷具潛在應用價值，但對MSA-P亞型區分力有限，提示未來以腦電圖作為MSA收案或分層工具時須考量亞型差異</b>。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42876674/",
+    "urlLabel": "論文 ↗ PubMed 42876674",
+    "en": {
+      "tag": "MSA · PD differentiation · resting-state EEG · alpha-frequency biomarker",
+      "journal": "Frontiers in Aging Neuroscience 18:1928414 (2026/09/30) · Chen D, Tang H, Pan Y, et al. (Department of Neurology, Peking University First Hospital) · doi:10.3389/fnagi.2026.1928414 · open access (PMC13661991)",
+      "note": "→ <b>Analysed source-reconstructed resting-state EEG from 104 participants</b> (PD, MSA-P, MSA-C and healthy controls), extracting individual alpha frequency (IAF) across cortical networks using a data-driven masking empirical mode decomposition approach, with general linear models testing diagnostic group differences, age effects and their interaction. <b>Results</b>: <b>both PD and MSA-C showed significantly lower cortical IAF than healthy controls, while MSA-P showed no significant global difference</b>; at the network level, reduced IAF in the visual and dorsal attention networks was significant in both PD and MSA-C. Age independently contributed to alpha slowing (without accelerating disease-related trajectories), and <b>age significantly moderated the relationship between IAF slowing and non-motor symptom burden</b> — in older patients, lower IAF was strongly associated with higher overall non-motor, autonomic and psychiatric/cognitive symptom burden, a relationship not seen in younger patients or for motor-symptom severity. ⚠️ <b>Limitations</b>: <b>MSA-P showed no group difference, so this biomarker appears more discriminative for MSA-C than for MSA-P</b>; cross-sectional design, moderate cohort size (104 across 4 groups), and <b>no drug or interventional-therapy data</b> — a diagnostic/mechanistic EEG study only. → Relevance to this platform: <b>a non-invasive, low-cost EEG biomarker with potential value for MSA-C differential diagnosis, but limited discriminative power for the MSA-P subtype, suggesting any future use of EEG for MSA trial enrolment or stratification should account for subtype differences</b>.",
+      "urlLabel": "Paper ↗ PubMed 42876674"
     }
   },
   {
