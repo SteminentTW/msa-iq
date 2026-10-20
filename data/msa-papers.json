@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42897443",
+    "date": "2026-10-19",
+    "dateDisplay": "2026/10/19",
+    "title": "Automated Magnetic Resonance Volumetry to Measure Multiple System Atrophy Disease Progression in Clinical Trials.",
+    "journal": "Movement Disorders（線上優先刊於2026/10/19）· Quattrone A、Wilkens I、Zhu Z、Qureshi IA、Franzmeier N、Höglinger GU；M-STAR Study Group · doi:10.1002/mds.70585",
+    "tag": "影像生物標記 · 臨床試驗終點 · MR 容積測量",
+    "highlight": false,
+    "note": "→ 以自動化磁振造影容積測量作為MSA臨床試驗中疾病進展的測量方式（依標題）。⚠️ 本站僅依PubMed書目資料收錄，尚未查閱摘要內文，不引用任何數據。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42897443/",
+    "urlLabel": "論文 ↗ PubMed 42897443",
+    "en": {
+      "tag": "Imaging biomarker · clinical-trial endpoint · MR volumetry",
+      "journal": "Movement Disorders (online ahead of print 2026/10/19) · Quattrone A, Wilkens I, Zhu Z, Qureshi IA, Franzmeier N, Höglinger GU; M-STAR Study Group · doi:10.1002/mds.70585",
+      "note": "→ Automated MR volumetry as a way to measure disease progression in MSA clinical trials (per the title). ⚠️ Recorded from PubMed bibliographic data only; the abstract has not been reviewed here, so no figures are quoted.",
+      "urlLabel": "Paper ↗ PubMed 42897443"
+    }
+  },
+  {
     "id": "pubmed:42857053",
     "date": "2026-10-11",
     "dateDisplay": "2026/10/11",

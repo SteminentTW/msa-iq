@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-10-20",
+    "dateDisplay": "2026/10/20",
+    "tag": "每日掃描 · 新文獻",
+    "level": "info",
+    "body": "上次發布為2026-10-19（本日SCA-IQ已先發布，MSA-IQ補跑）。新增1篇文獻：Quattrone 等於 Movement Disorders 發表之MSA臨床試驗用自動化MR容積測量（PubMed 42897443）。CT.gov近期命中均為既有收錄或非MSA／觀察性登錄，無新試驗。",
+    "link": { "label": "詳見 文獻雷達 ↗", "tab": "si", "anchor": "litradar" },
+    "en": {
+      "tag": "Daily scan · New paper",
+      "body": "Last published 2026-10-19 (SCA-IQ was published first today; MSA-IQ run afterwards). Added 1 paper: Quattrone et al., Movement Disorders, on automated MR volumetry for MSA clinical trials (PubMed 42897443). Recent CT.gov hits were all already tracked or non-MSA/observational; no new trials.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-10-18",
     "dateDisplay": "2026/10/18",
     "tag": "資料修正",
