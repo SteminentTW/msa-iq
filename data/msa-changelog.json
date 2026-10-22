@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-10-22",
+    "dateDisplay": "2026/10/22",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "上次真正發布為2026-10-21，缺口1天，屬正常每日掃描。CT.gov廣掃（query.cond=multiple system atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選，pageSize=40，依最後更新排序）共40筆命中，逐筆核對適應症後比對既有25筆試驗：<b>所有MSA標籤命中均為既有記錄試驗或先前已核實排除之觀察性登錄／自然史研究／純診斷工具（NCT07863180再次核對仍限PSP-Richardson症候群，延續排除；NCT04472130、NCT07827963、NCT07805967、NCT06596746、NCT06209515、NCT06846658均為觀察性登錄）</b>，其餘命中均為「atrophy」字面誤觸（SMA之Salanersen／RO7204239、FSHD之SFL-0821、DM1之Mexiletine／DYNE-101／VX-670、DMD之ENTR-601-45／44與DYNE-251、多項sarcopenia研究、前列腺癌AZD9750、facial atrophy之SyntrFuge、多發性硬化症NfL研究、產前診斷登錄等），<b>本次無新增試驗</b>。PubMed「multiple system atrophy」[Title]近7天（reldate=7）命中2篇（42897443、42876674），均已於先前掃描收錄，<b>本次無新增文獻</b>。公司新聞WebSearch逐一查核Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva emrusolmin、Tiziana foralumab、Ionis ION464與Mayo Clinic MSC試驗：窗內查得內容均為平台已收錄之既有事實或索引時間滯後之舊聞（多篇搜尋結果落在2025年或更早），<b>無任何可查證之新增事實</b>。msa-events.json已於2026-10-20查核過仍為最新，本次未達週期不再查核；msa-assessments／naturalhistory／preclinical本次未滿維護週期，均維持不動。本次掃描所用CT.gov API、PubMed E-utilities、WebSearch工具均正常運作，無來源失敗。<b>本次無新增內容，weekNewCount維持9</b>。",
+    "en": {
+      "tag": "Daily scan",
+      "body": "The last genuine publish was 2026-10-21, a 1-day gap — a normal daily run. The CT.gov broad scan (query.cond=multiple system atrophy, status-filtered to RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=40, sorted by last update) returned 40 hits, checked one by one against indication and against the 25 existing trials: <b>every MSA-labelled hit was either already recorded or a previously and repeatedly excluded observational registry/natural-history study/pure diagnostic tool</b> (NCT07863180 re-checked and still restricted to PSP-Richardson syndrome, so the exclusion stands; NCT04472130, NCT07827963, NCT07805967, NCT06596746, NCT06209515 and NCT06846658 are all observational registries). Every other hit was a literal \"atrophy\" false positive (SMA's Salanersen/RO7204239, FSHD's SFL-0821, DM1's Mexiletine/DYNE-101/VX-670, DMD's ENTR-601-45/44 and DYNE-251, several sarcopenia studies, prostate cancer's AZD9750, facial atrophy's SyntrFuge, a multiple sclerosis NfL study, a prenatal-diagnosis registry, etc.); <b>no new trial this run</b>. PubMed's \"multiple system atrophy\"[Title] 7-day window (reldate=7) returned 2 hits (42897443, 42876674), both already recorded; <b>no new paper this run</b>. WebSearch company-news checks covered Alterity's ATH434, Lundbeck's amlenetug, Ono's ONO-2808, Teva's emrusolmin, Tiziana's foralumab, Ionis's ION464 and the Mayo Clinic MSC trial: results surfaced only facts already on the platform or stale coverage lagging the search index (many results dated 2025 or earlier), with <b>no verifiable new facts found</b>. msa-events.json was checked on 2026-10-20 and remains current, so it was not re-checked this run (not yet due); msa-assessments, naturalhistory and preclinical have not reached their maintenance cycles and remain unchanged. All tools used in this scan (the CT.gov API, PubMed E-utilities, WebSearch) functioned normally; no source failures. <b>No new content today; weekNewCount stays at 9.</b>"
+    }
+  },
+  {
     "date": "2026-10-20",
     "dateDisplay": "2026/10/20",
     "tag": "每日掃描 · 補充",
