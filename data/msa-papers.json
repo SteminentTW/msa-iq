@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:42374641",
+    "date": "2026-10-01",
+    "dateDisplay": "2026/10",
+    "title": "High-Fat Diet Exacerbates Neuropathology in a Transgenic Mouse Model of Multiple System Atrophy.",
+    "journal": "Movement Disorders 41(10):2628-2637（2026/10）doi:10.1002/mds.70424 · Arotcarena ML、Delamarre A、Lopez-Cuina M、Martin H、Balpe E、Fioramonti X、Bezard E、Meissner WG；法國波爾多大學 IMN/CRMR AMS（法國 MSA 轉介中心）",
+    "tag": "MSA · 臨床前 · 代謝／飲食因子 · 轉基因鼠模型",
+    "highlight": false,
+    "note": "→ <b>本篇於本次掃描經擴大PubMed回溯窗口（因MEDLINE完整索引日2026-10-22始落入本平台標題查詢可命中範圍，線上預印早於2026年6月）而補收，非今日新發表</b>。以 PLP-SYN 轉基因鼠（寡突膠質細胞過表現 α-synuclein，模擬 MSA 之 GCI 病理）為模型，餵食標準飲食或高脂飲食（HFD）4個月後比較代謝、神經病理與行為指標。<b>結果</b>：HFD 餵食之 PLP-SYN 鼠較同飲食之野生型鼠呈現更明顯之糖尿病表徵（周邊葡萄糖調節惡化、胰島素阻抗加重）；<b>4個月HFD餵食同時加劇 MSA 相關神經病理</b>——α-synuclein 堆積增加、多巴胺神經元退化加劇，並伴隨精細運動功能減損加速。<b>結論</b>：葡萄糖代謝失調與 MSA 神經病理存在關聯，支持未來探討抗糖尿病藥物是否具治療效益之論述基礎。⚠️ <b>僅為轉基因鼠臨床前模型資料，未有對應人體證據；作者聲明無相關利益衝突</b>；本平台未見任何在研資產已針對此代謝路徑展開 MSA 臨床試驗，純屬機轉層級假說。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42374641/",
+    "urlLabel": "論文 ↗ PubMed 42374641",
+    "en": {
+      "tag": "MSA · preclinical · metabolic/dietary factors · transgenic mouse model",
+      "journal": "Movement Disorders 41(10):2628-2637 (2026/10), doi:10.1002/mds.70424 · Arotcarena ML, Delamarre A, Lopez-Cuina M, Martin H, Balpe E, Fioramonti X, Bezard E, Meissner WG; Univ. Bordeaux IMN / CRMR AMS (France's national MSA reference centre)",
+      "note": "→ <b>Added this run through a widened PubMed look-back window (its MEDLINE indexing completed 2026-10-22, which is what brought it into this platform's title-search range; the paper itself was posted online ahead of print back in June 2026, not newly published today)</b>. Using the PLP-SYN transgenic mouse model (oligodendroglial alpha-synuclein overexpression, modelling MSA's GCI pathology), the authors compared standard chow versus a high-fat diet (HFD) over 4 months across metabolic, neuropathological and behavioural measures. <b>Results</b>: HFD-fed PLP-SYN mice showed a more pronounced diabetic phenotype than wild-type mice on the same diet (worsened peripheral glucose regulation, greater insulin resistance); <b>4 months of HFD also aggravated MSA-related neuropathology</b> — increased alpha-synuclein accumulation and enhanced dopaminergic neurodegeneration, accompanied by accelerated decline in fine motor function. <b>Conclusion</b>: the findings indicate an association between dysregulated glucose metabolism and MSA neuropathology, providing rationale for further exploring whether antidiabetic agents could offer therapeutic benefit. ⚠️ <b>Preclinical transgenic-mouse data only, with no corresponding human evidence; the authors declare no relevant conflicts of interest</b>; no pipeline asset tracked on this platform is currently pursuing this metabolic pathway in MSA clinical development — this remains a mechanism-level hypothesis.",
+      "urlLabel": "Paper ↗ PubMed 42374641"
+    }
+  },
+  {
+    "id": "pubmed:42381357",
+    "date": "2026-10-01",
+    "dateDisplay": "2026/10/01",
+    "title": "Beyond Parkinson's: The Challenge of Diagnosing Multiple System Atrophy-C.",
+    "journal": "Annals of African Medicine 25(Suppl 3):S645-S648（2026/10/01）doi:10.4103/aam.aam_294_26 · Vikhe VB、Chakraborty A、Lapsiwala V、Shaik MH、Faruqi AA（印度 D.Y. Patil 醫學院）· 病例報告",
+    "tag": "MSA-C · 病例報告 · 診斷挑戰 · FDG-PET",
+    "highlight": false,
+    "note": "→ <b>本篇同樣因MEDLINE完整索引較晚（索引日2026-10-12）始落入本次擴大回溯掃描範圍而補收</b>。單一病例報告：一名中年女性呈現漸進性共濟失調、構音障礙、姿勢性低血壓等自律神經症狀與排尿障礙，初始臨床評估與結構性影像（MRI）均無法確診（<b>未見典型「熱十字麵包」橋腦徵象</b>），對左旋多巴等標準藥物治療反應不佳。經<b>功能性造影（FDG-PET）發現腦幹與小腦區域性低代謝</b>，支持 MSA 小腦型（MSA-C）之診斷；完整自體免疫與代謝檢查均為陰性，強化臨床懷疑。⚠️ <b>僅為單一病例報告，證據層級低</b>，刊登於印度區域性一般醫學期刊（非MSA專科或大型神經學期刊）；不構成任何療法或生物標記之有效性證據，僅作為臨床診斷實務參考。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42381357/",
+    "urlLabel": "論文 ↗ PubMed 42381357",
+    "en": {
+      "tag": "MSA-C · case report · diagnostic challenge · FDG-PET",
+      "journal": "Annals of African Medicine 25(Suppl 3):S645-S648 (2026/10/01), doi:10.4103/aam.aam_294_26 · Vikhe VB, Chakraborty A, Lapsiwala V, Shaik MH, Faruqi AA (D.Y. Patil Medical College, India) · case report",
+      "note": "→ <b>Also added this run because its full MEDLINE indexing (2026-10-12) only recently brought it into range for this widened catch-up scan</b>. A single case report: a middle-aged woman presented with progressive ataxia, dysarthria, orthostatic autonomic symptoms and urinary disturbance; initial clinical assessment and structural MRI were inconclusive (<b>no classic 'hot cross bun' pontine sign</b>), and she responded poorly to standard pharmacological treatment including levodopa. <b>Functional imaging (FDG-PET) showed regional brainstem and cerebellar hypometabolism</b>, supporting a diagnosis of the cerebellar subtype of MSA (MSA-C); comprehensive autoimmune and metabolic workups were negative, reinforcing the clinical suspicion. ⚠️ <b>A single case report only, a low tier of evidence</b>, published in a general regional medical journal (not an MSA-specialty or major neurology journal); it does not constitute efficacy evidence for any therapy or biomarker and is included here purely as a clinical-diagnostic practice reference.",
+      "urlLabel": "Paper ↗ PubMed 42381357"
+    }
+  },
+  {
     "id": "pubmed:42897443",
     "date": "2026-10-19",
     "dateDisplay": "2026/10/19",

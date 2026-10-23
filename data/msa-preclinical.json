@@ -1,5 +1,29 @@
 [
   {
+    "id": "diet-metabolic",
+    "topic": "代謝／飲食因子與疾病病理：高脂飲食加重轉基因鼠模型病理",
+    "nameEn": "Metabolic/dietary factors & pathology: high-fat diet worsens transgenic-mouse pathology",
+    "highlight": false,
+    "finding": "法國波爾多大學團隊以 PLP-SYN 轉基因鼠（寡突膠質細胞過表現 α-synuclein，模擬 MSA 之 GCI 病理）餵食高脂飲食（HFD）4個月，相較同飲食之野生型鼠出現更明顯之糖尿病表徵（周邊葡萄糖調節惡化、胰島素阻抗加重），且 HFD 同時加劇 MSA 相關神經病理：α-synuclein 堆積增加、多巴胺神經元退化加劇，並伴隨精細運動功能減損加速。",
+    "significance": "→ 顯示葡萄糖代謝失調與 MSA 神經病理存在關聯，為探討抗糖尿病藥物是否具潛在治療效益提供機轉層級論述基礎；僅為轉基因鼠臨床前資料，未有對應人體證據，目前亦無在研資產針對此代謝路徑開發 MSA 療法。",
+    "en": {
+      "finding": "A Univ. Bordeaux team fed PLP-SYN transgenic mice (oligodendroglial alpha-synuclein overexpression, modelling MSA's GCI pathology) a high-fat diet (HFD) for 4 months. Compared with wild-type mice on the same diet, HFD-fed PLP-SYN mice showed a more pronounced diabetic phenotype (worsened peripheral glucose regulation, greater insulin resistance), and HFD also aggravated MSA-related neuropathology: increased alpha-synuclein accumulation and enhanced dopaminergic neurodegeneration, accompanied by accelerated decline in fine motor function.",
+      "significance": "Indicates an association between dysregulated glucose metabolism and MSA neuropathology, providing a mechanism-level rationale for exploring whether antidiabetic agents could offer therapeutic benefit; this remains preclinical transgenic-mouse data only, with no corresponding human evidence, and no pipeline asset tracked on this platform is currently pursuing this metabolic pathway in MSA.",
+      "sources": [
+        {
+          "label": "High-fat diet in PLP-SYN transgenic MSA mouse model, Movement Disorders 2026 (PubMed 42374641)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42374641/"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "高脂飲食於 PLP-SYN 轉基因 MSA 鼠模型之研究，Movement Disorders 2026（PubMed 42374641）",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42374641/"
+      }
+    ]
+  },
+  {
     "id": "gci-target",
     "topic": "病理與標的：寡突膠質 α-synuclein 堆疊 (GCI)",
     "nameEn": "Pathology & target: oligodendroglial alpha-synuclein (GCIs)",
