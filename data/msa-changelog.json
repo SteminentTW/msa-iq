@@ -2,6 +2,17 @@
   {
     "date": "2026-10-23",
     "dateDisplay": "2026/10/23",
+    "tag": "發布狀態",
+    "level": "info",
+    "body": "本次更新已 commit 並 push 至 origin/main（確認 git status ahead 0），惟推送後數分鐘內以 curl 查核公開網址 data/meta.json，lastScan 仍顯示前次值，<b>當日更新延後上線</b>，GitHub Pages 發布通常需數分鐘，非發布失敗，無需重新推送。",
+    "en": {
+      "tag": "Publish status",
+      "body": "This run's changes were committed and pushed to origin/main (git status confirmed ahead 0), but a curl check of the public data/meta.json a few minutes after the push still showed the previous value — <b>today's update is delayed in going live</b>. GitHub Pages deployment typically takes a few minutes; this is not a publish failure and does not require re-pushing."
+    }
+  },
+  {
+    "date": "2026-10-23",
+    "dateDisplay": "2026/10/23",
     "tag": "每日掃描 · 補跑 10/22–10/23",
     "level": "info",
     "body": "<b>本次為補跑</b>：上次真正發布為 2026-10-21，缺口 2 天（2026-10-22、2026-10-23），在手冊允許之3日內追趕上限內，本次一併涵蓋完整補齊。ClinicalTrials.gov 廣掃（query.cond=multiple system atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選，pageSize=40，依最後更新排序）逐筆檢視 2026-10-21（不含）至今更新之命中（NCT07221669／NCT05575011 即 Biogen Salanersen BIIB115 之脊髓性肌肉萎縮症試驗、NCT07798609 顏面肩胛肱骨肌失養症、NCT04860947 多發性硬化症、NCT07429240 裘馨氏肌肉失養症、NCT06147414 單基因遺傳病產前診斷），逐筆核對後<b>均確認為「atrophy」關鍵字誤觸，條件非MSA，予以排除，本次無新增試驗</b>；既有收錄之25筆MSA試驗於本窗口內亦無登錄更新，狀態維持不變。PubMed「multiple system atrophy」[Title] 擴大回溯窗口（涵蓋補跑期間）命中2篇先前未收錄文獻，<b>經查均非今日新發表，而是因MEDLINE完整索引日較晚（分別為2026-10-22、2026-10-12）始落入本次擴大掃描範圍而補收</b>：①法國波爾多大學團隊之高脂飲食加重 PLP-SYN 轉基因鼠 MSA 神經病理研究（PubMed 42374641，Movement Disorders），因屬機轉層級新發現，<b>同時於 msa-preclinical.json 新增一筆「代謝／飲食因子」機轉條目</b>；②印度團隊之 MSA-C 診斷挑戰病例報告（PubMed 42381357，Annals of African Medicine，FDG-PET輔助診斷）。公司/產業新聞 WebSearch 查核 Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva emrusolmin、Tiziana foralumab、Ionis ION464、Mayo MSC：查得內容均為本站已收錄之既有事實（如 ATH434 FDA EOP2 共識、MASCOT 已完成收案等），<b>均早於本次補跑窗口或無新增</b>。msa-events.json 每週查核（上次實質更新 2026-10-03，已逾週期）：重新查核 International MSA Congress 2027（Mission MSA）之註冊／徵稿現況，<b>公開來源仍未見新公告</b>，亦未發現其他新增之MSA相關會議，現有排程維持不動。msa-competitors.json／msa-trials.json／msa-results.json／msa-assessments.json／msa-naturalhistory.json 經檢視均未發現窗口內之新事實，維持不動。<b>本次新增2篇獨立文獻，weekNewCount 9→11</b>。本次掃描所有來源均正常回應，無工具或網路異常。",
