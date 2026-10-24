@@ -253,7 +253,7 @@
     "drug": "Emrusolmin（TEV-56286）",
     "mechanism": "α-synuclein 寡聚體標的",
     "phase": "Ph2（TOPAS-MSA）",
-    "status": "收案中",
+    "status": "已停止收案、試驗進行中（登錄 2026-10-09 更新，狀態由「收案中」改為 Active, not recruiting；CT.gov 未附原因）",
     "sponsor": "Teva",
     "cell": false,
     "primary": "2027-09-15",
@@ -261,7 +261,7 @@
     "en": {
       "mechanism": "Targets α-synuclein oligomers",
       "phase": "Ph2 (TOPAS-MSA)",
-      "status": "Recruiting",
+      "status": "Active, not recruiting (registry updated 2026-10-09, changed from Recruiting; CT.gov gives no reason)",
       "sponsor": "Teva"
     }
   },

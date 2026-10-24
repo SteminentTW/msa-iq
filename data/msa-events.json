@@ -32,6 +32,22 @@
     }
   },
   {
+    "id": "adpd-2027",
+    "name": "AD/PD 2027（國際阿茲海默症與帕金森病會議）",
+    "date": "2027-03-16",
+    "dateDisplay": "2027/03/16–20",
+    "location": "西班牙巴塞隆納（國際會議中心，另提供線上參與）",
+    "relevance": "阿茲海默症與帕金森病領域之大型國際會議，神經退化性疾病機轉與在研療法（含 α-突觸核蛋白病變，涵蓋 MSA）發表重鎮。摘要截止日已過（2026/09/01），通知結果預計 2026 年 10 月中。尚無公開議程公布具體 MSA 相關發表場次，待後續查核。",
+    "highlight": false,
+    "url": "https://adpd.kenes.com/",
+    "competitors": [],
+    "en": {
+      "name": "AD/PD 2027 (International Conference on Alzheimer's and Parkinson's Diseases)",
+      "location": "Barcelona, Spain (International Convention Centre; online participation also offered)",
+      "relevance": "A major international conference on Alzheimer's and Parkinson's disease, and a key venue for neurodegeneration mechanism and pipeline presentations, including alpha-synucleinopathies (covering MSA). The abstract deadline has passed (2026/09/01), with notifications expected mid-October 2026. No public agenda specifying MSA-related sessions is available yet; to be checked in a future scan."
+    }
+  },
+  {
     "id": "msa-symposium-2026",
     "name": "MSA Symposium 2026（MSA Trust）",
     "date": "2026-05-18",
