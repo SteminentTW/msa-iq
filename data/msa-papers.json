@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42925533",
+    "date": "2026-10-24",
+    "dateDisplay": "2026/10/24",
+    "title": "Biomarkers and Prognostic Factors in Multiple System Atrophy: A Protocol for a Three-Year, Multicenter, Prospective, Longitudinal Cohort Study in Japan and South Korea.",
+    "journal": "Neuroepidemiology（線上優先）doi:10.1159/ned/adwag055 · Park J、Kim HT、Watanabe H、Jang W 等；日本與南韓多中心合作（含名古屋大學、東京大學、順天鄉大學、首爾大學等團隊）",
+    "tag": "MSA · 前驅期／自然史 · 多中心世代研究設計 · 東亞族群",
+    "highlight": false,
+    "note": "→ <b>公布一項日韓多中心前驅期MSA世代研究之協議（protocol），非結果論文</b>。分兩階段：<b>Phase 1</b>為回溯分析初始疑似MSA但未確診、後續經確認為機率性或臨床確定MSA之病人，描繪其早期臨床、影像與自主神經特徵；<b>Phase 2</b>為前瞻縱貫世代，收30–80歲、符合「單系統MSA（moMSA）」、MDS準則下之可能前驅期MSA、或純自主神經衰竭（PAF）之病人，每6個月進行標準化臨床、神經影像（腦部MRI）與生物標記（血清與腦脊髓液，含α-synuclein strain與基因分析）評估，追蹤最長36個月，目標為辨識轉化為機率性／臨床確定MSA之預測因子、精修前驅期診斷準則，並建立未來疾病修飾性試驗之平台。登錄於南韓CRIS（Clinical Research Information Service），編號<b>KCT0011830</b>。⚠️ <b>本篇僅為研究協議，尚無任何世代收案數據或結果讀出</b>；侷限於日本與南韓之東亞族群，結果能否外推至其他族群待驗證；目前站上追蹤之療法資產與本研究無直接重疊，純屬自然史／生物標記方法學層級進展。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42925533/",
+    "urlLabel": "論文 ↗ PubMed 42925533",
+    "en": {
+      "tag": "MSA · prodromal/natural history · multicenter cohort study design · East Asian population",
+      "journal": "Neuroepidemiology (online ahead of print), doi:10.1159/ned/adwag055 · Park J, Kim HT, Watanabe H, Jang W, et al.; a multicenter Japan-South Korea collaboration (including teams at Nagoya University, University of Tokyo, Soonchunhyang University, Seoul National University and others)",
+      "note": "→ <b>Publishes the protocol for a Japan-South Korea multicenter prodromal-MSA cohort study — a protocol paper, not a results paper</b>. It has two phases: <b>Phase 1</b> is a retrospective analysis of patients initially suspected but not diagnosed with MSA who were later confirmed as probable or clinically established MSA, characterizing their early clinical, imaging and autonomic features; <b>Phase 2</b> is a prospective longitudinal cohort enrolling patients aged 30-80 classified as mono-system MSA (moMSA), possible prodromal MSA under MDS criteria, or pure autonomic failure (PAF), with standardized clinical, neuroimaging (brain MRI) and biomarker assessments (serum and CSF, including alpha-synuclein strain and genetic analysis) every six months for up to 36 months, aiming to identify predictors of conversion to probable or clinically established MSA, refine prodromal diagnostic criteria, and build a platform for future disease-modifying trials. Registered with South Korea's Clinical Research Information Service (CRIS) under number <b>KCT0011830</b>. ⚠️ <b>This is a study protocol only, with no cohort enrollment data or results reported yet</b>; the population is limited to Japan and South Korea, so generalizability to other populations remains to be seen; none of the therapy assets currently tracked on this site overlap directly with this study, which is purely a natural-history/biomarker methodology advance.",
+      "urlLabel": "Paper ↗ PubMed 42925533"
+    }
+  },
+  {
     "id": "pubmed:42374641",
     "date": "2026-10-01",
     "dateDisplay": "2026/10",
