@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-10-26",
+    "dateDisplay": "2026/10/26",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "ClinicalTrials.gov廣掃（query.cond=multiple system atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選，pageSize=40，依最後更新排序）逐筆核對本次命中，命中之19筆中屬MSA條件者均已收錄於msa-trials.json且登錄本身本週內無狀態更新；非MSA之「atrophy」關鍵字誤觸筆目（NCT07863180漸進性延髓上核麻痺、NCT04472130／NCT07827963／NCT07805967／NCT06596746／NCT06846658／NCT06209515等神經退化性疾病觀察性登記或自然史研究）逐筆核對後排除，<b>本次無新增試驗</b>。PubMed「multiple system atrophy」[Title]近7天查得2篇，其中pubmed:42897443已收錄，<b>新增1篇</b>：日韓多中心前驅期MSA縱向世代研究計畫論文（PubMed 42925533，Neuroepidemiology，CRIS KCT0011830），已查閱全文摘要後完整收錄，非僅書目資料。公司/產業新聞WebSearch查核Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva emrusolmin、Tiziana foralumab、Mayo MSC、Ionis ION464：查得內容均為本站已收錄之既有事實，近7天內<b>無新增可查證進展</b>。msa-events.json每週查核（本日為週一）：查核International MSA Congress 2027（Mission MSA）與MSA Trust後續年度研討會公開資訊，<b>均未見新公告</b>，現有排程維持不動。msa-competitors.json／msa-results.json／msa-assessments.json／msa-naturalhistory.json經檢視均未發現窗口內之新事實，維持不動。<b>本次新增1篇文獻，weekNewCount依此累加</b>。本次掃描所有來源均正常回應，無工具或網路異常。",
+    "link": { "label": "詳見 文獻雷達 ↗", "tab": "si", "anchor": "litradar" },
+    "en": {
+      "tag": "Daily scan",
+      "body": "A broad ClinicalTrials.gov sweep (query.cond=multiple system atrophy, filtered to RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=40, sorted by last update) was checked entry by entry. Of the 19 hits, those genuinely conditioned on MSA were all already recorded in msa-trials.json with no registry-level status change this week; non-MSA hits matching only on the literal word 'atrophy' (NCT07863180 progressive supranuclear palsy, plus observational/natural-history registries NCT04472130, NCT07827963, NCT07805967, NCT06596746, NCT06846658, NCT06209515) were checked and excluded — <b>no new trials added this run</b>. A PubMed search for 'multiple system atrophy'[Title] over the past 7 days returned 2 hits; pubmed:42897443 was already recorded, and <b>1 new paper was added</b>: a Japan-Korea multicenter protocol paper for a prodromal-MSA longitudinal cohort study (PubMed 42925533, Neuroepidemiology, CRIS KCT0011830), added after reading the full abstract rather than from bibliographic metadata alone. WebSearch checks on Alterity ATH434, Lundbeck amlenetug, Ono ONO-2808, Teva emrusolmin, Tiziana foralumab, Mayo MSC and Ionis ION464 all surfaced facts already recorded on this site, with <b>no new verifiable developments within the past 7 days</b>. The weekly msa-events.json check (today being Monday) found no new public announcements for the 2027 International MSA Congress (Mission MSA) or a follow-on MSA Trust symposium; the existing schedule is unchanged. msa-competitors.json, msa-results.json, msa-assessments.json and msa-naturalhistory.json were reviewed and show no new facts within this window, so they remain unchanged. <b>One paper added this run; weekNewCount incremented accordingly.</b> All sources responded normally this scan; no tool or network errors occurred."
+    }
+  },
+  {
     "date": "2026-10-23",
     "dateDisplay": "2026/10/23",
     "tag": "發布狀態",

@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42925533",
+    "date": "2026-10-24",
+    "dateDisplay": "2026/10/24",
+    "title": "Biomarkers and Prognostic Factors in Multiple System Atrophy: A Protocol for a Three-Year, Multicenter, Prospective, Longitudinal Cohort Study in Japan and South Korea.",
+    "journal": "Neuroepidemiology（線上預印，2026/10/24）doi:10.1159/ned/adwag055 · Park J、Kim HT、Watanabe H 等（日本、南韓多中心）· 試驗登錄：CRIS KCT0011830",
+    "tag": "MSA · 前驅期 · 自然史／生物標記 · 試驗設計論文",
+    "highlight": false,
+    "note": "→ 研究計畫論文（protocol paper），非結果論文。分兩階段：第一階段回溯分析初診未確診、後續確認為可能／臨床確診 MSA 之病人，描繪早期臨床、影像與自律神經特徵；第二階段為前瞻性縱向世代，收 30–80 歲、符合「單系統 MSA（moMSA）」、MDS準則前驅期 MSA 或單純自律神經失能（PAF）之病人，每6個月追蹤臨床、神經影像（腦部MRI）與生物標記（含血清／腦脊髓液 α-synuclein strain 與基因分析）最長36個月，目的為釐清轉為可能／臨床確診 MSA 之預測因子。⚠️ <b>為計畫論文，尚無任何收案或追蹤數據發表</b>；日韓多中心為東亞首個前驅期 MSA 縱向世代，未來可作為疾病修飾藥物試驗之收案平台，惟目前無法核實收案進度。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42925533/",
+    "urlLabel": "論文 ↗ PubMed 42925533",
+    "en": {
+      "tag": "MSA · prodromal · natural history/biomarkers · trial-design paper",
+      "journal": "Neuroepidemiology (online ahead of print, 2026/10/24), doi:10.1159/ned/adwag055 · Park J, Kim HT, Watanabe H, et al. (multicenter, Japan and South Korea) · Trial registration: CRIS KCT0011830",
+      "note": "→ A protocol paper, not a results paper. Two phases: Phase 1 is a retrospective analysis of patients initially suspected but not diagnosed with MSA who were later confirmed as probable/clinically established MSA, to characterise early clinical, imaging and autonomic features; Phase 2 is a prospective longitudinal cohort enrolling patients aged 30-80 classified as mono-system MSA (moMSA), MDS-criteria prodromal MSA, or pure autonomic failure (PAF), with clinical, neuroimaging (brain MRI) and biomarker assessments (including serum/CSF alpha-synuclein strain and genetic analysis) every 6 months for up to 36 months, aiming to identify predictors of conversion to probable/clinically established MSA. ⚠️ <b>This is a protocol paper — no enrolment or follow-up data have been published yet</b>; the Japan-Korea cohort is described as East Asia's first prodromal-MSA longitudinal cohort and is positioned as a future platform for disease-modifying trials, but enrolment progress cannot currently be verified.",
+      "urlLabel": "Paper ↗ PubMed 42925533"
+    }
+  },
+  {
     "id": "pubmed:42374641",
     "date": "2026-10-01",
     "dateDisplay": "2026/10",
