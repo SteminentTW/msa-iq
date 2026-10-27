@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42927221",
+    "date": "2026-10-13",
+    "dateDisplay": "2026/10/13",
+    "title": "Psychometric assessment of a modified part I of the unified multiple system atrophy rating scale.",
+    "journal": "Clinical Parkinsonism & Related Disorders 15:100510（線上發表 2026/10/13）doi:10.1016/j.prdoa.2026.100510 · Berger AK、Rieckmann A、Nighah K、Zanigni S 等",
+    "tag": "MSA · 臨床評估量表 · UMSARS",
+    "highlight": false,
+    "note": "→ 對 UMSARS 第 I 部分（日常活動）修改版進行心理計量評估；摘要細節請以原文為準，本站未核實具體數值。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42927221/",
+    "urlLabel": "論文 ↗ PubMed 42927221",
+    "en": {
+      "tag": "MSA · clinical rating scale · UMSARS",
+      "journal": "Clinical Parkinsonism & Related Disorders 15:100510 (online 2026/10/13), doi:10.1016/j.prdoa.2026.100510 · Berger AK, Rieckmann A, Nighah K, Zanigni S, et al.",
+      "note": "→ Psychometric assessment of a modified part I (activities of daily living) of the UMSARS; see the original paper for details, specific figures not verified here.",
+      "urlLabel": "Paper ↗ PubMed 42927221"
+    }
+  },
+  {
     "id": "pubmed:42925533",
     "date": "2026-10-24",
     "dateDisplay": "2026/10/24",
