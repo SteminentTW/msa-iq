@@ -1,5 +1,23 @@
 [
   {
+    "nct": "NCT06891703",
+    "drug": "[18F]ACI-15916（PET造影劑）",
+    "mechanism": "α-synuclein病理沉積PET放射配體（非治療藥物），為AC Immune前代候選[18F]ACI-12589之後續開發；[18F]ACI-12589先前第三方報導顯示於MSA-P病人中基底核攝取較對照組與帕金森病患者升高",
+    "phase": "Early Ph1（開放標籤、PET微劑量試驗，分四部分，含健康受試者對照）",
+    "status": "收案中——<b>本站新收錄</b>。登錄最後更新 2026-10-28（本次掃描當日）。<b>限收納α-synucleinopathies（帕金森病、MSA、路易體失智症）疑似病人與健康受試者</b>，估計收案46人，單一站點（瑞典）。主要指標為安全性／耐受性（不良事件、生命徵象變化）及腦部對該配體之攝取量（區分病人組與健康對照組）。⚠️ 目前無任何[18F]ACI-15916本身之療效或診斷準確度結果公開讀出；前段「前代候選攝取量升高」資訊引自第三方報導之前代化合物（[18F]ACI-12589）結果，不可直接等同於本化合物之表現。",
+    "sponsor": "AC Immune SA",
+    "cell": false,
+    "primary": "2026-12",
+    "url": "https://clinicaltrials.gov/study/NCT06891703",
+    "en": {
+      "drug": "[18F]ACI-15916 (PET imaging agent)",
+      "mechanism": "PET radioligand for α-synuclein pathology (not a therapeutic); a follow-on to AC Immune's earlier candidate [18F]ACI-12589, which third-party reports previously described as showing higher basal ganglia uptake in MSA-P patients versus controls and Parkinson's disease patients",
+      "phase": "Early Ph1 (open-label, PET microdose study in four parts, including healthy-volunteer controls)",
+      "status": "Recruiting — <b>newly recorded here</b>. Registration last updated 2026-10-28 (the date of this scan). <b>Enrolling suspected cases of alpha-synucleinopathies (Parkinson's disease, MSA, dementia with Lewy bodies) alongside healthy volunteers</b>, with an estimated enrolment of 46 at a single site (Sweden). Primary outcomes are safety/tolerability (adverse events, vital sign changes) and brain uptake of the ligand (compared between patient and healthy-control groups). ⚠️ No efficacy or diagnostic-accuracy results for [18F]ACI-15916 itself have been published; the note above on the predecessor compound's higher uptake refers to third-party reporting on [18F]ACI-12589 and should not be assumed to carry over to this compound.",
+      "sponsor": "AC Immune SA"
+    }
+  },
+  {
     "nct": "NCT07289477",
     "drug": "NouvNeu001（人類多巴胺神經前驅細胞注射液）",
     "mechanism": "人類多巴胺神經前驅細胞經殼核立體定位注射移植（細胞替代）",

@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-10-28",
+    "dateDisplay": "2026/10/28",
+    "tag": "每日掃描 · 新試驗",
+    "level": "info",
+    "body": "ClinicalTrials.gov廣掃（query.cond=multiple system atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選，pageSize=40，依最後更新排序）逐筆核對，發現<b>1項本站先前漏收之PET造影劑試驗：AC Immune的[18F]ACI-15916（NCT06891703）</b>，登錄最後更新即為今日（2026-10-28），限收α-synucleinopathies（含MSA）疑似病人與健康受試者，估計收案46人，單一站點（瑞典），Early Ph1。<b>本次新增1筆並收錄於msa-trials.json</b>；因屬PET診斷造影劑而非治療藥物，依本站既有慣例（如SST001、[11C]MODAG-005）不另於msa-competitors.json建檔。非MSA之「atrophy」關鍵字誤觸筆目（NCT07863180、NCT04472130、NCT07827963、NCT07805967、NCT06596746、NCT06846658、NCT07902206、NCT01793168等）逐筆核對後維持排除，其中NCT07863180（Tributyrin／PSP）確認其收案條件僅限PSP-Richardson綜合症，MSA僅為登錄條件標籤、非實際收案族群，排除判斷維持不變。PubMed「multiple system atrophy」[Title]近7天僅查得1篇（pubmed:42925533），已於前次掃描收錄，<b>本次無新增文獻</b>。公司/產業新聞WebSearch查核Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva emrusolmin、Tiziana foralumab：查得內容均為本站已收錄之既有事實，近7天內<b>無新增可查證進展</b>；Mayo MSC（NCT05167721）與Ionis ION464（NCT04165486）未出現在本次廣掃前40筆（最後更新均早於2026-08-19），判定近期無登錄層級更新。本日非週一，msa-events.json週檢不重複執行。weekNewCount依本次新增1筆試驗，由13累加為14（註：本站weekNewCount過往實際運作為連續累加而非每週一歸零，本次延續既有作法，不另行歸零）。",
+    "link": { "tab": "si", "anchor": "trialradar" },
+    "en": {
+      "tag": "Daily scan · new trial",
+      "body": "A broad ClinicalTrials.gov sweep (query.cond=multiple system atrophy, filtered to RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=40, sorted by last update) was checked entry by entry and surfaced <b>one PET-tracer trial previously missed by this site: AC Immune's [18F]ACI-15916 (NCT06891703)</b>, whose registration was last updated on today's date (2026-10-28). It enrols suspected cases of alpha-synucleinopathies (including MSA) alongside healthy volunteers, with an estimated enrolment of 46 at a single site (Sweden), Early Phase 1. <b>Added this run to msa-trials.json</b>; as a PET diagnostic imaging agent rather than a therapeutic, it is not separately filed in msa-competitors.json, consistent with this site's existing practice for other PET tracers (e.g. SST001, [11C]MODAG-005). Non-MSA hits matching only the literal word \"atrophy\" (NCT07863180, NCT04472130, NCT07827963, NCT07805967, NCT06596746, NCT06846658, NCT07902206, NCT01793168, etc.) were checked and remain excluded; NCT07863180 (tributyrin/PSP) was specifically re-verified — its eligibility criteria are restricted to PSP-Richardson syndrome, with MSA appearing only as a registry condition tag rather than an actual enrolled population, so the prior exclusion stands. PubMed \"multiple system atrophy\"[Title] over the past 7 days returned only 1 result (pubmed:42925533), already captured in the prior scan — <b>no new papers added this run</b>. WebSearch checks on Alterity ATH434, Lundbeck amlenetug, Ono ONO-2808, Teva emrusolmin and Tiziana foralumab all surfaced facts already on file, with <b>no new verifiable developments</b> in the past 7 days; Mayo's MSC trial (NCT05167721) and Ionis's ION464 (NCT04165486) did not appear in this run's top-40 broad sweep (both last updated before 2026-08-19), indicating no registry-level update recently. Today is not Monday, so the weekly msa-events.json check was not repeated. weekNewCount increments from 13 to 14 to reflect the one new trial added (note: in practice this site's weekNewCount has run as a continuous running tally rather than a literal Monday reset; this run continues that established practice rather than resetting it)."
+    }
+  },
+  {
     "date": "2026-10-27",
     "dateDisplay": "2026/10/27",
     "tag": "每日掃描",
