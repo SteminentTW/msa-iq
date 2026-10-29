@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-10-29",
+    "dateDisplay": "2026/10/29",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "ClinicalTrials.gov廣掃（query.cond=multiple system atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選，pageSize=40，依最後更新排序）逐筆核對本次40筆命中，屬MSA條件之試驗均已收錄於msa-trials.json且登錄本身本週內無狀態變更；非MSA之「atrophy」關鍵字誤觸筆目（NCT07863180 Tributyrin／PSP、NCT04472130／NCT07827963等觀察性登記或自然史研究、NCT05733572視神經膠質瘤NGF試驗等）逐筆核對後維持排除判斷，NCT07863180再次確認其收案條件僅限PSP-Richardson綜合症、MSA僅為登錄條件標籤，排除不變，<b>本次無新增試驗</b>。PubMed「multiple system atrophy」[Title]近7天（reldate=7）僅查得1篇（pubmed:42925533），另以Entry Date近10天覆核得42927221、42897443，三篇均已於先前掃描收錄，<b>本次無新增文獻</b>。公司/產業新聞WebSearch查核Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva emrusolmin、Tiziana foralumab、Mayo MSC、Ionis ION464：查得內容（含Tiziana 2026/09/30孤兒藥資格申請、Ono Ph3 MSA-P試驗登錄等）均為本站已收錄之既有事實，近7天內<b>無新增可查證進展</b>。本日為週四，非週一，msa-events.json週檢不重複執行；msa-assessments.json／msa-naturalhistory.json／msa-preclinical.json亦均未滿各自維護週期，維持不動。本次掃描所有來源（CT.gov、PubMed E-utilities、WebSearch）均正常回應，無工具或網路異常。<b>本次無新增內容，weekNewCount維持14</b>。",
+    "link": { "tab": "si", "anchor": "trialradar" },
+    "en": {
+      "tag": "Daily scan",
+      "body": "A broad ClinicalTrials.gov sweep (query.cond=multiple system atrophy, filtered to RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=40, sorted by last update) was checked entry by entry against this run's 40 hits; trials genuinely conditioned on MSA are all already recorded in msa-trials.json with no registry-level status change this week. Non-MSA hits matching only the literal word \"atrophy\" (NCT07863180 tributyrin/PSP, observational/natural-history registries NCT04472130 and NCT07827963, an optic-pathway-glioma NGF trial NCT05733572, etc.) were checked and remain excluded; NCT07863180 was re-verified and its eligibility is restricted to PSP-Richardson syndrome, with MSA only a registry condition tag, so the exclusion stands — <b>no new trial this run</b>. PubMed's \"multiple system atrophy\"[Title] 7-day window (reldate=7) returned only 1 hit (pubmed:42925533); a 10-day entry-date cross-check added 42927221 and 42897443, but all three are already recorded from prior scans — <b>no new paper this run</b>. Company/industry-news WebSearch checks on Alterity ATH434, Lundbeck amlenetug, Ono ONO-2808, Teva emrusolmin, Tiziana foralumab, Mayo MSC and Ionis ION464 (including Tiziana's 2026/09/30 orphan-drug-designation filing and Ono's Phase 3 MSA-P trial registration) all surfaced facts already on file, with <b>no new verifiable developments</b> in the past 7 days. Today is Thursday, not Monday, so the weekly msa-events.json check was not repeated; msa-assessments.json, msa-naturalhistory.json and msa-preclinical.json also have not reached their respective maintenance cycles and remain unchanged. All sources (CT.gov, PubMed E-utilities, WebSearch) responded normally this run; no tool or network errors occurred. <b>No new content today; weekNewCount stays at 14.</b>"
+    }
+  },
+  {
     "date": "2026-10-28",
     "dateDisplay": "2026/10/28",
     "tag": "每日掃描 · 新試驗",
