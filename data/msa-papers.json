@@ -4,16 +4,16 @@
     "date": "2026-10-14",
     "dateDisplay": "2026/10/14",
     "title": "Diagnostic value of susceptibility-based imaging and apparent diffusion coefficient for differentiating multiple system atrophy-Parkinsonian type from Parkinson's disease.",
-    "journal": "Frontiers in Aging Neuroscience 18（線上發表 2026/10/14）doi:10.3389/fnagi.2026.1967702 · Moon B、Won SY、Youn J、Seo Y 等",
-    "tag": "MSA · 影像診斷 · MSA-P vs PD",
+    "journal": "Frontiers in Aging Neuroscience 18:1967702（線上發表 2026/10/14）doi:10.3389/fnagi.2026.1967702 · Moon B、Won SY（共同第一作者）、Youn J、Seo Y、Youn J、Kim EY、Lee J、Sohn B",
+    "tag": "MSA · 診斷影像 · MRI 磁敏感造影",
     "highlight": false,
-    "note": "→ 以磁感受性影像與表觀擴散係數（ADC）區分 MSA-P 與帕金森氏症的診斷價值研究；具體數值請以原文為準，本站未核實。",
+    "note": "→ 回溯性病例對照研究，27 名未服藥 MSA-P 病人對 27 名年齡／性別配對未服藥帕金森病病人，以臨床診斷為參考標準：磁敏感加權造影（SWI）定性判讀敏感度 85.2%、特異度 100%、準確度 92.6%；ADC 定性判讀則為 70.4%／77.8%／74.1%。殼核 χ-separation 磁敏感值（χpara）敏感度達 92.6%，小腦中腳 ADC 特異度達 96.3%；結合兩者之探索性模型留一法交叉驗證 AUC 達 0.927。作者另報告殼核後側呈環狀磁敏感增高，認為可作為 MSA-P 影像候選徵象，惟需進一步驗證。⚠️ 單一回溯世代、樣本量小（n=27/27），尚待前瞻性外部驗證；為診斷影像研究，非治療性試驗。",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42952865/",
     "urlLabel": "論文 ↗ PubMed 42952865",
     "en": {
-      "tag": "MSA · imaging diagnosis · MSA-P vs PD",
-      "journal": "Frontiers in Aging Neuroscience 18 (online 2026/10/14), doi:10.3389/fnagi.2026.1967702 · Moon B, Won SY, Youn J, Seo Y, et al.",
-      "note": "→ Study of the diagnostic value of susceptibility-based imaging and apparent diffusion coefficient (ADC) for distinguishing MSA-P from Parkinson's disease; see the original paper for figures, not verified here.",
+      "tag": "MSA · diagnostic imaging · susceptibility-based MRI",
+      "journal": "Frontiers in Aging Neuroscience 18:1967702 (online 2026/10/14), doi:10.3389/fnagi.2026.1967702 · Moon B, Won SY (co-first authors), Youn J, Seo Y, Youn J, Kim EY, Lee J, Sohn B",
+      "note": "→ A retrospective case-control study of 27 drug-naive MSA-P patients versus 27 age- and sex-matched drug-naive Parkinson's disease patients, using clinical diagnosis as the reference standard: qualitative susceptibility-weighted imaging (SWI) review gave 85.2% sensitivity, 100% specificity and 92.6% accuracy; qualitative ADC review gave 70.4%/77.8%/74.1%. Putaminal chi-separation paramagnetic susceptibility (chi-para) reached 92.6% sensitivity, and middle-cerebellar-peduncle ADC reached 96.3% specificity; an exploratory model combining the two had a leave-one-out cross-validation AUC of 0.927. The authors also report a rim-shaped susceptibility increase in the posterior putamen as a candidate MSA-P imaging finding warranting further evaluation. ⚠️ Single retrospective cohort with a small sample (n=27/27), pending prospective external validation; this is a diagnostic-imaging study, not a therapeutic trial.",
       "urlLabel": "Paper ↗ PubMed 42952865"
     }
   },
