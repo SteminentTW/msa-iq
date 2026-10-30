@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-10-30",
+    "dateDisplay": "2026/10/30",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "新增 1 則文獻：MSA-P 與帕金森氏症的磁感受性影像／ADC 診斷價值研究（Front Aging Neurosci）。",
+    "link": { "label": "詳見 文獻雷達 ↗", "tab": "si", "anchor": "litradar" },
+    "en": { "tag": "Daily scan", "body": "Added 1 paper: susceptibility imaging/ADC diagnostic value for MSA-P vs Parkinson's disease (Front Aging Neurosci).", "linkLabel": "See Literature Radar ↗" }
+  },
+  {
     "date": "2026-10-29",
     "dateDisplay": "2026/10/29",
     "tag": "每日掃描",

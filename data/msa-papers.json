@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42952865",
+    "date": "2026-10-14",
+    "dateDisplay": "2026/10/14",
+    "title": "Diagnostic value of susceptibility-based imaging and apparent diffusion coefficient for differentiating multiple system atrophy-Parkinsonian type from Parkinson's disease.",
+    "journal": "Frontiers in Aging Neuroscience 18（線上發表 2026/10/14）doi:10.3389/fnagi.2026.1967702 · Moon B、Won SY、Youn J、Seo Y 等",
+    "tag": "MSA · 影像診斷 · MSA-P vs PD",
+    "highlight": false,
+    "note": "→ 以磁感受性影像與表觀擴散係數（ADC）區分 MSA-P 與帕金森氏症的診斷價值研究；具體數值請以原文為準，本站未核實。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42952865/",
+    "urlLabel": "論文 ↗ PubMed 42952865",
+    "en": {
+      "tag": "MSA · imaging diagnosis · MSA-P vs PD",
+      "journal": "Frontiers in Aging Neuroscience 18 (online 2026/10/14), doi:10.3389/fnagi.2026.1967702 · Moon B, Won SY, Youn J, Seo Y, et al.",
+      "note": "→ Study of the diagnostic value of susceptibility-based imaging and apparent diffusion coefficient (ADC) for distinguishing MSA-P from Parkinson's disease; see the original paper for figures, not verified here.",
+      "urlLabel": "Paper ↗ PubMed 42952865"
+    }
+  },
+  {
     "id": "pubmed:42927221",
     "date": "2026-10-13",
     "dateDisplay": "2026/10/13",
