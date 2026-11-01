@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-01",
+    "dateDisplay": "2026/11/01",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "上次真正發布為2026-10-31，缺口0天，屬正常每日掃描、無需補跑。ClinicalTrials.gov廣掃（query.cond=multiple system atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選，pageSize=40，依最後更新排序）逐筆核對本次40筆命中：所有屬MSA條件之試驗均已收錄於msa-trials.json，登錄本身無狀態變更；非MSA之「atrophy」關鍵字誤觸筆目（NCT07798609顏面肩胛肱骨肌失養症、NCT01793168罕病登記、NCT07902206亨丁頓氏症肌少症、NCT05733572視神經膠質瘤等多筆）逐筆核對後排除。<b>本次無新增試驗</b>。PubMed「multiple system atrophy」[Title]近7天查得2筆（pubmed:42596062、pubmed:42381593），42381593已收錄；42596062為一篇針對《MRI體積測量指數鑑別PSP／PD／MSA》原始論文之編輯評論（editorial），非原創研究資料，<b>本次判定不收錄</b>。公司/產業新聞WebSearch查核Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva emrusolmin、Tiziana foralumab、Ionis ION464：查得內容均為本站已收錄之既有事實（MASCOT Ph3已完成401人隨機收案、ONO-2808 Ph2/Ph3兩試驗現況、TOPAS-MSA收案中等），<b>無新增可查證進展</b>。msa-events.json上次查核為2026-10-26（本週一），週檢週期未到，不重複執行；msa-assessments.json／msa-naturalhistory.json／msa-preclinical.json亦均未滿維護週期，維持不動。本次掃描所有來源（CT.gov、PubMed E-utilities、WebSearch）均正常回應，無工具或網路異常。<b>本次無新增內容，weekNewCount維持15</b>。",
+    "link": { "tab": "si", "anchor": "trialradar" },
+    "en": {
+      "tag": "Daily scan",
+      "body": "Last genuine publish was 2026-10-31, a 0-day gap, so this is a normal daily scan with no backfill needed. A broad ClinicalTrials.gov sweep (query.cond=multiple system atrophy, filtered to RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=40, sorted by last update) was checked entry by entry against this run's 40 hits: all MSA-condition trials are already on file in msa-trials.json with no status change; non-MSA hits matching only the literal word \"atrophy\" (NCT07798609 FSHD, NCT01793168 a rare-disease registry, NCT07902206 Huntington's-disease sarcopenia, NCT05733572 optic pathway glioma, and others) were checked and excluded. <b>No new trial this run</b>. PubMed's \"multiple system atrophy\"[Title] 7-day window returned 2 hits (pubmed:42596062, pubmed:42381593); 42381593 was already on file; 42596062 is an editorial commentary on a separate original paper about an MRI-volumetry index for differentiating PSP/PD/MSA, not primary research data, and was <b>judged not to be added</b> this run. Company/industry-news WebSearch checks on Alterity ATH434, Lundbeck amlenetug, Ono ONO-2808, Teva emrusolmin, Tiziana foralumab and Ionis ION464 surfaced only facts already recorded on this site (MASCOT Phase 3's completed 401-participant randomisation, the ONO-2808 Phase 2/Phase 3 status, TOPAS-MSA still recruiting, etc.) — <b>no new verifiable developments</b>. msa-events.json's last check was 2026-10-26 (this past Monday), so the weekly cycle has not come due and was not repeated; msa-assessments.json, msa-naturalhistory.json and msa-preclinical.json also have not reached their maintenance cycles and remain unchanged. All sources (CT.gov, PubMed E-utilities, WebSearch) responded normally this run; no tool or network errors occurred. <b>No new content today; weekNewCount stays at 15.</b>"
+    }
+  },
+  {
     "date": "2026-10-31",
     "dateDisplay": "2026/10/31",
     "tag": "每日掃描",
