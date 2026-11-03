@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-03",
+    "dateDisplay": "2026/11/03",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "新增 1 則科學文獻（PubMed 42973189：MSA 體液分子生物標記系統性回顧，俄文）；更新 Teva emrusolmin（TEV-56286）TOPAS-MSA Ph2 試驗（NCT06568237）：登錄張貼實際收案 349 人，完成日維持 2027-09-15。",
+    "link": { "label": "詳見 文獻雷達 ↗", "tab": "si", "anchor": "litradar" },
+    "en": {
+      "tag": "Daily scan",
+      "body": "Added 1 paper (PubMed 42973189: a systematic review of fluid molecular biomarkers in MSA, in Russian); updated Teva's emrusolmin (TEV-56286) TOPAS-MSA Ph2 trial (NCT06568237): the registry now posts actual enrolment of 349, with completion still 2027-09-15.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-11-02",
     "dateDisplay": "2026/11/02",
     "tag": "每日掃描 · events週檢",

@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42973189",
+    "date": "2026-11-01",
+    "dateDisplay": "2026/11",
+    "title": "[Molecular biomarkers for multiple system atrophy. (A systematic review)].",
+    "journal": "Zh Nevrol Psikhiatr Im S S Korsakova 2026;126(10. Vyp. 2):33-40（俄文）doi:10.17116/jnevro202612610233 · Katunina EA、Bogomazova VA、Parusova AV、Shipilova NN（俄羅斯聯邦醫學生物署腦與神經技術聯邦中心／Pirogov 國立研究醫學大學，莫斯科）",
+    "tag": "診斷生物標記 · 體液分子標記 · 系統性回顧",
+    "highlight": false,
+    "note": "→ 依 PRISMA 2020 指引彙整 MSA 於腦脊髓液與血漿中的分子生物標記證據，評估七類候選標記：聚集型 α-突觸核蛋白、神經絲輕鏈（NfL）、tau 蛋白、髓鞘鹼性蛋白、神經傳導物質（多巴胺、正腎上腺素、血清素、β-腦內啡）、神經發炎標記（細胞激素、GFAP）、同半胱胺酸與輔酶 Q10，討論其病生理依據、鑑別診斷與預後價值，以及阻礙臨床應用的限制與結果不一致之處，並探討多標記組合策略。⚠️ 全文為俄文，摘要未列納入研究數與量化合併結果；為文獻回顧，非原始數據。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42973189/",
+    "urlLabel": "論文 ↗ PubMed 42973189",
+    "en": {
+      "tag": "Diagnostic biomarkers · fluid molecular markers · systematic review",
+      "journal": "Zh Nevrol Psikhiatr Im S S Korsakova 2026;126(10. Vyp. 2):33-40 (in Russian), doi:10.17116/jnevro202612610233 · Katunina EA, Bogomazova VA, Parusova AV, Shipilova NN (Federal Center for Brain and Neurotechnologies, FMBA of Russia / Pirogov Russian National Research Medical University, Moscow)",
+      "note": "→ A PRISMA 2020 systematic review of molecular biomarkers for MSA in cerebrospinal fluid and blood plasma, covering seven candidate groups: aggregated α-synuclein, neurofilament light chain (NfL), tau, myelin basic protein, neurotransmitters (dopamine, norepinephrine, serotonin, β-endorphins), neuroinflammation markers (cytokines, GFAP), homocysteine and coenzyme Q10. It discusses their pathophysiological basis, differential-diagnostic and prognostic value, the limitations and inconsistencies holding back clinical use, and strategies for combining markers. ⚠️ Full text is in Russian; the abstract gives neither the number of included studies nor pooled quantitative results. A literature review, not original data.",
+      "urlLabel": "Paper ↗ PubMed 42973189"
+    }
+  },
+  {
     "id": "pubmed:42952865",
     "date": "2026-10-14",
     "dateDisplay": "2026/10/14",
