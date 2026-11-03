@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-03",
+    "dateDisplay": "2026/11/03",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "上次真正發布為2026-11-02，缺口0天，屬正常每日掃描、無需補跑。ClinicalTrials.gov廣掃（query.cond=multiple system atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選，pageSize=40，依最後更新排序）逐筆核對本次40筆命中：所有屬MSA條件之試驗均已收錄於msa-trials.json，登錄本身無狀態變更（NCT06568237本次最後更新日雖更新至2026-11-03當日，但OverallStatus仍為ACTIVE_NOT_RECRUITING，與既有記錄一致，非新變化）；非MSA之「atrophy」關鍵字誤觸筆目與先前已判定排除之觀察性/自然史/生物標記登記（NCT07863180、NCT04472130、NCT07827963、NCT07805967、NCT06596746、NCT06846658等）逐筆核對後維持排除判斷不變。<b>本次無新增試驗</b>。PubMed「multiple system atrophy」[Title]近7天查得2筆（pubmed:42596062、pubmed:42381593），42381593已收錄；42596062與10/31–11/02連續三日查得之同一篇編輯評論（非原創研究資料，針對另一篇PSP/PD/MSA影像鑑別論文之評論），<b>本次維持不收錄之判斷</b>。公司/產業新聞WebSearch查核Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva emrusolmin：查得內容均為2025年或更早之舊聞、或本站已收錄之既有事實，近7天內<b>無新增可查證進展</b>。msa-events.json上次查核為2026-11-02，週檢週期未到，不重複執行；msa-assessments.json／msa-naturalhistory.json／msa-preclinical.json亦均未滿維護週期，維持不動。本次掃描所有來源（CT.gov、PubMed E-utilities、WebSearch）均正常回應，無工具或網路異常。<b>本次全站無新增資料筆目，weekNewCount維持0</b>。",
+    "link": { "tab": "si", "anchor": "trialradar" },
+    "en": {
+      "tag": "Daily scan",
+      "body": "Last genuine publish was 2026-11-02, a 0-day gap, so this is a normal daily scan with no backfill needed. A broad ClinicalTrials.gov sweep (query.cond=multiple system atrophy, filtered to RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=40, sorted by last update) was checked entry by entry against this run's 40 hits: all MSA-condition trials are already on file in msa-trials.json with no status change (NCT06568237's last-update date advanced to today, 2026-11-03, but its OverallStatus remains ACTIVE_NOT_RECRUITING, consistent with the existing record — not a real change). Non-MSA hits matching only the literal word \"atrophy\", and the previously excluded observational/natural-history/biomarker registries (NCT07863180, NCT04472130, NCT07827963, NCT07805967, NCT06596746, NCT06846658, etc.), were checked again and the exclusion decisions stand. <b>No new trial this run</b>. PubMed's \"multiple system atrophy\"[Title] 7-day window returned 2 hits (pubmed:42596062, pubmed:42381593); 42381593 was already on file; 42596062 is the same editorial commentary seen on three consecutive days (10/31-11/02) — not primary research data, but a comment on a separate PSP/PD/MSA imaging-differentiation paper — so <b>the decision not to add it stands</b>. Company/industry-news WebSearch checks on Alterity ATH434, Lundbeck amlenetug, Ono ONO-2808 and Teva emrusolmin surfaced only items from 2025 or earlier, or facts already recorded on this site — <b>no new verifiable developments</b> in the past 7 days. msa-events.json's last check was 2026-11-02, so the weekly cycle has not come due and was not repeated; msa-assessments.json, msa-naturalhistory.json and msa-preclinical.json also have not reached their maintenance cycles and remain unchanged. All sources (CT.gov, PubMed E-utilities, WebSearch) responded normally this run; no tool or network errors occurred. <b>No new entries added site-wide today; weekNewCount stays at 0.</b>"
+    }
+  },
+  {
     "date": "2026-11-02",
     "dateDisplay": "2026/11/02",
     "tag": "每日掃描 · events週檢",
