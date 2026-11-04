@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:42826522",
+    "date": "2026-09-29",
+    "dateDisplay": "2026/09/29",
+    "title": "Plantar-predominant sudomotor dysfunction in multiple system atrophy: a Sudoscan and (123)I-MIBG myocardial scintigraphy study.",
+    "journal": "Parkinsonism Relat Disord 2026 Nov;152:109007（線上發表 2026/09/29）doi:10.1016/j.parkreldis.2026.109007 · Nakahara K、Ueda M（日本熊本大學）",
+    "tag": "MSA · 自律神經功能 · 汗腺功能檢測",
+    "highlight": false,
+    "note": "→ 回溯分析15名MSA病人（12例MSA-C、3例MSA-P）與48名帕金森病病人之Sudoscan電化學皮膚傳導（ESC）資料（排除糖尿病／修格蘭氏症候群病人）；以足—手ESC梯度為主要指標：MSA組顯著低於帕金森病組（中位數-3.5對10.9 μS，p<0.001），足部ESC亦較低（63.7對77.7 μS，p=0.005），手部無顯著差異；53%之MSA病人呈現負梯度，帕金森病組僅8%。MIBG心肌造影顯示MSA組心臟交感神經支配相對保留（延遲H/M比3.67對1.49，p<0.001）。探索性分析未見ESC梯度與病程、臨床嚴重度或MIBG參數之顯著相關。⚠️ 回溯性研究、MSA樣本量小（n=15，MIBG資料僅9例），為診斷／自律神經表型研究，非治療性試驗。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826522/",
+    "urlLabel": "論文 ↗ PubMed 42826522",
+    "en": {
+      "tag": "MSA · autonomic function · sudomotor testing",
+      "journal": "Parkinsonism Relat Disord 2026 Nov;152:109007 (online 2026/09/29), doi:10.1016/j.parkreldis.2026.109007 · Nakahara K, Ueda M (Kumamoto University, Japan)",
+      "note": "→ A retrospective analysis of Sudoscan electrochemical skin conductance (ESC) data from 15 MSA patients (12 MSA-C, 3 MSA-P) versus 48 Parkinson's disease patients (diabetes and Sjögren's syndrome excluded), with the feet-hands ESC gradient as the primary outcome: the gradient was significantly lower in MSA than PD (median -3.5 vs. 10.9 μS, p<0.001), feet ESC was also lower (63.7 vs. 77.7 μS, p=0.005), with no significant difference at the hands; a negative gradient occurred in 53% of MSA patients versus 8% of PD patients. MIBG myocardial scintigraphy showed relatively preserved cardiac sympathetic innervation in MSA (delayed H/M ratio 3.67 vs. 1.49, p<0.001). Exploratory analyses found no significant correlation between the ESC gradient and disease duration, clinical severity, or MIBG parameters. ⚠️ Retrospective study with a small MSA sample (n=15; MIBG data in only 9); a diagnostic/autonomic-phenotyping study, not a therapeutic trial.",
+      "urlLabel": "Paper ↗ PubMed 42826522"
+    }
+  },
+  {
+    "id": "pubmed:42815345",
+    "date": "2026-09-28",
+    "dateDisplay": "2026/09/28",
+    "title": "Tonic-dominant sleep bruxism in multiple system atrophy: A polysomnographic comparison with Parkinsonian-related disorders.",
+    "journal": "Parkinsonism Relat Disord 2026 Nov;152:109002（線上發表 2026/09/28）doi:10.1016/j.parkreldis.2026.109002 · Umemoto G、Yoshimura C、Fujioka S 等（日本福岡大學）",
+    "tag": "MSA · 睡眠障礙 · 多導睡眠監測",
+    "highlight": false,
+    "note": "→ 回溯分析整夜多導睡眠監測（含雙側咬肌肌電圖）資料，比較MSA病人（n=8）與其他帕金森氏症候群相關疾病病人（n=7）之睡眠磨牙型態：MSA組以強直型與混合型為主，強直型磨牙事件中位數顯著高於對照組（35[25–37]對8[2–24]次，p=0.015，r=0.63）；REM睡眠相關磨牙事件在MSA組亦較常見，且多伴隨強直或混合型肌電活動；強直比例雖未達統計顯著但有偏高趨勢（22.8%對9.5%，p=0.064）。⚠️ 樣本量極小（n=8/7）之回溯性研究，為睡眠生理表型研究，非治療性試驗。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42815345/",
+    "urlLabel": "論文 ↗ PubMed 42815345",
+    "en": {
+      "tag": "MSA · sleep disorders · polysomnography",
+      "journal": "Parkinsonism Relat Disord 2026 Nov;152:109002 (online 2026/09/28), doi:10.1016/j.parkreldis.2026.109002 · Umemoto G, Yoshimura C, Fujioka S, et al. (Fukuoka University, Japan)",
+      "note": "→ A retrospective analysis of overnight polysomnography (with bilateral masseter EMG) comparing sleep-bruxism patterns between MSA patients (n=8) and patients with other Parkinsonian-related disorders (n=7): MSA showed predominantly tonic and mixed patterns, with a significantly higher median number of tonic bruxism events than controls (35 [25-37] vs. 8 [2-24], p=0.015, r=0.63); REM-sleep-associated bruxism was also more frequent in MSA, mostly with tonic or mixed EMG activity; the tonic rate trended higher without reaching significance (22.8% vs. 9.5%, p=0.064). ⚠️ A retrospective study with a very small sample (n=8/7); a sleep-physiology phenotyping study, not a therapeutic trial.",
+      "urlLabel": "Paper ↗ PubMed 42815345"
+    }
+  },
+  {
     "id": "pubmed:42973189",
     "date": "2026-11-01",
     "dateDisplay": "2026/11",
