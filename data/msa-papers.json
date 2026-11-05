@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42984461",
+    "date": "2026-11-05",
+    "dateDisplay": "2026/11/05",
+    "title": "Skin Seed Amplification Assay Differentiates Multiple System Atrophy from Parkinson's Disease.",
+    "journal": "Mov Disord 2026（線上先行）doi:10.1002/mds.70573 · Kuzkina A、Rodriguez D、Khurana V 等（Mass General Brigham暨哈佛醫學院、Würzburg大學醫院）",
+    "tag": "生物標記 · α-synuclein 皮膚種子增殖檢測（SAA）· MSA 對 PD 鑑別",
+    "highlight": false,
+    "note": "→ 盲性橫斷研究，117名受試者共308份皮膚切片（PD 42人、MSA 31人、健康對照30人、PSP 14人），以標準化Thioflavin T螢光α-synuclein種子增殖檢測（αSyn-SAA）分析。結果：對合成核蛋白病（PD或MSA）偵測對健康對照之敏感度82.2%、特異度90%；以最大螢光值（Fmax，AUC 0.93）與延遲時間（AUC 0.91）可在切片層級區分PD與MSA；SAA陽性與兩疾病之REM期睡眠行為障礙（RBD）相關；以Fmax平均值50%為界，SAA陽性個案中81.7%（49/60）可正確分類病理亞型；纖維型態特徵經不同實驗室與受質批次驗證具可重現性，並與部分個案之腦脊髓液、MRI及死後腦組織資料相符。⚠️ 單次切片之鑑別準確度（81.7%）仍有限，尚非可取代臨床診斷之獨立工具；為跨中心（美國/德國）合作研究，樣本量中等（n=117）。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42984461/",
+    "urlLabel": "論文 ↗ PubMed 42984461",
+    "en": {
+      "journal": "Mov Disord 2026 (online ahead of print) doi:10.1002/mds.70573 · Kuzkina A, Rodriguez D, Khurana V et al. (Mass General Brigham and Harvard Medical School; University Hospital Würzburg)",
+      "tag": "Biomarker · skin α-synuclein seed amplification assay (SAA) · MSA vs PD differentiation",
+      "note": "→ A blinded, cross-sectional study analysing 308 skin biopsies from 117 participants (42 PD, 31 MSA, 30 controls, 14 PSP) using a standardized thioflavin T fluorescence-based α-synuclein seed amplification assay (αSyn-SAA). Findings: sensitivity 82.2% and specificity 90% for detecting synucleinopathy (PD or MSA) versus controls; maximum fluorescence (Fmax, AUC 0.93) and lag time (AUC 0.91) distinguished PD from MSA at the biopsy level; SAA positivity correlated with REM sleep behaviour disorder (RBD) in both disorders; using a 50% mean-Fmax cutoff, 81.7% (49/60) of SAA-positive cases were correctly classified by underlying synucleinopathy; kinetic and structural signatures were reproducible across laboratories and substrate batches and were concordant with matched CSF, MRI and postmortem brain data in a subset. ⚠️ Single-biopsy discriminative accuracy (81.7%) remains limited and is not yet a standalone diagnostic replacement; a multi-site (US/Germany) collaboration with a moderate sample size (n=117).",
+      "urlLabel": "Paper ↗ PubMed 42984461"
+    }
+  },
+  {
     "id": "pubmed:42980755",
     "date": "2026-11-04",
     "dateDisplay": "2026/11/04",
