@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-04",
+    "dateDisplay": "2026/11/04",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "新增 1 則科學文獻（PubMed 42980755：印度 NIMHANS 比較 PSP 與 MSA 認知功能的橫斷研究，n=159）。",
+    "link": { "label": "詳見 文獻雷達 ↗", "tab": "si", "anchor": "litradar" },
+    "en": {
+      "tag": "Daily scan",
+      "body": "Added 1 paper (PubMed 42980755: a cross-sectional NIMHANS study in India comparing cognition in PSP and MSA, n=159).",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-11-03",
     "dateDisplay": "2026/11/03",
     "tag": "每日掃描",

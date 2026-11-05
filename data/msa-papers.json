@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42980755",
+    "date": "2026-11-04",
+    "dateDisplay": "2026/11/04",
+    "title": "Clinical correlates of cognitive impairment in progressive supranuclear palsy and multiple system atrophy: a comparative neuropsychological study.",
+    "journal": "J Neural Transm (Vienna) 2026（線上先行）doi:10.1007/s00702-026-03322-w · Athira PM、Kumar KJ、Pal PK、Yadav R 等（印度國家心理衛生暨神經科學研究所 NIMHANS，班加羅爾）",
+    "tag": "非運動症狀 · 認知功能 · MSA vs PSP 比較",
+    "highlight": false,
+    "note": "→ 印度單中心橫斷研究，159 名非典型巴金森症病人（PSP 98 人、MSA 61 人），以 FAB、MoCA、ACE-III 及 NIMHANS 老年神經心理測驗組評估。經年齡校正與 FDR 校正後，PSP 在 FAB、MoCA、ACE-III 總分及語言流暢、注意力、視覺空間建構與視覺空間工作記憶皆顯著低於 MSA；MSA 的認知表現只與教育程度及多語能力相關，與運動或症狀嚴重度無顯著關聯。⚠️ 橫斷設計、單一中心，無法推論病程變化。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42980755/",
+    "urlLabel": "論文 ↗ PubMed 42980755",
+    "en": {
+      "tag": "Non-motor symptoms · cognition · MSA vs PSP comparison",
+      "journal": "J Neural Transm (Vienna) 2026 (online ahead of print), doi:10.1007/s00702-026-03322-w · Athira PM, Kumar KJ, Pal PK, Yadav R et al. (National Institute of Mental Health and Neurosciences, NIMHANS, Bengaluru, India)",
+      "note": "→ A single-centre cross-sectional study in India of 159 patients with atypical parkinsonism (98 PSP, 61 MSA), assessed with the FAB, MoCA, ACE-III and the NIMHANS Neuropsychology Battery for the elderly. After age adjustment and FDR correction, PSP scored significantly lower than MSA on FAB, MoCA and ACE-III totals and on fluency, attention, visuospatial construction and visuospatial working memory; in MSA, cognition correlated only with education and multilingualism, not with motor or symptom severity. ⚠️ Cross-sectional and single-centre, so it cannot speak to change over the disease course.",
+      "urlLabel": "Paper ↗ PubMed 42980755"
+    }
+  },
+  {
     "id": "pubmed:42973189",
     "date": "2026-11-01",
     "dateDisplay": "2026/11",
