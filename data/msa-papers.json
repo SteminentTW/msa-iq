@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42984461",
+    "date": "2026-11-05",
+    "dateDisplay": "2026/11/05",
+    "title": "Skin Seed Amplification Assay Differentiates Multiple System Atrophy from Parkinson's Disease.",
+    "journal": "Mov Disord 2026（線上先行）doi:10.1002/mds.70573 · Kuzkina A、Doppler K、Khurana V 等（美國 Mass General Brigham／哈佛醫學院、德國 Würzburg 大學醫院）",
+    "tag": "診斷生物標記 · 皮膚 α-突觸核蛋白種子擴增檢測（αSyn-SAA）· MSA vs PD 鑑別",
+    "highlight": false,
+    "note": "→ 盲性橫斷研究，分析 117 名受試者（PD 42、MSA 31、PSP 14、對照 30）共 308 份皮膚切片，以標準化 thioflavin T 螢光 αSyn-SAA 檢測。偵測突觸核蛋白病（PD 或 MSA）相對對照組敏感度 82.2%、特異度 90%；以最大螢光值 Fmax（AUC 0.93）與遲滯時間（AUC 0.91）區分 PD 與 MSA；SAA 陽性者中以 50% 平均 Fmax 為切點，正確分類 49／60（81.7%）。動力學與纖維結構特徵跨實驗室重現，並有部分樣本與腦脊髓液、MRI 及死後腦組織相互印證。⚠️ 橫斷設計、MSA 樣本僅 31 人，尚未於前瞻性世代驗證。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42984461/",
+    "urlLabel": "論文 ↗ PubMed 42984461",
+    "en": {
+      "tag": "Diagnostic biomarkers · skin α-synuclein seed amplification assay (αSyn-SAA) · MSA vs PD differentiation",
+      "journal": "Mov Disord 2026 (online ahead of print), doi:10.1002/mds.70573 · Kuzkina A, Doppler K, Khurana V et al. (Mass General Brigham / Harvard Medical School, USA; University Hospital Würzburg, Germany)",
+      "note": "→ A blinded cross-sectional study of 308 skin biopsies from 117 participants (42 PD, 31 MSA, 14 PSP, 30 controls) using a standardized thioflavin T fluorescence αSyn-SAA. It detected synucleinopathy (PD or MSA) with 82.2% sensitivity and 90% specificity versus controls; maximum fluorescence Fmax (AUC 0.93) and lag time (AUC 0.91) distinguished PD from MSA; among SAA-positive cases a 50% mean-Fmax cutoff correctly classified 49 of 60 (81.7%). Kinetic and fibril-structure signatures were reproducible across laboratories, with concordant findings in a subset matched to CSF, MRI and postmortem brain. ⚠️ Cross-sectional, only 31 MSA cases, not yet validated in a prospective cohort.",
+      "urlLabel": "Paper ↗ PubMed 42984461"
+    }
+  },
+  {
     "id": "pubmed:42980755",
     "date": "2026-11-04",
     "dateDisplay": "2026/11/04",

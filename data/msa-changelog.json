@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-05",
+    "dateDisplay": "2026/11/05",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "新增 1 則科學文獻（PubMed 42984461：Mov Disord 皮膚 α-突觸核蛋白種子擴增檢測區分 MSA 與 PD，117 名受試者、308 份切片）。",
+    "link": { "label": "詳見 文獻雷達 ↗", "tab": "si", "anchor": "litradar" },
+    "en": {
+      "tag": "Daily scan",
+      "body": "Added 1 paper (PubMed 42984461: a Mov Disord study of a skin α-synuclein seed amplification assay distinguishing MSA from PD, 117 participants, 308 biopsies).",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-11-04",
     "dateDisplay": "2026/11/04",
     "tag": "每日掃描",
