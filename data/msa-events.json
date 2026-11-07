@@ -1,5 +1,21 @@
 [
   {
+    "id": "mds-congress-2027",
+    "name": "MDS International Congress 2027（國際動作障礙學會年會）",
+    "date": "2027-09-26",
+    "dateDisplay": "2027/09/26–30",
+    "location": "荷蘭阿姆斯特丹",
+    "relevance": "動作障礙領域最大國際年會下一屆已公告日期與城市（官方場館名稱尚未公布）。本站週檢時僅查得日期與城市，<b>尚無任何議程或MSA相關發表資訊</b>，不臆測內容；待官方議程公告後再補充。",
+    "highlight": false,
+    "url": "https://www.movementdisorders.org/Events",
+    "competitors": [],
+    "en": {
+      "name": "MDS International Congress 2027",
+      "location": "Amsterdam, Netherlands",
+      "relevance": "The next edition of the largest international movement-disorders congress now has an announced date and city (official venue not yet named). This week's check found only the date and city, with <b>no agenda or MSA-related presentations announced yet</b>; no content is inferred, and this entry will be updated once the official program is published."
+    }
+  },
+  {
     "id": "mds-congress-2026",
     "name": "MDS International Congress（國際動作障礙學會年會）",
     "date": "2026-10-04",
