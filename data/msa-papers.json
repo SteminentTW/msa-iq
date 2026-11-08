@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42995451",
+    "date": "2026-11-06",
+    "dateDisplay": "2026/11/06",
+    "title": "Stage-Specific Health Status in Multiple System Atrophy: EQ-5D Findings from a European Cohort.",
+    "journal": "Mov Disord 2026（線上先行）doi:10.1002/mds.70593 · Kuchin I、Puntscher S、Fanciulli A、Siebert U、Jahn B 等（歐洲多系統萎縮症研究小組 European MSA Study Group）",
+    "tag": "健康經濟 · EQ-5D健康效用值 · UMSARS IV期別分層",
+    "highlight": false,
+    "note": "→ 以歐洲MSA世代之EQ-5D-3L問卷換算為EQ-5D-5L健康效用值（德國加權表），以貝氏模型估算UMSARS IV各期別之效用值（事後平均值，95%可信區間）：<b>第1期0.672（0.628–0.719）、第2期0.606（0.523–0.679）、第3期0.517（0.416–0.615）、第4期0.262（0.158–0.364）、第5期0.084（−0.045–0.217）</b>，效用值隨期別惡化而遞減。作者稱為首篇提供UMSARS IV全期別健康效用值之研究，可供健康經濟評估與以生活品質作為臨床試驗終點之參考。屬自然史／健康經濟資料，非藥物療效試驗，收錄供MSA疾病負擔與試驗設計參考。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42995451/",
+    "urlLabel": "論文 ↗ PubMed 42995451",
+    "en": {
+      "tag": "Health economics · EQ-5D health utility · UMSARS IV stage-stratified",
+      "journal": "Mov Disord 2026 (online ahead of print), doi:10.1002/mds.70593 · Kuchin I, Puntscher S, Fanciulli A, Siebert U, Jahn B, et al. (European Multiple System Atrophy Study Group)",
+      "note": "→ EQ-5D-3L responses from a European MSA cohort were mapped to EQ-5D-5L health-utility values (German value set), with Bayesian modelling estimating utility by UMSARS IV stage (posterior mean, 95% credible interval): <b>stage 1 0.672 (0.628–0.719), stage 2 0.606 (0.523–0.679), stage 3 0.517 (0.416–0.615), stage 4 0.262 (0.158–0.364), stage 5 0.084 (−0.045–0.217)</b>, declining with disease progression. The authors describe it as the first study to provide stage-specific health-utility values across all UMSARS IV stages, intended to inform health-economic evaluation and HRQoL as a clinical-trial endpoint. Natural-history/health-economics data, not a drug efficacy trial, recorded for MSA disease-burden and trial-design reference.",
+      "urlLabel": "Paper ↗ PubMed 42995451"
+    }
+  },
+  {
     "id": "pubmed:42984461",
     "date": "2026-11-05",
     "dateDisplay": "2026/11/05",
