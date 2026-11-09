@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-09",
+    "dateDisplay": "2026/11/09",
+    "tag": "每日掃描 · 會議雷達週檢",
+    "level": "info",
+    "body": "上次真正發布為2026-11-08，缺口0天，屬正常每日掃描、無需補跑。PubMed「multiple system atrophy」[Title]近7天查詢命中4筆，均已收錄於既有71筆文獻清單，<b>本次無新增文獻</b>。CT.gov廣掃（query.cond=multiple+system+atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選，pageSize=40，依最後更新排序）逐筆核對：近7天內更新且不在既有26筆清單內者，經逐筆查核條件／介入後均為「atrophy」關鍵字誤命中之無關疾病（SMA脊髓性肌肉萎縮症×3筆、多發性硬化症、顏面脂肪萎縮、FSHD、Huntington氏症肌少症、PSP為主/MSA僅為次要比較族群之學術補充品試驗NCT07863180——<b>此筆已於2026-11-08判定為補充品排除、本次核對結論不變</b>）、自主神經衰竭CPAP裝置試驗（非藥物介入）等，<b>本次CT.gov無新增競品試驗</b>。已知資產新聞掃描（Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva emrusolmin、Tiziana foralumab、Mayo MSC）未發現本週新進展。<b>本次補做msa-events.json會議雷達週檢</b>（上次執行約為2026-10-03，已逾週期許久）：查核MSA Trust下屆（第五屆）MSA Symposium日期與其他MSA專屬會議公告，官網均尚未公布2027屆日期，<b>本次無新增可查證資訊</b>，維持現狀。<b>本次全站無新增資料筆目</b>；今日為新一週起始（週一），weekNewCount重置為0。",
+    "en": {
+      "tag": "Daily scan · events radar weekly review",
+      "body": "Last genuine publish was 2026-11-08, a 0-day gap, so this is a normal daily scan with no backfill needed. PubMed's \"multiple system atrophy\"[Title] 7-day query returned 4 hits, all already among the existing 71 papers on file — <b>no new paper added this round</b>. The CT.gov broad scan (query.cond=multiple+system+atrophy, RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING filter, pageSize=40, sorted by last update) was checked line by line: the hits updated within 7 days and not already among the existing 26 trials were, after checking each one's condition/intervention, all false positives on the \"atrophy\" keyword for unrelated diseases (spinal muscular atrophy ×3, multiple sclerosis, facial fat atrophy, FSHD, sarcopenia in Huntington's disease, and an academic supplement trial, NCT07863180, that is primarily for PSP with MSA only as a secondary comparison cohort — <b>this one was already excluded as a dietary supplement on 2026-11-08, and today's recheck reaches the same conclusion</b>), plus a device (CPAP) trial for autonomic-failure supine hypertension with no drug intervention — so <b>no new competitor trial was added this round</b>. A news scan of tracked assets (Alterity ATH434, Lundbeck amlenetug, Ono ONO-2808, Teva emrusolmin, Tiziana foralumab, Mayo MSC) found no new developments this week. <b>This round also completed the long-overdue msa-events.json weekly review</b> (last run around 2026-10-03): checked for an announced date for the MSA Trust's next (5th) MSA Symposium and other MSA-specific conference announcements — no 2027 date has been posted yet by any organizer, so <b>no new verifiable information this round</b>; left unchanged. <b>No new entries were added to the site today</b>; today starts a new week (Monday), so weekNewCount resets to 0."
+    }
+  },
+  {
     "date": "2026-11-08",
     "dateDisplay": "2026/11/08",
     "tag": "每日掃描",
