@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-10",
+    "dateDisplay": "2026/11/10",
+    "tag": "每日掃描 · 競品試驗終止",
+    "level": "hot",
+    "body": "上次真正發布為2026-11-09，缺口0天，正常每日掃描。<b>重大更新：Teva於2026/11/02宣布終止Ph2 TOPAS-MSA試驗（emrusolmin／TEV-56286，NCT06568237）</b>，獨立資料監測委員會依期中無效性分析建議停止，未發現安全性疑慮，公司強調僅涉及本試驗、非終止整體開發計畫；已同步更新試驗雷達、在研療法全景、競品試驗結果與總覽焦點共4處。⚠️ 核實時發現CT.gov登錄截至2026-11-05最後更新仍列「Active, not recruiting」、未見終止註記，與新聞稿不一致，已在各處如實並陳。另新增1則科學文獻（PubMed 42980755：印度NIMHANS比較PSP與MSA認知功能之橫斷研究，159人）。CT.gov廣掃（query.cond=multiple+system+atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選，pageSize=40）逐筆核對：近期更新項目均已在站上收錄或為既知之無關誤命中（SMA脊髓性肌肉萎縮症×多筆、肌強直性營養不良、FSHD、前列腺癌、Huntington氏症肌少症等），<b>本次CT.gov無新增競品試驗</b>。已知資產新聞掃描（Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Tiziana foralumab、Ionis ION464）除Teva事件外未發現其他本週新進展。本次未做events.json會議雷達週檢（上次已於2026-11-09完成，未逾週期）。",
+    "en": {
+      "tag": "Daily scan · competitor trial discontinuation",
+      "body": "Last genuine publish was 2026-11-09, a 0-day gap, so this is a normal daily scan. <b>Major update: on 2026/11/02 Teva announced discontinuation of the Phase 2 TOPAS-MSA trial (emrusolmin/TEV-56286, NCT06568237)</b>, with an independent data monitoring committee recommending the stop after an interim futility analysis; no safety concerns were identified, and the company stressed this affects only this trial, not the broader programme. Updated across 4 sections: Trial Radar, Therapy Landscape, Competitive Trial Results and the news overview. ⚠️ On verification, the CT.gov registration was found to still read \"Active, not recruiting\" as of its last update on 2026-11-05, with no termination note — inconsistent with the press release, and recorded as such throughout. Also added 1 paper (PubMed 42980755: a cross-sectional NIMHANS, India study comparing cognition in PSP versus MSA, 159 patients). The CT.gov broad scan (query.cond=multiple+system+atrophy, RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=40) was checked line by line: all recently updated hits were either already on file or known unrelated false positives (spinal muscular atrophy ×several, myotonic dystrophy, FSHD, prostate cancer, Huntington's sarcopenia, etc.) — <b>no new competitor trial this round</b>. A news scan of tracked assets (Alterity ATH434, Lundbeck amlenetug, Ono ONO-2808, Tiziana foralumab, Ionis ION464) found no other developments this week beyond the Teva event. The msa-events.json weekly review was skipped this round (last completed 2026-11-09, not yet due again)."
+    }
+  },
+  {
     "date": "2026-11-09",
     "dateDisplay": "2026/11/09",
     "tag": "每日掃描 · 會議雷達週檢",

@@ -1,5 +1,31 @@
 [
   {
+    "id": "teva-topas-msa-futility-2026-11",
+    "date": "2026-11-02",
+    "dateDisplay": "2026/11",
+    "level": "neg",
+    "tag": "試驗終止 · 期中無效性分析",
+    "body": "<b>Teva 於 2026/11/02 宣布終止 Ph2 TOPAS-MSA 試驗（emrusolmin／TEV-56286，NCT06568237）</b>：獨立資料監測委員會依期中無效性分析建議停止，判定繼續進行達成主要療效終點之機率偏低，<b>未發現安全性疑慮</b>。公司強調此決定僅涉及本試驗、非對 emrusolmin 整體開發計畫之最終決定，將完整分析本試驗與開放標示延伸試驗（NCT07197866）資料後與科學社群分享。",
+    "note": "→ ⚠️ 截至本次掃描，CT.gov 登錄仍列「Active, not recruiting」、未見終止註記或完成日異動，與新聞稿內容尚不一致，詳見 試驗雷達／競品試驗結果 說明。",
+    "links": [
+      {
+        "label": "報導 ↗ RTTNews 2026/11/02",
+        "url": "https://www.rttnews.com/3707293/teva-halts-topas-msa-study-broader-emrusolmin-program-remains-under-review-stock-up.aspx"
+      }
+    ],
+    "en": {
+      "tag": "Trial discontinued · interim futility analysis",
+      "body": "<b>On 2026/11/02 Teva announced it is discontinuing the Phase 2 TOPAS-MSA trial (emrusolmin/TEV-56286, NCT06568237)</b>: an independent data monitoring committee recommended stopping after an interim futility analysis found a low probability of meeting the primary efficacy endpoint, with <b>no safety concerns identified</b>. The company stressed the decision covers only this trial, not a final call on the broader emrusolmin programme, and will share a full analysis of this trial and the open-label extension (NCT07197866) with the scientific community once complete.",
+      "note": "→ ⚠️ As of this scan, the CT.gov registration still reads \"Active, not recruiting\" with no termination note or change to completion dates — inconsistent with the press release; see the Trial Radar / Competitive Trial Results entries.",
+      "links": [
+        {
+          "label": "Coverage ↗ RTTNews 2026/11/02",
+          "url": "https://www.rttnews.com/3707293/teva-halts-topas-msa-study-broader-emrusolmin-program-remains-under-review-stock-up.aspx"
+        }
+      ]
+    }
+  },
+  {
     "id": "biocells-msc-discovered-2026-10",
     "date": "2026-10-14",
     "dateDisplay": "2026/10/14",
@@ -115,40 +141,6 @@
         {
           "label": "EClinicalMedicine paper ↗ PubMed 37256098",
           "url": "https://pubmed.ncbi.nlm.nih.gov/37256098/"
-        }
-      ]
-    }
-  },
-  {
-    "id": "ath434-mds2026-nfl-2026-10",
-    "date": "2026-10-05",
-    "dateDisplay": "2026/10",
-    "level": "pos",
-    "tag": "學會發表 · 試驗讀出",
-    "body": "<b>Alterity 於 MDS 2026 國際大會（首爾）發表 ATH434-201 Ph2 新分析</b>：以基線腦脊髓液 NfL 為共變項調整後，ATH434 50mg 組第52週 modified UMSARS Part I 相對安慰劑之減緩幅度由原頂線 48% 擴大為約 <b>52%</b>（差異 −4.64 分，p=0.032）；吞嚥量表（SDQ）52週變化亦呈顯著差異（50mg 惡化 1.2 分 vs 安慰劑 8.5 分，p=0.003）；QSM 鐵造影見殼核／蒼白球鐵沉積減少趨勢。分析族群為 mITT 61人。",
-    "note": "→ 屬 2025/01 頂線數據之事後生物標記調整分析，非新試驗、未經同儕審查，樣本仍小，詳見 競品試驗結果。",
-    "links": [
-      {
-        "label": "Alterity 新聞稿 ↗ BioSpace 2026/10/05",
-        "url": "https://www.biospace.com/press-releases/alterity-therapeutics-presents-new-analyses-of-ath434-phase-2-data-in-multiple-system-atrophy-at-the-2026-international-congress-of-parkinsons-disease-and-movement-disorders"
-      },
-      {
-        "label": "試驗登錄 ↗ NCT05109091",
-        "url": "https://clinicaltrials.gov/study/NCT05109091"
-      }
-    ],
-    "en": {
-      "tag": "Congress presentation · trial readout",
-      "body": "<b>At the MDS 2026 International Congress (Seoul), Alterity presented a new analysis of the ATH434-201 Ph2 trial</b>: after adjusting for baseline CSF NfL as a covariate, the week-52 slowing on modified UMSARS Part I for the ATH434 50mg arm versus placebo widened from the original 48% topline to roughly <b>52%</b> (−4.64 points, p=0.032); the swallowing scale (SDQ) also showed a significant week-52 difference (50mg worsened 1.2 points vs 8.5 on placebo, p=0.003); QSM iron imaging showed a trend of reduced iron in the putamen and globus pallidus. The analysis population was a modified ITT of 61.",
-      "note": "→ A post-hoc biomarker-adjusted analysis of the 2025/01 topline data, not a new trial, not yet peer-reviewed, and still a small sample — see Competitive Trial Results.",
-      "links": [
-        {
-          "label": "Alterity press release ↗ BioSpace 2026/10/05",
-          "url": "https://www.biospace.com/press-releases/alterity-therapeutics-presents-new-analyses-of-ath434-phase-2-data-in-multiple-system-atrophy-at-the-2026-international-congress-of-parkinsons-disease-and-movement-disorders"
-        },
-        {
-          "label": "Trial registration ↗ NCT05109091",
-          "url": "https://clinicaltrials.gov/study/NCT05109091"
         }
       ]
     }

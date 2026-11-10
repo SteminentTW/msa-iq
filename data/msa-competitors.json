@@ -454,16 +454,16 @@
     "drug": "Emrusolmin（TEV-56286）",
     "mechanism": "標的病理性 α-synuclein 寡聚體（口服）",
     "phase": "Ph2 TOPAS-MSA（NCT06568237）",
-    "status": "收案中；另有延伸試驗 NCT07197866",
+    "status": "<b>2026/11/02 公司宣布終止 TOPAS-MSA 試驗（期中無效性分析）</b>——詳見下方 note；延伸試驗 NCT07197866 登錄仍列收案中",
     "highlight": false,
-    "relevance": "α-syn 路線主要在研者",
-    "note": "→ 多中心雙盲隨機安慰劑對照，48 週治療、每人約 56 週；收臨床可能／很可能 MSA 且能獨立行走 10 公尺者；站點含美國、以色列、義大利、西班牙、德國、法國、日本、塞爾維亞。2025 獲 FDA 快速通道資格。尚無療效讀出。",
+    "relevance": "α-syn 路線主要在研者（近期受挫）",
+    "note": "→ 多中心雙盲隨機安慰劑對照，48 週治療、每人約 56 週；收臨床可能／很可能 MSA 且能獨立行走 10 公尺者；站點含美國、以色列、義大利、西班牙、德國、法國、日本、塞爾維亞。2025 獲 FDA 快速通道資格。<b>2026/11/02 新聞稿：Teva宣布終止 TOPAS-MSA 試驗</b>，獨立資料監測委員會依預先設定之期中無效性分析（futility analysis）建議停止，判定試驗若繼續達成主要療效終點之機率偏低；期中分析<b>未發現安全性疑慮</b>。公司表示屬期中預測性評估、非最終療效分析，<b>僅涉及本試驗、非對 emrusolmin 整體開發計畫之最終決定</b>，將對本試驗與同步進行之開放標示延伸試驗（NCT07197866）現有資料進行完整分析。⚠️ 截至 2026/11/10 掃描，<b>CT.gov 登錄（NCT06568237）仍列「Active, not recruiting」，未見終止註記或完成日異動</b>，與新聞稿內容尚不一致，本站如實並陳。詳見 競品試驗結果。",
     "en": {
       "mechanism": "Targets pathological α-synuclein oligomers (oral)",
       "phase": "Ph2 TOPAS-MSA (NCT06568237)",
-      "status": "Recruiting; extension trial NCT07197866",
-      "relevance": "A leading α-syn-directed programme",
-      "note": "Multicentre, double-blind, randomised, placebo-controlled: 48 weeks of treatment, ~56 weeks per participant; enrols clinically possible/probable MSA able to walk 10 m unaided; sites in the US, Israel, Italy, Spain, Germany, France, Japan and Serbia. FDA Fast Track granted in 2025. No efficacy readout yet.",
+      "status": "<b>Company announced discontinuation of TOPAS-MSA on 2026/11/02 (interim futility analysis)</b> — see note below; the extension trial NCT07197866 registration still lists Recruiting",
+      "relevance": "A leading α-syn-directed programme (recently set back)",
+      "note": "Multicentre, double-blind, randomised, placebo-controlled: 48 weeks of treatment, ~56 weeks per participant; enrols clinically possible/probable MSA able to walk 10 m unaided; sites in the US, Israel, Italy, Spain, Germany, France, Japan and Serbia. FDA Fast Track granted in 2025. <b>Press release, 2026/11/02: Teva announced it is discontinuing the TOPAS-MSA trial</b>; an independent data monitoring committee recommended stopping after a prespecified interim futility analysis found a low probability of meeting the primary efficacy endpoint, with <b>no safety concerns identified</b> in the interim review. The company described this as a predictive interim assessment rather than a final efficacy analysis, <b>affecting only this trial and not representing a final decision on the broader emrusolmin programme</b>, and said it will conduct a comprehensive analysis of this trial together with available data from the concurrent open-label extension (NCT07197866). ⚠️ As of this 2026/11/10 scan, <b>the CT.gov registration (NCT06568237) still reads \"Active, not recruiting\", with no termination note or change to the completion dates</b> — inconsistent with the press release, recorded here as-is. See Competitive Trial Results.",
       "sources": [
         {
           "label": "ClinicalTrials NCT06568237",
@@ -476,6 +476,10 @@
         {
           "label": "Teva Fast Track release, 2025",
           "url": "https://ir.tevapharm.com/news-and-events/press-releases/press-release-details/2025/Tevas-Emrusolmin-Granted-U-S--FDA-Fast-Track-Designation-for-Treatment-of-Multiple-System-Atrophy/default.aspx"
+        },
+        {
+          "label": "TOPAS-MSA discontinuation coverage, RTTNews 2026/11/02",
+          "url": "https://www.rttnews.com/3707293/teva-halts-topas-msa-study-broader-emrusolmin-program-remains-under-review-stock-up.aspx"
         }
       ]
     },
@@ -491,6 +495,10 @@
       {
         "label": "Teva 快速通道新聞稿 2025",
         "url": "https://ir.tevapharm.com/news-and-events/press-releases/press-release-details/2025/Tevas-Emrusolmin-Granted-U-S--FDA-Fast-Track-Designation-for-Treatment-of-Multiple-System-Atrophy/default.aspx"
+      },
+      {
+        "label": "TOPAS-MSA終止報導 ↗ RTTNews 2026/11/02",
+        "url": "https://www.rttnews.com/3707293/teva-halts-topas-msa-study-broader-emrusolmin-program-remains-under-review-stock-up.aspx"
       }
     ]
   },

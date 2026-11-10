@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42980755",
+    "date": "2026-11-04",
+    "dateDisplay": "2026/11/04",
+    "title": "Clinical correlates of cognitive impairment in progressive supranuclear palsy and multiple system atrophy: a comparative neuropsychological study.",
+    "journal": "J Neural Transm (Vienna) 2026（線上先行）doi:10.1007/s00702-026-03322-w · Athira PM、Kumar KJ、Yadav R 等（印度 NIMHANS）",
+    "tag": "認知功能 · PSP vs MSA 比較神經心理學",
+    "highlight": false,
+    "note": "→ 橫斷研究，印度單一中心收案159人（PSP 98人、MSA 61人），以FAB、MoCA、ACE-III與NIMHANS神經心理測驗組（NNBE）評估認知。年齡調整後，<b>PSP在FAB、MoCA、ACE-III總分及流暢性、注意力、視覺空間建構、視覺空間工作記憶等多項分測驗均顯著低於MSA</b>。PSP組認知表現與教育程度、運動嚴重度（UPDRS-III、PSPRS）及情緒狀態相關；<b>MSA組認知僅與教育程度及多語能力相關，與運動或症狀嚴重度無顯著關聯</b>。作者結論：MSA病人之認知較取決於病前存量（教育、多語）而非疾病嚴重度，常規認知篩檢可助鑑別診斷。屬自然史／鑑別診斷資料，非藥物療效試驗。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42980755/",
+    "urlLabel": "論文 ↗ PubMed 42980755",
+    "en": {
+      "tag": "Cognition · comparative PSP vs MSA neuropsychology",
+      "journal": "J Neural Transm (Vienna) 2026 (online ahead of print), doi:10.1007/s00702-026-03322-w · Athira PM, Kumar KJ, Yadav R, et al. (NIMHANS, India)",
+      "note": "→ A cross-sectional study at a single Indian centre enrolling 159 patients (98 PSP, 61 MSA), assessing cognition with the FAB, MoCA, ACE-III and the NIMHANS Neuropsychology Battery for the elderly (NNBE). After age adjustment, <b>PSP scored significantly lower than MSA on FAB, MoCA, ACE-III total, and on fluency, attention, visuospatial construction and visuospatial working memory measures</b>. In PSP, cognitive performance correlated with education, motor severity (UPDRS-III, PSPRS) and mood; <b>in MSA, cognition correlated only with education and multilingualism, with no significant link to motor or symptom severity</b>. The authors conclude that cognition in MSA tracks premorbid reserve (education, multilingualism) more closely than disease severity, and that routine cognitive screening may aid differential diagnosis. Natural-history/differential-diagnosis data, not a drug efficacy trial.",
+      "urlLabel": "Paper ↗ PubMed 42980755"
+    }
+  },
+  {
     "id": "pubmed:42995451",
     "date": "2026-11-06",
     "dateDisplay": "2026/11/06",

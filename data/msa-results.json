@@ -1,5 +1,51 @@
 [
   {
+    "id": "teva-topas-msa-futility-2026-11",
+    "date": "2026-11-02",
+    "dateDisplay": "2026/11",
+    "competitor": "Teva",
+    "drug": "Emrusolmin（TEV-56286）",
+    "trial": "NCT06568237 · Ph2 TOPAS-MSA（隨機雙盲安慰劑對照）",
+    "sourceType": "新聞稿",
+    "level": "neg",
+    "readout": "Teva 於 2026/11/02 宣布終止 Ph2 TOPAS-MSA 試驗：獨立資料監測委員會（IDMC）依預先設定之<b>期中無效性分析（futility analysis）</b>建議停止，判定試驗若繼續達成主要療效終點之機率偏低。公司表示此為<b>期中預測性評估、非最終療效分析</b>，期中分析<b>未發現安全性疑慮</b>。公司將對 TOPAS-MSA 資料與同步進行之開放標示延伸試驗（NCT07197866）現有資料進行完整分析，待完成後與科學社群分享結果；公司聲明此決定<b>僅涉及 TOPAS-MSA 一項試驗，非對 emrusolmin 整體開發計畫之最終決定</b>。⚠️ 截至本次掃描（2026/11/10），ClinicalTrials.gov 登錄（NCT06568237）本身<b>仍列為「Active, not recruiting」，登錄於 2026-11-05 更新，惟未見終止註記（WhyStopped）或完成日異動（主要完成日／試驗完成日均仍為 2027-09-15）</b>，公開新聞與登錄現狀尚不一致，本站如實並陳、不代為判斷。延伸試驗 NCT07197866 登錄（2026-10-09 更新）亦仍列收案中。公開報導未揭露具體期中療效數字或統計量。",
+    "implication": "→ MSA 領域 α-synuclein 小分子／寡聚體標的路線再添一個期中失利案例（繼 Biohaven verdiperstat 2021 Ph3 未達終點、Takeda TAK-341 2025 Ph2 樞紐失敗），惟屬期中無效性停止而非完整 Ph3 讀出，且公司明確區分「單一試驗停止」與「計畫終止」；後續是否影響 emrusolmin 整體開發方向待公司完整分析公布後觀察。",
+    "links": [
+      {
+        "label": "報導 ↗ RTTNews 2026/11/02",
+        "url": "https://www.rttnews.com/3707293/teva-halts-topas-msa-study-broader-emrusolmin-program-remains-under-review-stock-up.aspx"
+      },
+      {
+        "label": "試驗登錄 ↗ NCT06568237",
+        "url": "https://clinicaltrials.gov/study/NCT06568237"
+      },
+      {
+        "label": "延伸試驗登錄 ↗ NCT07197866",
+        "url": "https://clinicaltrials.gov/study/NCT07197866"
+      }
+    ],
+    "en": {
+      "trial": "NCT06568237 · Ph2 TOPAS-MSA (randomised, double-blind, placebo-controlled)",
+      "sourceType": "Press release",
+      "readout": "On 2026/11/02 Teva announced it is discontinuing the Phase 2 TOPAS-MSA trial: an independent data monitoring committee (IDMC) recommended stopping after a prespecified <b>interim futility analysis</b> found a low probability the study would meet its primary efficacy endpoint if continued. The company described this as a <b>predictive interim assessment, not a final efficacy analysis</b>, and reported <b>no safety concerns identified</b> in the interim review. Teva plans a comprehensive analysis of the TOPAS-MSA data together with available data from the concurrent open-label extension study (NCT07197866), and intends to share findings with the scientific community once complete; the company stated the decision <b>covers only TOPAS-MSA and is not a final decision on the broader emrusolmin development programme</b>. ⚠️ As of this scan (2026/11/10), the ClinicalTrials.gov registration (NCT06568237) itself <b>still reads \"Active, not recruiting\", last updated 2026-11-05, with no termination note (WhyStopped) or change to the completion dates (primary/study completion both remain 2027-09-15)</b> — inconsistent with the press coverage, and this site records both without resolving the discrepancy. The extension trial NCT07197866 registration (updated 2026-10-09) also still lists Recruiting. No specific interim efficacy figures or statistics have been disclosed publicly.",
+      "implication": "→ Another interim setback for the alpha-synuclein small-molecule/oligomer-targeting route in MSA, following Biohaven's verdiperstat (2021 Ph3 miss) and Takeda's TAK-341 (2025 pivotal Ph2 failure) — though this is a futility-driven stop rather than a completed Ph3 readout, and the company explicitly distinguishes \"stopping one trial\" from \"ending the programme\"; whether this affects the broader emrusolmin development direction remains to be seen once the company's full analysis is released.",
+      "links": [
+        {
+          "label": "Coverage ↗ RTTNews 2026/11/02",
+          "url": "https://www.rttnews.com/3707293/teva-halts-topas-msa-study-broader-emrusolmin-program-remains-under-review-stock-up.aspx"
+        },
+        {
+          "label": "Trial registration ↗ NCT06568237",
+          "url": "https://clinicaltrials.gov/study/NCT06568237"
+        },
+        {
+          "label": "Extension trial registration ↗ NCT07197866",
+          "url": "https://clinicaltrials.gov/study/NCT07197866"
+        }
+      ]
+    }
+  },
+  {
     "id": "ath434-mds2026-nfl",
     "date": "2026-10-05",
     "dateDisplay": "2026/10",

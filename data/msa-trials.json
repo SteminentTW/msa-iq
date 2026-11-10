@@ -271,7 +271,7 @@
     "drug": "Emrusolmin（TEV-56286）",
     "mechanism": "α-synuclein 寡聚體標的",
     "phase": "Ph2（TOPAS-MSA）",
-    "status": "已停止收案、試驗進行中（登錄於2026-10-09更新為此狀態）。【2026-11-03 更新】登錄張貼<b>實際收案 349 人</b>（ACTUAL），主要完成日與試驗完成日均維持 2027-09-15",
+    "status": "已停止收案、試驗進行中（登錄於2026-10-09更新為此狀態）。【2026-11-03 更新】登錄張貼<b>實際收案 349 人</b>（ACTUAL），主要完成日與試驗完成日均維持 2027-09-15。【2026-11-10 更新】<b>Teva於2026/11/02新聞稿宣布終止本試驗</b>：獨立資料監測委員會依期中無效性分析（futility analysis）建議停止，判定主要療效終點達標機率偏低，期中分析<b>未發現安全性疑慮</b>；公司稱此屬期中預測性評估、非最終療效分析，僅涉及TOPAS-MSA一項試驗、非對emrusolmin整體開發計畫之最終決定。⚠️ <b>CT.gov登錄本身截至2026-11-05最後更新仍列「Active, not recruiting」，未見終止註記（WhyStopped）或完成日異動</b>，與新聞稿內容尚不一致，本站如實並陳、不代為判斷；若登錄後續更新為Terminated/Stopped將再同步。詳見 競品試驗結果。",
     "sponsor": "Teva",
     "cell": false,
     "primary": "2027-09-15",
@@ -279,7 +279,7 @@
     "en": {
       "mechanism": "Targets α-synuclein oligomers",
       "phase": "Ph2 (TOPAS-MSA)",
-      "status": "Active, not recruiting (registration updated to this status on 2026-10-09). [Update 2026-11-03] The registry now posts <b>actual enrolment of 349</b> (ACTUAL); primary and study completion dates both remain 2027-09-15",
+      "status": "Active, not recruiting (registration updated to this status on 2026-10-09). [Update 2026-11-03] The registry now posts <b>actual enrolment of 349</b> (ACTUAL); primary and study completion dates both remain 2027-09-15. [Update 2026-11-10] <b>Teva announced on 2026/11/02 that it is discontinuing this study</b>: an independent data monitoring committee recommended stopping after a prespecified interim futility analysis found a low probability of meeting the primary efficacy endpoint, with <b>no safety concerns identified</b> in the interim review; the company described this as a predictive interim assessment rather than a final efficacy analysis, affecting only TOPAS-MSA and not representing a final decision on the broader emrusolmin programme. ⚠️ <b>As of its last update on 2026-11-05, the CT.gov registration itself still reads \"Active, not recruiting\", with no termination note (WhyStopped) or change to the completion dates</b> — this is inconsistent with the press release, and this site records both without resolving the discrepancy; it will be updated again if the registration is changed to Terminated/Stopped. See Competitive Trial Results.",
       "sponsor": "Teva"
     }
   },
