@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-12",
+    "dateDisplay": "2026/11/12",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "上次真正發布為2026-11-11，缺口1天（今日），正常每日掃描，無需補跑。PubMed「multiple system atrophy」[Title]近7天查詢命中2筆（PubMed 42995451、42984461），均已收錄於既有文獻清單，<b>本次無新增文獻</b>。CT.gov廣掃（query.cond=multiple+system+atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選，pageSize=40，依最後更新排序）逐筆核對：近7天內更新項目除Teva TOPAS-MSA（NCT06568237，已收錄）外，均為「atrophy」關鍵字誤命中之無關疾病（脊髓性肌肉萎縮症SMA、肌強直性營養不良、原發性纖毛不動症、FSHD）、非MSA專屬之廣泛生物庫登記、自主神經衰竭CPAP裝置試驗（非藥物介入）、安寧支持性照護計畫（非療法），或先前已核對排除之PSP保健品試驗（NCT07863180，post-biotic短鏈脂肪酸補充劑），<b>本次CT.gov無新增競品試驗</b>。已知資產新聞掃描（Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva emrusolmin、Tiziana foralumab、Ionis ION464、Mayo MSC）查得內容均為本站已收錄之既有事實（Teva終止TOPAS-MSA、Lundbeck AMULET Ph2未達主要終點等），<b>無近7天內新增可查證進展</b>。msa-events.json會議雷達週檢上次已於2026-11-09完成，未逾週期，本次跳過。<b>本次全站無新增資料筆目</b>，weekNewCount維持2。",
+    "en": {
+      "tag": "Daily scan",
+      "body": "Last genuine publish was 2026-11-11, a 1-day gap (today), within the normal single-day scan — no backfill needed. PubMed's \"multiple system atrophy\"[Title] 7-day query returned 2 hits (PubMed 42995451, 42984461), both already on file — <b>no new paper added this round</b>. The CT.gov broad scan (query.cond=multiple+system+atrophy, RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=40, sorted by last update) was checked line by line: aside from Teva's TOPAS-MSA (NCT06568237, already recorded), every item updated in the past 7 days was either a false positive on the \"atrophy\" keyword for an unrelated disease (spinal muscular atrophy, myotonic dystrophy, primary ciliary dyskinesia, FSHD), a broad non-MSA-specific biorepository registry, the autonomic-failure CPAP device trial (not a drug intervention), a palliative supportive-care program (not a therapy), or the previously excluded PSP supplement trial (NCT07863180, a post-biotic short-chain-fatty-acid supplement) — so <b>no new competitor trial was added this round</b>. A news scan of tracked assets (Alterity ATH434, Lundbeck amlenetug, Ono ONO-2808, Teva emrusolmin, Tiziana foralumab, Ionis ION464, Mayo MSC) surfaced only facts already recorded on this site (Teva's TOPAS-MSA discontinuation, Lundbeck's AMULET Phase 2 missing its primary endpoint, etc.) — <b>no verifiable development within the past 7 days</b>. The msa-events.json weekly conference review was last completed 2026-11-09 and is not yet due again, so it was skipped this round. <b>No new entries were added to the site today</b>; weekNewCount remains at 2."
+    }
+  },
+  {
     "date": "2026-11-11",
     "dateDisplay": "2026/11/11",
     "tag": "每日掃描",
