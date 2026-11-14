@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-14",
+    "dateDisplay": "2026/11/14",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "上次真正發布為2026-11-13，缺口0天，正常每日掃描、無需補跑。ClinicalTrials.gov廣掃（query.cond=multiple system atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING，近40筆）、PubMed「multiple system atrophy」[Title]近10天、公司新聞（Alterity、Lundbeck、Teva、Ono、Tiziana、Ionis）均未發現符合「真正新」三項條件（近7天內、平台尚未記錄、可查證來源）之新增內容。廣掃中一筆新登錄試驗（NCT07863180，Tributyrin，密西根大學）雖將MSA列為條件標籤，但登錄納入條件僅限PSP-Richardson症候群，實際未收MSA病人，依手冊排除標準不予收錄。會議雷達週檢上次為2026-11-09，本次間隔未滿一週，不重複查核。",
+    "en": {
+      "tag": "Daily scan",
+      "body": "Last confirmed publish was 2026-11-13, a 0-day gap, so this was a routine daily scan with no backfill needed. A ClinicalTrials.gov broad sweep (query.cond=multiple system atrophy, RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, ~40 records), a PubMed \"multiple system atrophy\"[Title] 10-day search, and company-news checks (Alterity, Lundbeck, Teva, Ono, Tiziana, Ionis) found nothing meeting the three-part \"genuinely new\" test (within 7 days, not already recorded, verifiable source). One newly registered trial in the sweep (NCT07863180, Tributyrin, University of Michigan) tags MSA as a condition, but its actual eligibility criteria enrol only PSP-Richardson syndrome patients, not MSA, so per the manual's exclusion rule it was not added. The weekly events-radar check last ran 2026-11-09, under a week ago, so it was not repeated today."
+    }
+  },
+  {
     "date": "2026-11-12",
     "dateDisplay": "2026/11/12",
     "tag": "每日掃描",
