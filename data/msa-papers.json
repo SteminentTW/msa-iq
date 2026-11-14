@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:43017225",
+    "date": "2026-10-28",
+    "dateDisplay": "2026/10/28",
+    "title": "Alterations of peripheral blood lymphocyte subsets and plasma cytokines in Parkinson's disease and the parkinsonian subtype of multiple system atrophy.",
+    "journal": "Front Aging Neurosci 2026;18:1990723 · Taximaimaiti R、Cai S、Li H（中國・新疆維吾爾自治區人民醫院）",
+    "tag": "周邊免疫 · 生物標記 · MSA-P vs PD 鑑別",
+    "highlight": false,
+    "note": "→ 單中心觀察性研究（2025/05–2026/08），收案 PD 120人、MSA-P 45人、健康對照 119人，比較周邊血淋巴球亞群與血漿細胞激素。在臨床表現相近時，<b>MSA-P 之 CD4⁻CD8⁻（雙陰性）T 細胞數量與比例及 IL-2 顯著高於 PD</b>，雙陰性 T 細胞以 5 折交叉驗證 ROC 區分 MSA-P 與 PD 之表現良好，且與臨床指標無顯著相關。作者明言結論仍待進一步驗證。屬鑑別診斷／免疫生物標記資料，非藥物療效試驗。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43017225/",
+    "urlLabel": "論文 ↗ PubMed 43017225",
+    "en": {
+      "tag": "Peripheral immunity · biomarker · MSA-P vs PD differentiation",
+      "journal": "Front Aging Neurosci 2026;18:1990723 · Taximaimaiti R, Cai S, Li H (People's Hospital of Xinjiang Uygur Autonomous Region, China)",
+      "note": "→ A single-centre observational study (May 2025–Aug 2026) of 120 PD patients, 45 MSA-P patients and 119 healthy controls comparing peripheral blood lymphocyte subsets and plasma cytokines. With comparable clinical presentation, <b>MSA-P patients had significantly higher counts and percentages of CD4⁻CD8⁻ (double-negative) T cells and higher IL-2 than PD patients</b>; double-negative T cells showed satisfactory discrimination of MSA-P from PD on 5-fold cross-validated ROC analysis and did not correlate significantly with clinical indicators. The authors state the conclusions require further validation. Differential-diagnosis/immune-biomarker data, not a drug efficacy trial.",
+      "urlLabel": "Paper ↗ PubMed 43017225"
+    }
+  },
+  {
+    "id": "pubmed:43014729",
+    "date": "2026-11-01",
+    "dateDisplay": "2026/11",
+    "title": "[Cognitive Impairment and Pathophysiology in Multiple System Atrophy].",
+    "journal": "Brain Nerve 2026;78(11):1225-1230（日文）· Miki Y、Wakabayashi K（日本・弘前大學神經病理學）",
+    "tag": "認知功能 · 神經病理綜述",
+    "highlight": false,
+    "note": "→ 日文綜述：近年臨床病理研究顯示，MSA 病人除小腦性共濟失調、巴金森症狀與自主神經失調外，<b>也常合併認知障礙</b>。文章整理 MSA 的特徵性病理，並回顧認知障礙之病理基礎與合併病理（concomitant pathologies）對認知之影響的最新進展。屬病理機轉綜述，非藥物療效試驗。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43014729/",
+    "urlLabel": "論文 ↗ PubMed 43014729",
+    "en": {
+      "tag": "Cognition · neuropathology review",
+      "journal": "Brain Nerve 2026;78(11):1225-1230 (Japanese) · Miki Y, Wakabayashi K (Department of Neuropathology, Hirosaki University, Japan)",
+      "note": "→ A Japanese-language review: recent clinicopathological studies show that MSA patients <b>frequently have cognitive impairment</b> in addition to cerebellar ataxia, parkinsonism and autonomic dysfunction. The article summarises the characteristic pathology of MSA and reviews recent advances on the pathological basis of cognitive impairment and the impact of concomitant pathologies on cognition. A pathophysiology review, not a drug efficacy trial.",
+      "urlLabel": "Paper ↗ PubMed 43014729"
+    }
+  },
+  {
     "id": "pubmed:42980755",
     "date": "2026-11-04",
     "dateDisplay": "2026/11/04",
