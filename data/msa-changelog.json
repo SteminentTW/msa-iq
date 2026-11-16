@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-16",
+    "dateDisplay": "2026/11/16",
+    "tag": "每日掃描 · 新增文獻",
+    "level": "info",
+    "body": "PubMed「multiple system atrophy」[Title]近7天新增2則文獻：(1) MSA皮質巨觀與微結構MRI改變及其臨床相關（Mov Disord，巴塞隆納大學／IDIBAPS，PMID 43036148）——皮質平均擴散率上升與認知障礙相關、皮質變薄與嚴重度相關；(2) 靜息態EEG頻譜功率與功能連結改變（NPJ Parkinsons Dis，上海瑞金醫院，PMID 43035555）——EEG特徵可區分MSA-C／MSA-P並預測UMSARS進展。兩則均為生物標記研究、非療效試驗。CT.gov無新增MSA試驗。",
+    "en": {
+      "tag": "Daily scan · new literature",
+      "body": "PubMed's \"multiple system atrophy\"[Title] 7-day query added 2 papers: (1) cortical macro- and microstructural MRI changes in MSA and their clinical correlates (Mov Disord, University of Barcelona/IDIBAPS, PMID 43036148) — higher cortical mean diffusivity tracked cognitive impairment and cortical thinning tracked severity; (2) resting-state EEG spectral power and connectivity changes (NPJ Parkinsons Dis, Ruijin Hospital Shanghai, PMID 43035555) — EEG features classified MSA-C vs MSA-P and predicted UMSARS progression. Both are biomarker studies, not efficacy trials. No new MSA trials on CT.gov."
+    }
+  },
+  {
     "date": "2026-11-14",
     "dateDisplay": "2026/11/14",
     "tag": "每日掃描 · 新增文獻",

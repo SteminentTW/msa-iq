@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:43036148",
+    "date": "2026-11-15",
+    "dateDisplay": "2026/11/15",
+    "title": "Cortical Macro- and Microstructural Alterations in Multiple System Atrophy and Their Clinical Correlates.",
+    "journal": "Mov Disord 2026（線上優先）doi:10.1002/mds.70602 · Pardo J、Montal V、Segura B 等（西班牙・巴塞隆納大學／IDIBAPS／Hospital Clínic）",
+    "tag": "影像生物標記 · 皮質微結構 · 認知",
+    "highlight": false,
+    "note": "→ 橫斷面 MRI 研究：MSA 病人 29 人、年齡性別配對健康對照 35 人，以皮質厚度（CTh）評估巨觀結構、皮質平均擴散率（cMD）評估微結構。<b>MSA 呈現廣泛 cMD 上升（以額葉、顳葉為主），範圍部分超出皮質變薄區域；cMD 上升與整體認知障礙相關，皮質變薄則與疾病嚴重度相關</b>（FDR 校正 P&lt;0.05）。作者認為微結構改變可能早於明顯萎縮。屬影像生物標記研究、樣本數小，非藥物療效試驗。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43036148/",
+    "urlLabel": "論文 ↗ PubMed 43036148",
+    "en": {
+      "tag": "Imaging biomarker · cortical microstructure · cognition",
+      "journal": "Mov Disord 2026 (online ahead of print) doi:10.1002/mds.70602 · Pardo J, Montal V, Segura B et al. (University of Barcelona / IDIBAPS / Hospital Clínic, Spain)",
+      "note": "→ A cross-sectional MRI study of 29 MSA patients and 35 age- and sex-matched controls, using cortical thickness (CTh) for macrostructure and cortical mean diffusivity (cMD) for microstructure. <b>MSA showed widespread cMD increases (mainly frontal and temporal) extending partly beyond areas of cortical thinning; higher cMD was associated with global cognitive impairment, while cortical thinning correlated with disease severity</b> (FDR-corrected P&lt;0.05). The authors suggest microstructural change may precede overt atrophy. An imaging-biomarker study with a small sample, not a drug efficacy trial.",
+      "urlLabel": "Paper ↗ PubMed 43036148"
+    }
+  },
+  {
+    "id": "pubmed:43035555",
+    "date": "2026-07-24",
+    "dateDisplay": "2026/07/24",
+    "title": "Spectral power and functional connectivity alterations in multiple system atrophy revealed by resting-state EEG.",
+    "journal": "NPJ Parkinsons Dis 2026;12(1):284 · Wang C、Zhu X、Liu J 等（中國・上海交通大學醫學院附屬瑞金醫院）",
+    "tag": "腦電圖生物標記 · 亞型分類 · 病程預測",
+    "highlight": false,
+    "note": "→ 收集健康對照 69 人與 MSA 病人 123 人（發現世代 97 人、獨立驗證世代 26 人）之靜息態 EEG 與 fMRI。<b>MSA 於小腦、額頂等網路 delta 功率下降、theta 與高 gamma 功率廣泛上升，多個網路之 alpha／beta／gamma 頻段連結下降</b>，並與 fMRI 連結結果一致；可解釋之堆疊模型可區分 MSA-C 與 MSA-P 亞型，並於縱向追蹤中預測 UMSARS 進展。作者結論 EEG 有潛力作為疾病監測生物標記。PubMed 於 2026/11 收錄（期刊刊出日 2026/07/24）。屬生物標記研究，非藥物療效試驗。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43035555/",
+    "urlLabel": "論文 ↗ PubMed 43035555",
+    "en": {
+      "tag": "EEG biomarker · subtype classification · progression prediction",
+      "journal": "NPJ Parkinsons Dis 2026;12(1):284 · Wang C, Zhu X, Liu J et al. (Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, China)",
+      "note": "→ Resting-state EEG and fMRI from 69 healthy controls and 123 MSA patients (97 in a discovery cohort, 26 in an independent validation cohort). <b>MSA showed reduced delta power in cerebellar, frontoparietal and other networks, widespread increases in theta and high-gamma power, and decreased alpha/beta/gamma connectivity across multiple networks</b>, consistent with fMRI connectivity; interpretable stacking models classified MSA-C vs MSA-P and predicted UMSARS progression in longitudinal follow-up. The authors conclude EEG is a promising biomarker for disease monitoring. Indexed in PubMed in 2026/11 (journal publication date 2026/07/24). A biomarker study, not a drug efficacy trial.",
+      "urlLabel": "Paper ↗ PubMed 43035555"
+    }
+  },
+  {
     "id": "pubmed:43017225",
     "date": "2026-10-28",
     "dateDisplay": "2026/10/28",
