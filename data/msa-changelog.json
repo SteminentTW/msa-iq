@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-11-16",
+    "dateDisplay": "2026/11/16",
+    "tag": "每日掃描 · 新增文獻",
+    "level": "info",
+    "body": "上次真正發布為2026-11-15，缺口1天，屬正常每日掃描、無需補跑。PubMed「multiple system atrophy」[Title]近7天查詢新增1則文獻：皮質巨觀與微觀結構異常之MRI研究（Mov Disord，2026/11/15線上，巴塞隆納大學IDIBAPS／Hospital Clínic，PMID 43036148）——29名MSA患者對35名健康對照，皮質平均擴散率廣泛上升（額顳葉為主）與整體認知功能下降相關，皮質變薄則與疾病嚴重度相關，已收錄文獻雷達。CT.gov廣掃（query.cond=multiple+system+atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選，pageSize=40，依最後更新排序）逐筆核對近7天內更新項目：NCT03047369（罕病白質疾病生物資料庫，無MSA專屬介入）、NCT05222386（帕金森光譜疾病安寧照護支持型研究，非藥物／生物製劑介入）、NCT03312556（自主神經衰竭CPAP試驗，條件未標示MSA）均不符合收錄準則；既有收錄之Teva TOPAS-MSA（NCT06568237）登錄本身截至2026-11-05最後更新仍無異動，<b>本次CT.gov無新增競品試驗</b>。公司/產業新聞WebSearch（Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva emrusolmin、Tiziana foralumab、Ionis ION464）查得內容均為本站已收錄之既有事實或更早期新聞，<b>無近7天內新增可查證進展</b>。本次commit依本session環境git政策推送至開發分支 claude/eager-ramanujan-ul22is（非main），正式上線（Pages／main）需另經合併；上次main發布為2026-11-15（1天前已與分支同步）。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan · new literature",
+      "body": "Last genuine publish was 2026-11-15, a 1-day gap — a normal daily scan, no backfill needed. PubMed's \"multiple system atrophy\"[Title] query (last 7 days) added 1 paper: an MRI study of cortical macro- and microstructural alterations (Mov Disord, online 2026/11/15, University of Barcelona IDIBAPS / Hospital Clínic, PMID 43036148) — in 29 MSA patients vs. 35 healthy controls, widespread increases in cortical mean diffusivity (frontal/temporal-predominant) correlated with global cognitive decline, while cortical thinning correlated with disease severity; added to the literature radar. A CT.gov broad scan (query.cond=multiple+system+atrophy, filtered to RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=40, sorted by last-update date) was checked item by item for updates in the last 7 days: NCT03047369 (a rare leukodystrophy biorepository with no MSA-specific intervention), NCT05222386 (a palliative-care support study across the Parkinsonian spectrum, not a drug/biologic intervention) and NCT03312556 (a CPAP trial for autonomic failure, condition not labeled MSA) all failed the inclusion criteria; the existing Teva TOPAS-MSA entry (NCT06568237) shows no change to its registration as of its last update on 2026-11-05 — <b>no new competitor trials this scan</b>. Company/industry news WebSearch (Alterity ATH434, Lundbeck amlenetug, Ono ONO-2808, Teva emrusolmin, Tiziana foralumab, Ionis ION464) surfaced only facts already recorded on this site or older news — <b>no new verifiable developments in the last 7 days</b>. Per this session's git policy, today's commit was pushed to the development branch claude/eager-ramanujan-ul22is (not main); going live (Pages/main) requires a separate merge. The last publish to main was 2026-11-15 (the branch was in sync with main as of 1 day ago)."
+    }
+  },
+  {
     "date": "2026-11-14",
     "dateDisplay": "2026/11/14",
     "tag": "每日掃描 · 新增文獻",

@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:43036148",
+    "date": "2026-11-15",
+    "dateDisplay": "2026/11/15",
+    "title": "Cortical Macro- and Microstructural Alterations in Multiple System Atrophy and Their Clinical Correlates",
+    "journal": "Mov Disord（2026/11/15 線上）· Pardo J 等（巴塞隆納大學 IDIBAPS／Hospital Clínic）",
+    "tag": "影像生物標記 · 皮質結構",
+    "highlight": false,
+    "note": "→ 29 名 MSA 患者對 35 名年齡性別匹配健康對照之 MRI 研究：MSA 呈現<b>廣泛皮質平均擴散率（cMD）上升</b>，以額葉、顳葉為主，部分區域與皮質變薄（CTh）重疊，但 cMD 異常範圍更廣（延伸至喙側外側、喙側內側、下內側皮質）。<b>cMD 上升與整體認知功能下降相關，皮質變薄則與疾病嚴重度相關</b>。作者結論：微結構變化可能早於肉眼可見之皮質萎縮出現，提示為早期病理指標；cMD 與 CTh 反映部分獨立的病理過程，具互補診斷/研究價值。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43036148/",
+    "urlLabel": "論文 ↗ PubMed 43036148",
+    "en": {
+      "journal": "Mov Disord (online 2026/11/15) · Pardo J et al. (University of Barcelona IDIBAPS / Hospital Clínic)",
+      "tag": "Imaging biomarker · cortical structure",
+      "note": "→ An MRI study of 29 MSA patients vs. 35 age- and sex-matched healthy controls: MSA showed <b>widespread increases in cortical mean diffusivity (cMD)</b>, predominantly in frontal and temporal cortices, partially overlapping with cortical thinning (CTh) but extending further (to rostral-lateral, rostral-medial and inferior-medial regions). <b>Increased cMD correlated with global cognitive impairment, while cortical thinning correlated with disease severity.</b> The authors conclude that microstructural changes may precede overt cortical atrophy, indicating early pathology; cMD and CTh appear to reflect partially independent degenerative processes with complementary diagnostic/research value.",
+      "urlLabel": "Paper ↗ PubMed 43036148"
+    }
+  },
+  {
     "id": "pubmed:43017225",
     "date": "2026-10-28",
     "dateDisplay": "2026/10/28",
