@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-17",
+    "dateDisplay": "2026/11/17",
+    "tag": "每日掃描 · 會議雷達週檢",
+    "level": "info",
+    "body": "上次真正發布為2026-11-16，缺口0天，正常每日掃描。ClinicalTrials.gov廣掃（query.cond=multiple+system+atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選，pageSize=40，依最後更新排序）逐筆核對本次40筆命中：三筆MSA相關項目（NCT06891703、NCT07604116、NCT07518810）均已收錄，其餘均為先前已排除之「atrophy」關鍵字誤命中（SMA、FSHD、肌強直性營養不良、原發性纖毛不動症等）或非介入性觀察/登記研究，<b>本次CT.gov無新增競品試驗</b>。PubMed「multiple system atrophy」[Title]近7天查得1筆（PMID 43036148），已收錄於既有文獻清單，<b>本次無新增文獻</b>。已知資產新聞掃描（Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva emrusolmin、Tiziana foralumab、Ionis ION464、Mayo MSC）查得內容均為本站已收錄之既有事實或超出近7天時間窗（如Alterity CEO將於11/19出席線上研討會，屬未來行程、非既成進展），<b>無近7天內新增可查證進展</b>。<b>本次補做msa-events.json會議雷達週檢</b>（上次完成於2026-11-09，已逾一週）：查核MSA Trust下屆MSA Symposium、International MSA Congress 2027（Dallas）官網，均未見新公告或異動；另查得MSA Trust「MSA Study Day 2027」（2027/03/11，英國伯明罕），惟該活動性質為醫療／照護專業人員教育訓練日，非本雷達既有收錄之科學研究/產業發表型會議，依既有收錄準則不予新增。<b>本次全站無新增資料筆目</b>，weekNewCount維持2。",
+    "en": {
+      "tag": "Daily scan · events radar weekly review",
+      "body": "Last genuine publish was 2026-11-16, a 0-day gap, so this is a normal daily scan. The CT.gov broad scan (query.cond=multiple+system+atrophy, RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=40, sorted by last update) was checked line by line: the 3 MSA-relevant hits (NCT06891703, NCT07604116, NCT07518810) were all already on file, and every other hit was a previously excluded \"atrophy\" keyword false positive (SMA, FSHD, myotonic dystrophy, primary ciliary dyskinesia, etc.) or a non-interventional observational/registry study — <b>no new competitor trial was added this round</b>. PubMed's \"multiple system atrophy\"[Title] 7-day query returned 1 hit (PMID 43036148), already on file — <b>no new paper added this round</b>. A news scan of tracked assets (Alterity ATH434, Lundbeck amlenetug, Ono ONO-2808, Teva emrusolmin, Tiziana foralumab, Ionis ION464, Mayo MSC) surfaced only facts already recorded here or items outside the 7-day window (e.g. Alterity's CEO is scheduled to speak at a virtual conference on 11/19 — a future event, not a completed development) — <b>no new verifiable development within the past 7 days</b>. <b>This round also completed the overdue msa-events.json weekly review</b> (last done 2026-11-09, over a week ago): checked the MSA Trust's next MSA Symposium and the International MSA Congress 2027 (Dallas) websites for updates — none found; also found the MSA Trust's \"MSA Study Day 2027\" (2027/03/11, Birmingham, UK), but this is a healthcare/care-professional training day rather than the scientific-research/industry-presentation type of event this radar tracks, so per the existing inclusion convention it was not added. <b>No new entries were added to the site today</b>; weekNewCount remains at 2."
+    }
+  },
+  {
     "date": "2026-11-16",
     "dateDisplay": "2026/11/16",
     "tag": "每日掃描 · 新增文獻",
