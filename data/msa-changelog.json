@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-18",
+    "dateDisplay": "2026/11/18",
+    "tag": "每日掃描 · 新增文獻",
+    "level": "info",
+    "body": "上次真正發布為2026-11-17，缺口0天，正常每日掃描。PubMed「multiple system atrophy」[Title]近7天新增1則文獻：MSA-C縱向概念驗證造影研究（Cerebellum，麻省總醫院／哈佛醫學院，PMID 43043506）——3名MSA-C病人每月MRI追蹤6個月，橋腦體積平均每月流失約0.88%，1.3–2.9個月左右即可偵測出超過測量誤差之體積流失，提示短週期結構造影可作為進展監測生物標記；樣本數極小（n=3），屬概念驗證研究非療效試驗。ClinicalTrials.gov廣掃（query.cond=multiple+system+atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING，pageSize=40）與已知資產藥名查詢（ATH434、amlenetug、ONO-2808、emrusolmin、foralumab、ION464）逐筆核對，命中之MSA相關試驗均已收錄於既有清單，僅查得2筆已結案逾1年之ATH434舊試驗（NCT05109091、NCT05864365）未入檔，因不在近7天時間窗內且非現行主線試驗，依準則不列入新增，<b>本次CT.gov無新增競品試驗</b>。已知資產新聞掃描（Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva emrusolmin、Tiziana foralumab）查得內容（Teva TOPAS-MSA期中無效中止、Lundbeck MASCOT期3基線數據、Alterity FDA三期設計共識等）均為本站已收錄之既有事實，Mayo MSC與Ionis ION464未查得近期新進展，<b>無近7天內新增可查證競品進展</b>。msa-events.json本週尚未到既定查核週期（上次完成於2026-11-17），本次不動。本次全站共新增1筆（msa-papers.json），weekNewCount累加為3。",
+    "en": {
+      "tag": "Daily scan · new literature",
+      "body": "Last genuine publish was 2026-11-17, a 0-day gap, so this is a normal daily scan. PubMed's \"multiple system atrophy\"[Title] 7-day query added 1 paper: an MSA-C longitudinal proof-of-principle imaging study (Cerebellum, Massachusetts General Hospital/Harvard Medical School, PMID 43043506) — monthly MRI over 6 months in 3 MSA-C patients showed mean pontine volume loss of about 0.88% per month, detectable above measurement error within roughly 1.3–2.9 months, suggesting short-interval structural imaging may serve as a progression-monitoring biomarker; sample size is extremely small (n=3), a proof-of-principle study rather than an efficacy trial. The ClinicalTrials.gov broad scan (query.cond=multiple+system+atrophy, RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=40) and drug-name lookups for tracked assets (ATH434, amlenetug, ONO-2808, emrusolmin, foralumab, ION464) were checked line by line: every MSA-relevant hit was already on file; 2 completed ATH434 trials over a year old (NCT05109091, NCT05864365) were found not yet on file, but were excluded per the inclusion rule since they fall outside the 7-day window and are not part of the current mainline pipeline — <b>no new competitor trial was added this round</b>. A news scan of tracked assets (Alterity ATH434, Lundbeck amlenetug, Ono ONO-2808, Teva emrusolmin, Tiziana foralumab) surfaced only facts already recorded here (Teva's TOPAS-MSA interim-futility discontinuation, Lundbeck's MASCOT Phase 3 baseline data, Alterity's FDA Phase 3 design agreement, etc.); no recent development was found for Mayo's MSC program or Ionis ION464 — <b>no new verifiable competitor development within the past 7 days</b>. msa-events.json's weekly review cycle is not yet due (last completed 2026-11-17), so it was left unchanged today. One entry was added site-wide today (msa-papers.json); weekNewCount is cumulatively 3."
+    }
+  },
+  {
     "date": "2026-11-17",
     "dateDisplay": "2026/11/17",
     "tag": "每日掃描 · 會議雷達週檢",

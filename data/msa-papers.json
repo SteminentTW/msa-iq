@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:43043506",
+    "date": "2026-11-17",
+    "dateDisplay": "2026/11/17",
+    "title": "Multiple System Atrophy of the Cerebellar Type (MSA-C): Proof-of-Principle Longitudinal Pilot Study Reveals Pontine and Cerebellar Volume Loss Within 3 Months at the Level of the Single Individual.",
+    "journal": "Cerebellum 2026;25(6):173 doi:10.1007/s12311-026-02112-0 · Schmahmann JD、Apaydin D、Draudt NP 等（美國・麻省總醫院／哈佛醫學院）",
+    "tag": "影像生物標記 · 疾病進展監測 · MSA-C",
+    "highlight": false,
+    "note": "→ 小規模概念驗證縱向研究：MSA-C 病人 3 人、健康對照 2 人，每月進行一次MRI（共6個月），追蹤結構體積、擴散張量指標（MD／FA）與單體素MR光譜（NAA/Cr、mI/Cr）。<b>橋腦體積平均每月流失約0.88%，3名病人橋腦與小腦體積流失在1.3–2.9個月左右即超過測試再測誤差範圍</b>，顯示每3個月一次的結構造影有潛力作為診斷輔助與進展監測指標；患者自評量表（PROM-Ataxia、UMSARS病史回顧）呈惡化趨勢，但臨床醫師評分量表未見一致變化。樣本數極小（n=3），屬概念驗證研究，非藥物療效試驗，作者明示需進一步驗證。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43043506/",
+    "urlLabel": "論文 ↗ PubMed 43043506",
+    "en": {
+      "tag": "Imaging biomarker · progression monitoring · MSA-C",
+      "journal": "Cerebellum 2026;25(6):173 doi:10.1007/s12311-026-02112-0 · Schmahmann JD, Apaydin D, Draudt NP et al. (Massachusetts General Hospital / Harvard Medical School, USA)",
+      "note": "→ A small proof-of-principle longitudinal study: 3 MSA-C patients and 2 healthy controls underwent monthly MRI over 6 months, tracking structural volumes, diffusion-tensor metrics (MD/FA) and single-voxel MR spectroscopy (NAA/Cr, mI/Cr). <b>Mean monthly pontine volume loss was approximately 0.88%, and volume loss in pons and cerebellum exceeded test-retest measurement error within roughly 1.3–2.9 months across the 3 patients</b>, suggesting 3-monthly structural imaging may support diagnosis and progression monitoring; patient-reported outcomes (PROM-Ataxia, UMSARS historical review) trended toward worsening, while clinician-administered scales showed no consistent change. The sample size is extremely small (n=3); this is a proof-of-principle study, not a drug efficacy trial, and the authors state further validation is needed.",
+      "urlLabel": "Paper ↗ PubMed 43043506"
+    }
+  },
+  {
     "id": "pubmed:43036148",
     "date": "2026-11-15",
     "dateDisplay": "2026/11/15",
