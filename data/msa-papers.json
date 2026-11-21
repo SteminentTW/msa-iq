@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:43063725",
+    "date": "2026-11-14",
+    "dateDisplay": "2026/11/14",
+    "title": "Development and validation of a predictive model for assisted walking in Multiple System Atrophy: a multicenter bidirectional cohort study.",
+    "journal": "Parkinsonism Relat Disord 2026;154:109063 doi:10.1016/j.parkreldis.2026.109063 · Bai J、Li X、Guo X 等（中國・空軍軍醫大學西京醫院）",
+    "tag": "預後模型 · 輔助行走 · MSA-P／MSA-C",
+    "highlight": false,
+    "note": "→ 三院多中心雙向性佇列研究，共納 173 名 MSA 病人（訓練集122、驗證集51，2022/05–2025/01），以基線人口學／臨床表現／影像／神經功能評估建構 Cox 迴歸與5種機器學習預後模型，預測「需輔助行走」之發生。<b>68.97%病人最終需輔助行走（中位時間48個月）；MSA-C 亞型需輔助行走比例高於 MSA-P（75% vs 60.27%，P&lt;0.05）、達此終點時間較短（47 vs 49個月，P=0.042）</b>。Cox 與 CoxBoost 模型（納入6項預測因子）訓練／驗證 C-index 分別為0.878/0.749與0.875/0.748，校準表現良好。屬預後模型研究，非藥物療效試驗。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063725/",
+    "urlLabel": "論文 ↗ PubMed 43063725",
+    "en": {
+      "tag": "Prognostic model · assisted walking · MSA-P/MSA-C",
+      "journal": "Parkinsonism Relat Disord 2026;154:109063 doi:10.1016/j.parkreldis.2026.109063 · Bai J, Li X, Guo X et al. (Air Force Medical University, Xijing Hospital, China)",
+      "note": "→ A multicenter bidirectional cohort study across three hospitals enrolling 173 MSA patients (training set 122, validation set 51, May 2022–Jan 2025), using baseline demographics, clinical features, imaging and neurofunctional assessments to build Cox regression and five machine-learning prognostic models predicting onset of assisted-walking need. <b>68.97% of patients eventually required assisted walking (median 48 months); MSA-C patients had a higher proportion requiring assisted walking than MSA-P (75% vs 60.27%, P&lt;0.05) and reached this endpoint sooner (47 vs 49 months, P=0.042)</b>. The Cox and CoxBoost models (incorporating six predictors) achieved training/validation C-indexes of 0.878/0.749 and 0.875/0.748 respectively, with good calibration. A prognostic-model study, not a drug efficacy trial.",
+      "urlLabel": "Paper ↗ PubMed 43063725"
+    }
+  },
+  {
     "id": "pubmed:43043506",
     "date": "2026-11-17",
     "dateDisplay": "2026/11/17",

@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-21",
+    "dateDisplay": "2026/11/21",
+    "tag": "每日掃描 · 新增文獻",
+    "level": "info",
+    "body": "上次真正發布為2026-11-20，缺口0天，正常每日掃描。PubMed「multiple system atrophy」[Title]近7天查得3筆，其中2筆（PMID 43043506、43036148）已收錄，新增1篇：空軍軍醫大學西京醫院多中心佇列研究（Parkinsonism Relat Disord，PMID 43063725）建構MSA輔助行走預後模型，173名病人中68.97%最終需輔助行走（中位48個月），MSA-C亞型達此終點比例較高、時間較短，Cox/CoxBoost模型C-index約0.75–0.88；屬預後模型研究非療效試驗。ClinicalTrials.gov廣掃（query.cond=multiple+system+atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING，pageSize=40）逐筆核對本次40筆命中：除既有收錄之MSA相關試驗外，另查得1筆邊緣案例（NCT07863180，Tributyrin用於PSP之虛擬試驗，收案條件涵蓋MSA病人），因主要適應症非MSA、介入藥物屬營養補充品性質且公開資訊有限，依準則排除不收；其餘命中均為SMA/FSHD/DMD等「atrophy」關鍵字誤命中或純觀察/登記研究，<b>本次CT.gov無新增競品試驗</b>。已知資產新聞掃描（Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva emrusolmin、Tiziana foralumab、Ionis ION464）查得內容均為本站已收錄之既有事實（Teva TOPAS-MSA終止、Alterity MDS 2026數據、Lundbeck MASCOT進度等），<b>無近7天內新增可查證競品進展</b>。msa-events.json本週尚未到既定查核週期（上次完成於2026-11-17），本次不動。本次全站共新增1筆（msa-papers.json），weekNewCount累加為6。",
+    "en": {
+      "tag": "Daily scan · new literature",
+      "body": "Last genuine publish was 2026-11-20, a 0-day gap, so this is a normal daily scan. PubMed's \"multiple system atrophy\"[Title] 7-day query returned 3 papers; 2 (PMID 43043506, 43036148) were already on file, and 1 was added: a multicenter cohort study from Air Force Medical University's Xijing Hospital (Parkinsonism Relat Disord, PMID 43063725) building a prognostic model for assisted-walking onset in MSA — of 173 patients, 68.97% eventually required assisted walking (median 48 months), with MSA-C patients reaching this endpoint sooner and more often than MSA-P; Cox/CoxBoost models achieved C-indexes of roughly 0.75–0.88. A prognostic-model study, not an efficacy trial. The ClinicalTrials.gov broad scan (query.cond=multiple+system+atrophy, RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=40) was checked line by line across all 40 hits: beyond the MSA-relevant trials already on file, one borderline case was found (NCT07863180, a virtual trial of Tributyrin for PSP whose eligibility also covers MSA patients) but was excluded because its primary indication is not MSA, the intervention is nutraceutical-like in nature, and public information is limited; the remaining hits were false matches on the word \"atrophy\" (SMA/FSHD/DMD etc.) or purely observational/registry studies — <b>no new competitor trial was added this round</b>. A news scan of tracked assets (Alterity ATH434, Lundbeck amlenetug, Ono ONO-2808, Teva emrusolmin, Tiziana foralumab, Ionis ION464) surfaced only facts already recorded here (Teva's TOPAS-MSA discontinuation, Alterity's MDS 2026 data, Lundbeck's MASCOT progress, etc.) — <b>no new verifiable competitor development within the past 7 days</b>. msa-events.json's weekly review cycle is not yet due (last completed 2026-11-17), so it was left unchanged today. One entry was added site-wide today (msa-papers.json); weekNewCount is cumulatively 6."
+    }
+  },
+  {
     "date": "2026-11-18",
     "dateDisplay": "2026/11/18",
     "tag": "每日掃描 · 新增文獻",
