@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:43060606",
+    "date": "2026-11-06",
+    "dateDisplay": "2026/11/06",
+    "title": "Seed Amplification Assay-Based Detection of Alpha-Synuclein Aggregates Outperforms Immunohistochemical Analysis in the Intestinal Mucosal Biopsies of Parkinson's Disease and Multiple System Atrophy Participants.",
+    "journal": "bioRxiv（預印本，尚未同行審查）doi:10.64898/2026.11.05.764662 · Keshavarzian A、Engen PA、Soto C 等；PMC13780811",
+    "tag": "診斷生物標記 · 腸道黏膜生檢 · α-synuclein 種子增殖檢測",
+    "highlight": false,
+    "note": "→ 跨切面概念驗證診斷準確度研究：以內視鏡十二指腸／迴腸／乙狀結腸黏膜生檢比較 α-synuclein 種子增殖檢測（SAA）與傳統免疫組織化學（IHC）。帕金森病組（PD）乙狀結腸SAA特異性達97.5–100%，敏感性隨病程延長而升高（病程&lt;5年40.00%、5–10年73.33%、&gt;10年93.75%）；乙狀結腸SAA陽性率（28/37）遠高於IHC（10/37）。<b>另納入MSA探索性小組（共7人：5名MSA-P、2名MSA-C）：乙狀結腸SAA於全部5名MSA-P檢出陽性，2名MSA-C皆為陰性；IHC於MSA組全數未檢出聚集物</b>。⚠️ MSA樣本數極小（n=7）、屬探索性分組、<b>本文尚為bioRxiv預印本，未經同行審查</b>，結果需獨立驗證；非藥物療效研究，與試驗雷達資產無直接關聯，僅屬診斷生物標記方法學進展。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43060606/",
+    "urlLabel": "論文 ↗ PubMed 43060606",
+    "en": {
+      "tag": "Diagnostic biomarker · intestinal mucosal biopsy · alpha-synuclein seed amplification",
+      "journal": "bioRxiv (preprint, not yet peer-reviewed) doi:10.64898/2026.11.05.764662 · Keshavarzian A, Engen PA, Soto C et al.; PMC13780811",
+      "note": "→ A cross-sectional proof-of-concept diagnostic-accuracy study comparing an alpha-synuclein seed amplification assay (SAA) with conventional immunohistochemistry (IHC) on endoscopic duodenal/ileal/sigmoid mucosal biopsies. In the Parkinson's disease (PD) group, sigmoid SAA specificity reached 97.5-100%, with sensitivity rising with disease duration (40.00% at &lt;5 years, 73.33% at 5-10 years, 93.75% at &gt;10 years); sigmoid SAA positivity (28/37) was far higher than IHC (10/37). <b>An exploratory MSA subgroup was also included (7 participants: 5 MSA-P, 2 MSA-C): sigmoid SAA was positive in all 5 MSA-P participants and negative in both MSA-C participants; IHC detected no aggregates in any MSA participant</b>. ⚠️ The MSA sample is extremely small (n=7) and exploratory, <b>this paper is still a bioRxiv preprint and has not been peer-reviewed</b>, so the results require independent validation; it is not a drug efficacy study and has no direct bearing on the therapies tracked in the Trial Radar — it is a methodological advance in diagnostic biomarkers only.",
+      "urlLabel": "Paper ↗ PubMed 43060606"
+    }
+  },
+  {
     "id": "pubmed:43063725",
     "date": "2026-11-14",
     "dateDisplay": "2026/11/14",
