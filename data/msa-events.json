@@ -1,5 +1,21 @@
 [
   {
+    "id": "mds-congress-2027",
+    "name": "MDS International Congress（國際動作障礙學會年會）2027",
+    "date": "2027-09-26",
+    "dateDisplay": "2027/09/26–30",
+    "location": "荷蘭阿姆斯特丹 RAI Amsterdam",
+    "relevance": "下屆年會地點與日期已由國際帕金森病與動作障礙學會（IPMDS）官方公布。動作障礙領域最大國際年會，歷年為MSA臨床與在研療法發表重鎮；具體議程與摘要尚未公布，屆時再追蹤。",
+    "highlight": false,
+    "url": "https://www.movementdisorders.org/Events",
+    "competitors": [],
+    "en": {
+      "name": "MDS International Congress 2027",
+      "location": "RAI Amsterdam, Netherlands",
+      "relevance": "The next edition's location and dates have been officially announced by the International Parkinson and Movement Disorder Society (IPMDS). This is the largest international congress in movement disorders and a recurring venue for MSA clinical and pipeline presentations; the detailed programme and abstracts are not yet published and will be tracked when available."
+    }
+  },
+  {
     "id": "mds-congress-2026",
     "name": "MDS International Congress（國際動作障礙學會年會）",
     "date": "2026-10-04",

@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:43072615",
+    "date": "2026-11-23",
+    "dateDisplay": "2026/11/23",
+    "title": "Non-invasive cervical spinal cord stimulation immediately mitigates orthostatic hypotension in multiple system atrophy: a case report.",
+    "journal": "Brain Stimul（線上先行，Letter）doi:10.1016/j.brs.2026.103266 · Samejima S、Krassioukov AV 等（美國華盛頓大學／加拿大英屬哥倫比亞大學 ICORD）",
+    "tag": "非藥物介入 · 姿位性低血壓 · 神經調控",
+    "highlight": false,
+    "note": "→ 單一病例報告（Letter形式），描述以非侵入性頸椎脊髓刺激（經皮電刺激，非植入式裝置）用於一名MSA病人之姿位性低血壓，刺激後症狀立即緩解。⚠️ <b>僅單一病例、無對照組、未見量化血壓數據摘要</b>，屬症狀支持性神經調控之概念驗證，非疾病修飾療法，亦非藥物試驗，無法推論普遍療效。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43072615/",
+    "urlLabel": "論文 ↗ PubMed 43072615",
+    "en": {
+      "tag": "Non-pharmacological intervention · orthostatic hypotension · neuromodulation",
+      "journal": "Brain Stimul (online ahead of print, Letter), doi:10.1016/j.brs.2026.103266 · Samejima S, Krassioukov AV et al. (University of Washington, USA / ICORD, University of British Columbia, Canada)",
+      "note": "→ A single-patient case report (in Letter format) describing non-invasive cervical spinal cord stimulation (transcutaneous, not an implanted device) applied to orthostatic hypotension in one MSA patient, with immediate symptomatic relief after stimulation. ⚠️ <b>A single case with no control arm and no quantitative blood-pressure summary available</b>; this is a proof-of-concept for symptomatic, supportive neuromodulation, not a disease-modifying therapy and not a drug trial — no general efficacy conclusion can be drawn.",
+      "urlLabel": "Paper ↗ PubMed 43072615"
+    }
+  },
+  {
     "id": "pubmed:43060606",
     "date": "2026-11-06",
     "dateDisplay": "2026/11/06",
