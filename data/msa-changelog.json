@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-25",
+    "dateDisplay": "2026/11/25",
+    "tag": "每日掃描 · 新增文獻",
+    "level": "info",
+    "body": "上次真正發布為2026-11-24，缺口0天，正常每日掃描。<b>ClinicalTrials.gov</b>廣掃（query.cond=multiple+system+atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING，pageSize=40）逐筆核對本次40筆命中：既有收錄之MSA相關試驗均已在檔；新查得1筆邊緣案例NCT07827963（「VisMemoPD Protocol」，帕金森症／MSA病人之空間與地誌記憶觀察性先導研究，無任何介入），依純觀察非療法準則排除；其餘均為SMA/FSHD/DMD/肌少症等「atrophy」關鍵字誤命中，或先前已排除之邊緣案例（NCT05222386、NCT07863180、NCT04472130、NCT07805967、NCT06596746），<b>本次CT.gov無新增競品試驗</b>。<b>PubMed</b>「multiple system atrophy」[Title]近7天（pdat與edat兩法查詢結果一致）新增<b>1篇</b>：MSA發生率與盛行率系統性回顧（pubmed:43079741，Neuroepidemiology），納入17篇發生率與21篇盛行率研究，合併發生率每10萬人年0.8例、合併盛行率每10萬人3.6例，屬流行病學方法學回顧、非療效研究。<b>公司/產業新聞</b>掃描（Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva emrusolmin、Tiziana foralumab、Ionis ION464、Mayo MSC）：查得內容均為本站已收錄之既有事實，<b>無近7天內新增可查證競品進展</b>。msa-events.json週檢上次完成於2026-11-24（昨日），本次不執行。",
+    "link": { "label": "詳見 文獻雷達 ↗", "tab": "si", "anchor": "litradar" },
+    "en": {
+      "tag": "Daily scan · new literature",
+      "body": "Last genuine publish was 2026-11-24, a 0-day gap, so this is a normal daily scan. The <b>ClinicalTrials.gov</b> broad sweep (query.cond=multiple+system+atrophy, RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=40) was checked line by line across all 40 hits: the MSA-relevant trials already on file were all present; one new borderline case was found, NCT07827963 (\"VisMemoPD Protocol\", an observational pilot study of spatial/topographical memory in Parkinson's disease/MSA patients with no intervention), excluded per the standing rule against pure observational, non-therapeutic studies; the rest were false matches on the word \"atrophy\" (SMA/FSHD/DMD/sarcopenia etc.) or previously excluded borderline cases (NCT05222386, NCT07863180, NCT04472130, NCT07805967, NCT06596746) — <b>no new competitor trial was added this round</b>. <b>PubMed</b>'s \"multiple system atrophy\"[Title] 7-day query (pdat and edat methods agreed) added <b>1 new paper</b>: a systematic review of MSA incidence and prevalence (pubmed:43079741, Neuroepidemiology), covering 17 incidence and 21 prevalence studies, with pooled incidence of 0.8 per 100,000 person-years and pooled prevalence of 3.6 per 100,000 — an epidemiological methodology review, not an efficacy study. A <b>company/industry news</b> scan (Alterity ATH434, Lundbeck amlenetug, Ono ONO-2808, Teva emrusolmin, Tiziana foralumab, Ionis ION464, Mayo MSC) surfaced only facts already recorded here — <b>no new verifiable competitor development within the past 7 days</b>. The msa-events.json weekly review was last completed yesterday (2026-11-24) and was not run today."
+    }
+  },
+  {
     "date": "2026-11-24",
     "dateDisplay": "2026/11/24",
     "tag": "每日掃描 · 新增文獻 · 會議雷達週檢",

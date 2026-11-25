@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:43079741",
+    "date": "2026-11-25",
+    "dateDisplay": "2026/11/25",
+    "title": "Systematic Review of Incidence and Prevalence Studies of Multiple System Atrophy.",
+    "journal": "Neuroepidemiology（線上先行）doi:10.1159/ned/adwag077 · Benzahia B、Carter E、Swallow DMA",
+    "tag": "流行病學 · 系統性回顧 · 發生率／盛行率",
+    "highlight": false,
+    "note": "→ 系統性回顧納入17篇發生率研究（含3篇限定年齡層）與21篇盛行率研究（含9篇限定年齡層）。僅1篇採用2022年MDS準則，不到半數採用Gilman共識準則（1998或2008版）。未限年齡層研究之粗發生率為每10萬人年0.1–2.1例，粗盛行率為每10萬人1.0–16.6例；多數研究未按年齡或性別分層報告。依粗率估計，性別差異與地理差異證據有限，惟證據顯示發生率／盛行率隨年齡增加而上升。僅3篇發生率研究與2篇盛行率研究足夠相似可供合併分析：合併發生率為每10萬人年0.8例（95% CI 0.4–1.2），合併盛行率為每10萬人3.6例（95% CI 2.2–5.0）。作者結論：現有研究方法學與統計異質性高，限制合併分析，呼籲採用標準化方法學。⚠️ 屬流行病學方法學回顧，非藥物療效研究，與試驗雷達資產無直接關聯。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43079741/",
+    "urlLabel": "論文 ↗ PubMed 43079741",
+    "en": {
+      "tag": "Epidemiology · systematic review · incidence/prevalence",
+      "journal": "Neuroepidemiology (online ahead of print) doi:10.1159/ned/adwag077 · Benzahia B, Carter E, Swallow DMA",
+      "note": "→ A systematic review identifying 17 incidence studies (3 age-restricted) and 21 prevalence studies (9 age-restricted). Only 1 study used the 2022 MDS criteria, and fewer than half used the Gilman consensus criteria (1998 or 2008). In age-unrestricted studies, crude incidence rates ranged 0.1–2.1 per 100,000 person-years and crude prevalence 1.0–16.6 per 100,000; most studies did not report age- or sex-stratified rates. Based on crude rates, there was limited evidence of sex or geographic differences, though rates appeared to rise with age. Only 3 incidence studies and 2 prevalence studies were similar enough to pool: pooled incidence was 0.8 per 100,000 person-years (95% CI 0.4–1.2) and pooled prevalence 3.6 per 100,000 (95% CI 2.2–5.0). The authors conclude existing studies are methodologically and statistically heterogeneous, limiting pooled analysis, and call for standardised methodology going forward. ⚠️ An epidemiological methodology review, not a drug efficacy study, with no direct bearing on the therapies tracked in the Trial Radar.",
+      "urlLabel": "Paper ↗ PubMed 43079741"
+    }
+  },
+  {
     "id": "pubmed:43072615",
     "date": "2026-11-23",
     "dateDisplay": "2026/11/23",
