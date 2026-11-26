@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-26",
+    "dateDisplay": "2026/11/26",
+    "tag": "每日掃描 · 新增文獻",
+    "level": "info",
+    "body": "上次真正發布為2026-11-25，缺口1天，正常每日掃描。<b>ClinicalTrials.gov</b>廣掃（query.cond=multiple+system+atrophy，RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING，pageSize=40）逐筆核對本次40筆命中：真正屬MSA之療法試驗均已在檔，無新增；其餘均為SMA/FSHD/DMD/肌少症等「atrophy」關鍵字誤命中，或先前已排除之MSA觀察性／登錄型研究（NCT07805967、NCT04472130、NCT06596746、NCT07827963、NCT05222386等，依純觀察非療法準則排除，非本次新判斷）。PubMed「multiple system atrophy」[Title]近7天查得2筆均已在檔；改以Title/Abstract＋近3天登錄日期廣掃後，新增2篇具實質MSA內容之文獻：(1) MobilityAPP步態導向物理治療RCT（含MSA/PSP/PD病人，PMID 43077650，Neurology），(2) carboxypeptidase E作為突觸核蛋白病候選生物標記之蛋白質體學研究（含37例MSA，PMID 43086270，NPJ Parkinson's Disease）；另3篇廣泛神經退化性疾病綜述（腸-肝-腦軸、PET影像進展回顧、CRISPR生物感測）僅於摘要泛論提及MSA、非MSA實質研究主體，依準則排除。公司/產業新聞查核（Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva emrusolmin、Tiziana foralumab、Mayo MSC、Ionis ION464）均為既有事件之背景重複報導或逾7天之舊聞（如Lundbeck MASCOT Ph3完成最後病人隨機化，公告於2026/03/09，已逾本站「近7天」新聞收錄準則，判斷為不收錄），未發現符合「近7天內＋尚未收錄＋可查證來源」三條件之新事件。",
+    "link": { "tab": "si", "anchor": "litradar" },
+    "en": {
+      "tag": "Daily scan · new literature",
+      "body": "The last real publish was 2026-11-25, a 1-day gap — normal daily cadence. A broad <b>ClinicalTrials.gov</b> sweep (query.cond=multiple+system+atrophy, status RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=40) was checked hit by hit against this site's records: every genuinely MSA-related therapy trial in the 40 results was already on file, so no new trial was added; the remainder were either literal \"atrophy\" keyword mismatches (SMA/FSHD/DMD/sarcopenia trials) or MSA-related observational/registry studies previously excluded under the therapy-only criterion (NCT07805967, NCT04472130, NCT06596746, NCT07827963, NCT05222386, etc. — a prior exclusion, not a new judgment call today). The strict PubMed \"multiple system atrophy\"[Title], last-7-days query returned 2 hits, both already on file; broadening to Title/Abstract with a 3-day entry-date window surfaced 2 papers with substantive MSA content worth adding: (1) the MobilityAPP gait-focused physiotherapy RCT, which enrolled MSA/PSP/PD patients (PMID 43077650, Neurology), and (2) a proteomics study identifying carboxypeptidase E as a candidate synucleinopathy biomarker, including 37 MSA patients (PMID 43086270, NPJ Parkinson's Disease). 3 further broad neurodegeneration reviews (gut-liver-brain axis, PET imaging advances, CRISPR biosensing) mentioned MSA only in passing within general abstracts and were excluded as not substantively MSA-focused. Company/industry news checks (Alterity ATH434, Lundbeck amlenetug, Ono ONO-2808, Teva emrusolmin, Tiziana foralumab, Mayo MSC, Ionis ION464) turned up only background repeats of events already on file, or news older than 7 days (e.g. Lundbeck's MASCOT Ph3 last-patient-randomized announcement, dated 2026/03/09, which falls outside this site's \"last 7 days\" inclusion rule and was judged not to qualify); no new item met all three criteria (within 7 days, not yet recorded, verifiable source)."
+    }
+  },
+  {
     "date": "2026-11-25",
     "dateDisplay": "2026/11/25",
     "tag": "每日掃描 · 新增文獻",

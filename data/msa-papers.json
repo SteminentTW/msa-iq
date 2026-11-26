@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:43086270",
+    "date": "2026-11-26",
+    "dateDisplay": "2026/11/26",
+    "title": "Proteomics identified carboxypeptidase E as a novel biomarker for synucleinopathies.",
+    "journal": "NPJ Parkinson's Disease doi:10.1038/s41531-026-01518-1 · Luan M、Wei L、Chen J 等（北京大學第一醫院）",
+    "tag": "生物標記 · 蛋白質體學 · 診斷",
+    "highlight": false,
+    "note": "→ 以空間蛋白質體學比對帕金森病（Lewy body）與MSA（glial cytoplasmic inclusion）病理沉積物之蛋白組成，發現57個蛋白於兩類沉積物間有差異性富集，其中carboxypeptidase E（CPE）在PD與MSA腦組織中均與α-synuclein有顯著共聚集。於發現族群（66例PD、37例MSA、23例非神經退化對照）以ELISA檢測血清CPE，兩類突觸核蛋白病病人血清CPE均顯著低於對照組，於第二個唾液α-synuclein RT-QuIC陽性族群（26例PD、14例MSA、22例對照）驗證一致，且CPE濃度與臨床嚴重度指標呈負相關。⚠️ 屬早期候選診斷生物標記之探索性研究，樣本量有限（MSA組n=37/14），尚無前瞻性驗證或治療關聯，不涉及藥物療效。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43086270/",
+    "urlLabel": "論文 ↗ PubMed 43086270",
+    "en": {
+      "tag": "Biomarker · proteomics · diagnostics",
+      "journal": "NPJ Parkinson's Disease doi:10.1038/s41531-026-01518-1 · Luan M, Wei L, Chen J et al. (Peking University First Hospital)",
+      "note": "→ Spatial proteomics comparing the protein composition of Lewy bodies (PD) and glial cytoplasmic inclusions (MSA) identified 57 proteins differentially enriched between the two inclusion types; carboxypeptidase E (CPE) showed significant co-aggregation with α-synuclein in both PD and MSA brain tissue. In a discovery cohort (66 PD, 37 MSA, 23 non-neurodegenerative controls), serum CPE measured by ELISA was significantly reduced in both synucleinopathy groups versus controls, with consistent findings replicated in a second, salivary α-synuclein RT-QuIC-positive cohort (26 PD, 14 MSA, 22 controls); lower CPE correlated inversely with clinical severity markers. ⚠️ An early-stage exploratory candidate-biomarker study with limited sample size (MSA group n=37/14), no prospective validation yet and no treatment implications — it does not bear on drug efficacy.",
+      "urlLabel": "Paper ↗ PubMed 43086270"
+    }
+  },
+  {
+    "id": "pubmed:43077650",
+    "date": "2026-11-24",
+    "dateDisplay": "2026/11/24",
+    "title": "MobilityAPP: A Randomized Controlled Trial Evaluating Gait-Focused Physiotherapy in Parkinson Disease and Atypical Parkinsonian Syndromes.",
+    "journal": "Neurology doi:10.1212/WNL.0000000000218585 · Raccagni C、Sidoroff V、Moradi H 等（MobilityAPP study group，NCT04608604）",
+    "tag": "臨床試驗 · 非藥物介入 · 步態訓練",
+    "highlight": false,
+    "note": "→ 歐洲5中心雙盲隨機對照試驗，比較步態導向物理治療（GPT）與標準物理治療（SPT）於MSA、PSP與帕金森病病人（含非典型帕金森症85例、PD 66例，共151例完成），主要終點為自選速度步行速度之前後變化。結果顯示GPT未優於SPT（95% CI −0.04至0.04，p=0.949）；惟GPT組於日常生活移動性數值指標上有較正向變化，兩組於平衡與整體印象量表均見改善。⚠️ 屬物理治療型非藥物介入研究，非疾病修飾藥物試驗，與本站追蹤之藥物／細胞治療資產機制無直接關聯，列入供症狀支持性照護參考。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43077650/",
+    "urlLabel": "論文 ↗ PubMed 43077650",
+    "en": {
+      "tag": "Clinical trial · non-pharmacological intervention · gait training",
+      "journal": "Neurology doi:10.1212/WNL.0000000000218585 · Raccagni C, Sidoroff V, Moradi H et al. (MobilityAPP study group, NCT04608604)",
+      "note": "→ A double-blind, randomised controlled trial across 5 European centres compared gait-focused physiotherapy (GPT) with standard physiotherapy (SPT) in patients with MSA, PSP and Parkinson disease (85 atypical parkinsonism, 66 PD; 151 completers), with the primary outcome being pre-post change in self-paced gait speed. GPT was not superior to SPT (95% CI −0.04 to 0.04, p=0.949); however, the GPT arm showed more positive changes in daily-life mobility metrics, and both arms improved on balance and global-impression measures. ⚠️ A non-pharmacological, physiotherapy-based intervention study, not a disease-modifying drug trial, with no direct bearing on the mechanisms of the drug/cell therapy assets tracked on this site; included here as context for symptomatic/supportive care.",
+      "urlLabel": "Paper ↗ PubMed 43077650"
+    }
+  },
+  {
     "id": "pubmed:43079741",
     "date": "2026-11-25",
     "dateDisplay": "2026/11/25",
