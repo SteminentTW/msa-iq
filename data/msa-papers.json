@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:43101100",
+    "date": "2026-11-12",
+    "dateDisplay": "2026/11/12",
+    "title": "Multiple system atrophy brain regional specific alpha-synuclein pathologies impact seeding potency and propagation.",
+    "journal": "Frontiers in Aging Neuroscience doi:10.3389/fnagi.2026.1981789 · Quintin S、Bell BM、Giasson BI 等（University of Florida）",
+    "tag": "致病機轉 · α-synuclein · 動物模型",
+    "highlight": false,
+    "note": "→ 取2名病理確診MSA捐贈者之小腦（以寡樹突膠質細胞質內涵體GCI為主）與橋腦（含神經元與寡樹突膠質雙重內涵體）腦組織溶出液，立體定位注入表現人類野生型α-synuclein之TgM20小鼠海馬迴，比較兩腦區來源溶出液之體內致病性傳播能力。小腦（GCI為主）溶出液於注入後4個月誘發較廣泛且較強之早期α-synuclein病理，8個月時整體分布漸趨相近，但小腦組持續於脊髓誘發更多病理。顯示MSA腦內不同解剖來源之α-synuclein病理，其「種子」致病力與傳播型態存在差異。⚠️ 純小鼠動物模型之致病機轉研究，不涉及藥物或療效，亦未區分GCI與神經元內涵體何者為主要致病因子。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43101100/",
+    "urlLabel": "論文 ↗ PubMed 43101100",
+    "en": {
+      "tag": "Pathogenesis · alpha-synuclein · animal model",
+      "journal": "Frontiers in Aging Neuroscience doi:10.3389/fnagi.2026.1981789 · Quintin S, Bell BM, Giasson BI et al. (University of Florida)",
+      "note": "→ Triton X-100-insoluble brain lysates from the cerebellum (predominantly oligodendroglial GCI pathology) and pons (mixed neuronal and oligodendroglial inclusions) of two neuropathologically confirmed MSA donors were stereotaxically inoculated into the hippocampus of TgM20 mice expressing human wild-type α-synuclein, comparing the two regions' lysates for in vivo seeding and propagation. Cerebellar (GCI-predominant) lysates induced broader, more robust early α-synuclein pathology at 4 months; by 8 months overall distributions converged, but cerebellar lysates continued to produce more spinal-cord pathology. The findings indicate that the anatomical origin of MSA α-synuclein pathology affects seeding potency and propagation pattern. ⚠️ A mouse-model mechanistic study only, with no drug or efficacy implications, and it does not isolate whether GCI- or neuronal-inclusion-derived seeds are the dominant pathogenic factor.",
+      "urlLabel": "Paper ↗ PubMed 43101100"
+    }
+  },
+  {
     "id": "pubmed:43086270",
     "date": "2026-11-26",
     "dateDisplay": "2026/11/26",

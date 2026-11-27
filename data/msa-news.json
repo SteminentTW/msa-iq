@@ -1,5 +1,31 @@
 [
   {
+    "id": "ion464-delay-2026-11",
+    "date": "2026-11-27",
+    "dateDisplay": "2026/11/27",
+    "level": "info",
+    "tag": "試驗登錄更新 · 時程大幅延後",
+    "body": "<b>每日掃描發現 Ionis 的 α-synuclein 反義寡核苷酸 ION464（BIIB101）MSA Ph1「HORIZON」試驗（NCT04165486）登錄再度更新</b>：登錄最後更新日推進至 2026/11/27，整體狀態仍為<b>收案中</b>，但估計主要完成日由本站 2026/10 查核記錄之 2027-09 <b>再延後逾3年、至2030-09</b>，估計收案人數登錄為95人。CT.gov 未附延後原因說明。",
+    "note": "→ ⚠️ 公開資訊有限，無法核實延後原因（收案進度不如預期、設計變更、或其他因素），本站僅同步登錄現狀；此為本站2026/10/12記錄「登錄現狀與先前Biogen終止開發報導不一致」後之後續追蹤。",
+    "links": [
+      {
+        "label": "試驗登錄 NCT04165486 ↗",
+        "url": "https://clinicaltrials.gov/study/NCT04165486"
+      }
+    ],
+    "en": {
+      "tag": "Registry update · major timeline delay",
+      "body": "<b>A daily scan found that Ionis's alpha-synuclein antisense oligonucleotide ION464 (BIIB101) Ph1 'HORIZON' MSA trial (NCT04165486) registration has updated again</b>: the last-update date advanced to 2026/11/27, overall status remains <b>Recruiting</b>, but estimated primary completion has been pushed from the 2027-09 this site recorded after its 2026/10 check out to <b>2030-09, a delay of over 3 years</b>, with estimated enrollment registered at 95. CT.gov provides no explanation for the delay.",
+      "note": "→ ⚠️ Public information is limited and the reason for the delay (slower-than-expected enrollment, a design change, or otherwise) cannot be verified; this site only mirrors the current registration. This follows up on the discrepancy with prior Biogen-discontinuation coverage that this site recorded on 2026/10/12.",
+      "links": [
+        {
+          "label": "Trial registration NCT04165486 ↗",
+          "url": "https://clinicaltrials.gov/study/NCT04165486"
+        }
+      ]
+    }
+  },
+  {
     "id": "teva-topas-msa-futility-2026-11",
     "date": "2026-11-02",
     "dateDisplay": "2026/11",
@@ -107,40 +133,6 @@
         {
           "label": "Ionis neuroscience pipeline page ↗",
           "url": "https://neurology.ionis.com/our-pipeline"
-        }
-      ]
-    }
-  },
-  {
-    "id": "msa01-ph3-discovered-2026-10",
-    "date": "2026-10-07",
-    "dateDisplay": "2026/10/07",
-    "level": "pos",
-    "tag": "主動盤點新收錄 · Ph3 收案中",
-    "body": "<b>主動盤點發現一項先前未收錄之樞紐性資產：MSA-01（ubiquinol／還原型輔酶Q10），由東京大學（Jun Mitsui）與Nobelpharma合作開發</b>。其Ph2試驗（UMIN000031771）已於<b>2023年發表於EClinicalMedicine</b>：139人隨機雙盲安慰劑對照，第48週UMSARS Part 2自基線變化最小平方均差 <b>−1.7分（95% CI −3.2至−0.2，p=0.023）</b>，達主要指標。延續此結果，<b>Ph3樞紐試驗（NCT07446894）已於2026/02/09啟動收案</b>，估計收案140人、12日本站點，主要完成日估2028/03。此試驗登錄已逾7個月未再更新、未落入CT.gov近期排序前40名之例行掃描窗口，本次透過更廣泛之管線檢索主動發現並補收。",
-    "note": "→ 機轉為輔酶Q10生合成缺陷（COQ2相關）之營養補充路徑，與目前站上以α-synuclein、神經發炎、細胞治療為主之資產機轉互不重疊；Ph2為研究者發起、單一地區（日本）、樣本中等，Ph3驗證結果尚待公布。",
-    "links": [
-      {
-        "label": "ClinicalTrials NCT07446894 ↗",
-        "url": "https://clinicaltrials.gov/study/NCT07446894"
-      },
-      {
-        "label": "EClinicalMedicine 論文 ↗ PubMed 37256098",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/37256098/"
-      }
-    ],
-    "en": {
-      "tag": "Newly added via active discovery · Ph3 recruiting",
-      "body": "<b>Active pipeline discovery surfaced a previously untracked pivotal-stage asset: MSA-01 (ubiquinol / reduced coenzyme Q10), developed by the University of Tokyo (Jun Mitsui) with Nobelpharma</b>. Its Phase 2 trial (UMIN000031771) was <b>published in EClinicalMedicine in 2023</b>: 139 patients, randomized, double-blind, placebo-controlled, with a least-squares mean difference of <b>−1.7 points (95% CI −3.2 to −0.2, p=0.023)</b> in UMSARS Part 2 change from baseline at week 48, meeting the primary endpoint. Building on this result, <b>a pivotal Ph3 trial (NCT07446894) started recruiting on 2026/02/09</b>, with an estimated enrollment of 140 across 12 Japanese sites and an estimated primary completion in 2028/03. The registration had gone over 7 months without an update and fell outside CT.gov's recent-sort top-40 scan window, so it was missed in routine scans until surfaced here through a broader pipeline search.",
-      "note": "→ The mechanism — nutritional supplementation addressing a CoQ10 biosynthesis deficiency (COQ2-related) — does not overlap with the alpha-synuclein-, neuroinflammation- or cell-therapy-centered assets otherwise tracked on this site. The Ph2 trial was investigator-initiated, single-region (Japan), with a moderate sample size; Ph3 confirmatory results are still pending.",
-      "links": [
-        {
-          "label": "ClinicalTrials NCT07446894 ↗",
-          "url": "https://clinicaltrials.gov/study/NCT07446894"
-        },
-        {
-          "label": "EClinicalMedicine paper ↗ PubMed 37256098",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/37256098/"
         }
       ]
     }

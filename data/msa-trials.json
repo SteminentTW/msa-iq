@@ -377,16 +377,16 @@
     "drug": "ION464（BIIB101）",
     "mechanism": "α-synuclein 反義寡核苷酸（鞘內）",
     "phase": "Ph1（HORIZON）",
-    "status": "<b>本站更新（2026/10/12）：登錄現狀與先前記錄不一致</b>——CT.gov 登錄最後更新 2026-04-27（狀態驗證日 2026-04），主辦方現單獨列為 <b>Ionis Pharmaceuticals</b>（不再列 Biogen），整體狀態為<b>收案中</b>，估計主要完成日由原 2025-09 延後為 <b>2027-09</b>；Ionis 官方神經科學產品線網頁亦持續將 ION464 列為 MSA 在研項目。⚠️ 本站此前依 2025/02 多家媒體報導記錄「Biogen 宣布終止開發」，<b>該歷史報導本身未撤銷</b>；公開來源未見任何官方聲明解釋此一落差（Biogen 是否已將權利歸還 Ionis、由其自行接手續行等，均<b>無法核實</b>），本站僅依登錄現狀同步更新狀態欄，不就原因臆測。",
+    "status": "<b>本站更新（2026/10/12）：登錄現狀與先前記錄不一致</b>——CT.gov 登錄最後更新 2026-04-27（狀態驗證日 2026-04），主辦方現單獨列為 <b>Ionis Pharmaceuticals</b>（不再列 Biogen），整體狀態為<b>收案中</b>，估計主要完成日由原 2025-09 延後為 <b>2027-09</b>；Ionis 官方神經科學產品線網頁亦持續將 ION464 列為 MSA 在研項目。⚠️ 本站此前依 2025/02 多家媒體報導記錄「Biogen 宣布終止開發」，<b>該歷史報導本身未撤銷</b>；公開來源未見任何官方聲明解釋此一落差（Biogen 是否已將權利歸還 Ionis、由其自行接手續行等，均<b>無法核實</b>），本站僅依登錄現狀同步更新狀態欄，不就原因臆測。<b>每日掃描更新（2026/11/27）</b>：登錄最後更新日推進至 2026-11-27，整體狀態仍為<b>收案中</b>，惟估計主要完成日由 2027-09 再度<b>大幅延後至 2030-09</b>（延後逾3年），估計收案人數登錄為 95 人。CT.gov 未附延後原因說明，<b>公開資訊有限</b>，本站僅同步登錄現狀。",
     "sponsor": "Ionis Pharmaceuticals（登錄現單獨列名；2025/02 曾由 Biogen 宣布終止，詳見狀態說明）",
     "cell": false,
-    "primary": "2027-09",
+    "primary": "2030-09",
     "url": "https://clinicaltrials.gov/study/NCT04165486",
     "en": {
       "drug": "ION464 (BIIB101)",
       "mechanism": "α-synuclein antisense oligonucleotide (intrathecal)",
       "phase": "Ph1 (HORIZON)",
-      "status": "<b>Updated here (2026/10/12): the current registration conflicts with this site's prior record</b> — the CT.gov registration was last updated 2026-04-27 (status verified 2026-04), now lists <b>Ionis Pharmaceuticals</b> alone as sponsor (Biogen no longer appears), shows the overall status as <b>Recruiting</b>, and has pushed estimated primary completion from 2025-09 out to <b>2027-09</b>; Ionis's own neuroscience pipeline page continues to list ION464 among its MSA programmes. ⚠️ This site had previously recorded, per February 2025 press coverage, that 'Biogen announced discontinuation' — <b>that historical record is not retracted</b>; no public source explains the discrepancy (whether Biogen returned rights to Ionis, which then continued independently, or otherwise, <b>cannot be verified</b>), so this entry updates the status field to match the current registration without speculating on the cause.",
+      "status": "<b>Updated here (2026/10/12): the current registration conflicts with this site's prior record</b> — the CT.gov registration was last updated 2026-04-27 (status verified 2026-04), now lists <b>Ionis Pharmaceuticals</b> alone as sponsor (Biogen no longer appears), shows the overall status as <b>Recruiting</b>, and has pushed estimated primary completion from 2025-09 out to <b>2027-09</b>; Ionis's own neuroscience pipeline page continues to list ION464 among its MSA programmes. ⚠️ This site had previously recorded, per February 2025 press coverage, that 'Biogen announced discontinuation' — <b>that historical record is not retracted</b>; no public source explains the discrepancy (whether Biogen returned rights to Ionis, which then continued independently, or otherwise, <b>cannot be verified</b>), so this entry updates the status field to match the current registration without speculating on the cause. <b>Daily-scan update (2026/11/27)</b>: the registration's last-update date advanced to 2026-11-27; overall status remains <b>Recruiting</b>, but estimated primary completion has again been pushed out substantially from 2027-09 to <b>2030-09</b> (a delay of over 3 years), with estimated enrollment registered at 95. CT.gov provides no explanation for the delay; <b>public information is limited</b>, and this site only mirrors the current registration.",
       "sponsor": "Ionis Pharmaceuticals (sole listed sponsor on the current registration; Biogen announced discontinuation in 2025/02 — see status note)"
     }
   },
@@ -460,6 +460,24 @@
       "phase": "Ph2/3",
       "status": "<b>Recruiting</b>; newly posted to the registry on 2026-10-16 (study start 2026-08-27). Multicentre, randomised, double-blind, placebo-controlled, <b>quadruple-masked</b>, estimated enrolment 150, ages 30-80, MSA diagnosed under the 2022 MDS criteria within the past 5 years, excluding other differential diagnoses of atypical parkinsonism (IPD/PSP/CBD/DLB). Dosing is 100 mg soft capsules three times daily (600 mg/day) for 6 months, with <b>the primary endpoint being change in the MDS-UMSARS Part I+II total score (0-104) at months 1/3/6/12</b>. All sites are in China (led by the Second Affiliated Hospital of Zhejiang University, with further sites in Hangzhou, Huzhou, Jiaxing, Ningbo, Taizhou, Nanning and Beijing). Estimated primary completion 2027-04. <b>No results have been read out publicly to date.</b>",
       "sponsor": "Second Affiliated Hospital, Zhejiang University, School of Medicine (China, investigator-initiated)"
+    }
+  },
+  {
+    "nct": "NCT02315027",
+    "drug": "鞘內自體間質幹細胞（MSC）",
+    "mechanism": "自體脂肪 MSC，鞘內注射（劑量遞增與頻次探索）",
+    "phase": "Ph1/2",
+    "status": "主動掃描新發現（此前未在本平台登錄）。<b>已停止收案、試驗進行中</b>，2012/10 啟動，實收30人，設計涵蓋多種劑量與給藥頻次（單次、雙次、每半年10次等），估計主要完成日2027/03。與本站已收錄之同機構後續試驗（NCT05167721，Ph2隨機雙盲適應性設計）屬同一治療路線之不同階段，本試驗性質上較早、較小規模，<b>尚未見公開療效結果</b>。",
+    "sponsor": "Mayo Clinic",
+    "cell": true,
+    "primary": "2027-03",
+    "url": "https://clinicaltrials.gov/study/NCT02315027",
+    "en": {
+      "drug": "Intrathecal autologous mesenchymal stem cells",
+      "mechanism": "Autologous adipose MSC, intrathecal (dose- and frequency-escalation)",
+      "phase": "Ph1/2",
+      "status": "Newly surfaced by active scanning (not previously logged on this platform). <b>Active, not recruiting</b>; started 2012/10 with 30 participants actually enrolled; design spans several dose and dosing-frequency arms (single dose, two doses, ten doses every six months, etc.); estimated primary completion 2027/03. This is an earlier, smaller-scale precursor to this site's already-logged follow-on trial from the same institution (NCT05167721, a Ph2 randomised, double-blind, adaptive design); <b>no public efficacy results have been reported yet</b>.",
+      "sponsor": "Mayo Clinic"
     }
   }
 ]
